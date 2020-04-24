@@ -84,7 +84,7 @@ author:
   avatar           : "kb_crop.jpg"
   bio              : "Engineer by profession, Researcher by curiosity, Educator by passion."
   location         : "Houghton, MI and Ann Arbor, MI"
-  employer         : Michigan Technological University and University of Michigan
+  employer         : Michigan Technological University and \n University of Michigan
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oY-EaKIAAAAJ"
   email            :
