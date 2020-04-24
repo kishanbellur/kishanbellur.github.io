@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kishan Bellur"
 title_separator          : "-"
-name                     : &name "Kishan Bellur"
+name                     : &name ""
 description              : &description "Engineer by profession, Researcher by curiosity, Educator by passion."
 url                      : https://kishanbellur.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
