@@ -83,7 +83,7 @@ author:
   name             : "Kishan Bellur"
   avatar           : "kb_crop.jpg"
   bio              : "Engineer by profession, Researcher by curiosity, Educator by passion."
-  location         : "Houghton, MI / Ann Arbor, MI"
+  location         : "Houghton, MI and Ann Arbor, MI"
   employer         : Michigan Technological University and University of Michigan
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oY-EaKIAAAAJ"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
