@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Kishan Bellur"
-  avatar           : "kb_crop.png"
+  avatar           : "images/kb_crop.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Houghton, MI / Ann Arbor, MI"
   employer         : Michigan Technological University and University of Michigan
   pubmed           : 
-  googlescholar    : "https://www.researchgate.net/profile/Kishan_Bellur?ev=hdr_xprf"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=oY-EaKIAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Kishan_Bellur?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
