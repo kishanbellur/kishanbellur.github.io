@@ -15,7 +15,7 @@ import glob
 import getorg
 from geopy import Nominatim
 
-g = glob.glob("*.md")
+g = glob.glob("_talks/*.md")
 
 
 geocoder = Nominatim()
@@ -23,6 +23,7 @@ location_dict = {}
 location = ""
 permalink = ""
 title = ""
+venue = ""
 
 
 for file in g:
@@ -33,14 +34,25 @@ for file in g:
             lines_trim = lines[loc_start:]
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
-                            
+        if lines.find('title: "') > 1:
+            loc_start = lines.find('title: "') + 8
+            lines_trim = lines[loc_start:]
+            loc_end = lines_trim.find('"')
+            title = lines_trim[:loc_end]
+        if lines.find('venue: "') > 1:
+            loc_start = lines.find('venue: "') + 8
+            lines_trim = lines[loc_start:]
+            loc_end = lines_trim.find('"')
+            venue = lines_trim[:loc_end]
            
-        location_dict[location] = geocoder.geocode(location)
-        print(location, "\n", location_dict[location])
+        key = str(venue + " | " + location)                 
+           
+        location_dict[key] = geocoder.geocode(location)
+        print(key, "\n", location_dict[key])
 
 
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
+getorg.orgmap.output_html_cluster_map(location_dict, folder_name="./talkmap", hashed_usernames=False)
 
 
 

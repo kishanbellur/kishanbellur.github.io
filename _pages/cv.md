@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Milwaukee School of Engineering, 2013
+* M.S. in Mechanical Engineering, Michigan Technological University, 2016
+* Ph.D in Mechanical Engineering, Michigan Technological University, 2018 
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,6 +26,15 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+Honors and awards
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
   
 Skills
 ======
@@ -35,6 +44,13 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Grants
+======
+* J. S. Allen and K. Bellur, “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
+* W. Schultz, K. Bellur and A. Gronewald, “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
+
+
 
 Publications
 ======
