@@ -29,12 +29,16 @@ Experience
 
 Honors and awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Best poster award, American Society of Gravitational and Space Research (ASGSR) annual meeting, 2018.
+* 1 st place award for best oral presentation, Graduate Research Colloquium, Michigan Tech, 2018.
+* Dean's award for outstanding scholarship, Michigan Tech, 2018.
+* Doctoral finishing fellowship, Michigan Tech, 2018.
+* Winnikow fellowship, Michigan Tech, 2016-2017.
+* T.H.K. Frederking Space Cryogenics Workshop Student Scholarship, 2017.
+* American Society of Gravitational and Space Research (ASGSR) annual meeting travel award, 2017.
+* 2 nd place award, 3 Minute Thesis (3MT) competition, Michigan Tech, 2017.
+* 3 rd place award for best poster, ACS UPLS Student Research Symposium, 2017.
+* Multiple travel grant awards from the Graduate Student Government at Michigan Tech, 2016-2017.
   
 Skills
 ======
