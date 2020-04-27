@@ -13,7 +13,9 @@ Education
 ======
 * B.S. in Mechanical Engineering, Milwaukee School of Engineering, 2013
 * M.S. in Mechanical Engineering, Michigan Technological University, 2016
+  * Advisors: Jeffrey Allen and Chang Kyoung Choi
 * Ph.D in Mechanical Engineering, Michigan Technological University, 2018 
+  * Advisors: Jeffrey Allen and Chang Kyoung Choi
 
 Experience
 ======
@@ -39,7 +41,19 @@ Honors and awards
 * 2 nd place award, 3 Minute Thesis (3MT) competition, Michigan Tech, 2017.
 * 3 rd place award for best poster, ACS UPLS Student Research Symposium, 2017.
 * Multiple travel grant awards from the Graduate Student Government at Michigan Tech, 2016-2017.
-  
+
+Grants
+======
+* J. S. Allen and K. Bellur, “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
+* W. Schultz, K. Bellur and A. Gronewald, “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
+
+Dissertations and reports
+======
+* K. Bellur, “An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by
+Examining Cryogenic Propellants”, Michigan Technological University, MS report, 2016.
+* K. Bellur, “A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants”,
+Michigan Technological University, PhD dissertation, 2018.
+
 Skills
 ======
 * Skill 1
@@ -48,13 +62,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Grants
-======
-* J. S. Allen and K. Bellur, “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
-* W. Schultz, K. Bellur and A. Gronewald, “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
-
-
 
 Publications
 ======
