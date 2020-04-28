@@ -22,39 +22,39 @@ Education
 Experience
 ======
 * **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present
-  * Sub-pixel edge detection for smooth surfaces.
-  * Great lakes evaporation measurement and modeling
+  * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>
+  * <font size="2"> Great lakes evaporation measurement and modeling. </font>
 
 * **Postdoctoral Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 10/2018 – Present
-  * Liquid-vapor phase change in micro-gravity.
-  * Molecular dynamics modeling of liquid-vapor phase change.
-  * Droplet contact mechanics experiments.
+  * <font size="2"> Liquid-vapor phase change in micro-gravity. </font>
+  * <font size="2"> Molecular dynamics modeling of liquid-vapor phase change. </font>
+  * <font size="2"> Droplet contact mechanics experiments. </font>
 
 * **Instructor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2019 – 04/2019
-  * Primary instructor for a 4 credit, 3 year undergraduate class on “internal flow”, combining concepts from both fluid mechanics and heat transfer. (MEEM 3201)
+  * <font size="2"> Primary instructor for a 4 credit, 3 year undergraduate class on “internal flow”, combining concepts from both fluid mechanics and heat transfer. (MEEM 3201) </font>
 
 * **Summer Youth Program Instructor** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 06/2018
-  * Developed and taught a 1 week “hands-on” course on rocket propulsion.
+  * <font size="2"> Developed and taught a 1 week “hands-on” course on rocket propulsion. </font>
 
 * **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
-  * Determination of phase change coefficients for cryogenic propellants.
+  * <font size="2"> Determination of phase change coefficients for cryogenic propellants. </font>
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 09/2017 – 12/2017
-  * Mechanical Engineering Laboratory instructor (MEEM 3000).
+  * <font size="2"> Mechanical Engineering Laboratory instructor (MEEM 3000). </font>
 
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2017 – 09/2017
-  * SPR microscopy/ Ellipsometry of water transport in thin ionomer films.
+  * <font size="2"> SPR microscopy/ Ellipsometry of water transport in thin ionomer films. </font>
 
 * **Winnikow Fellow** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2016 – 05/2017
-  * Modeling of phase change experiments.
+  * <font size="2"> Modeling of phase change experiments. </font>
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
-  * Mechanical Engineering Laboratory instructor (MEEM 2911).
+  * <font size="2">  Mechanical Engineering Laboratory instructor (MEEM 2911). </font>
 
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
   * <font size="2"> Cryo-Neutron imaging phase change experiments. </font>
 
-* **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
+* **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
   * <font size="2"> Developed models to predict hydraulic system performance. </font>
 
 Honors and awards
