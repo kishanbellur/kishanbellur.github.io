@@ -45,7 +45,7 @@ Experience
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2017 – 09/2017
   * <font size="2"> SPR microscopy/ Ellipsometry of water transport in thin ionomer films. </font>
 
-* **Winnikow Fellow** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2016 – 05/2017
+* **Winnikow Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2016 – 05/2017
   * <font size="2"> Modeling of phase change experiments. </font>
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
