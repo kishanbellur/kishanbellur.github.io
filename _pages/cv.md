@@ -13,10 +13,10 @@ Education
 ======
 * B.S. in Mechanical Engineering, *Milwaukee School of Engineering*, 2013
 * M.S. in Mechanical Engineering, *Michigan Technological University*, 2016
-  * Report: An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by Examining Cryogenic Propellants
+  * Report: [An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by Examining Cryogenic Propellants](https://kishanbellur.github.io/files/bellur_2016c.pdf)
   * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
 * Ph.D in Mechanical Engineering, *Michigan Technological University*, 2018 
-  * Dissertation: A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants
+  * Dissertation: [A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants](https://kishanbellur.github.io/files/bellur_2018.pdf)
   * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
 
 Experience
