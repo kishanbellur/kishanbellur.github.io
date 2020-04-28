@@ -31,7 +31,7 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* 01/2016 – 05/2016: &nmsp; Graduate Teaching Assistant
+* 01/2016 – 05/2016: &emsp;(4 x &nbsp;) Graduate Teaching Assistant
   * *Michigan Technological University*.
   * • Mechanical Engineering Laboratory instructor.
 
