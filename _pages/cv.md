@@ -21,28 +21,28 @@ Education
 
 Experience
 ======
-* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *University of Michigan* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present  
-   * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>  
+* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *University of Michigan* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present
+   * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>
    * <font size="2"> Great lakes evaporation measurement and modeling. </font>
 
-* **Postdoctoral Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 10/2018 – Present
+* **Postdoctoral Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 10/2018 – Present
   * <font size="2"> Liquid-vapor phase change in micro-gravity. </font>
   * <font size="2"> Molecular dynamics modeling of liquid-vapor phase change. </font>
   * <font size="2"> Droplet contact mechanics experiments. </font>
 
-* **Instructor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2019 – 04/2019
+* **Instructor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2019 – 04/2019
   * <font size="2"> Primary instructor for a 4 credit, 3 year undergraduate class on “internal flow”, combining concepts from both fluid mechanics and heat transfer. </font>
 
 * **Summer Youth Program Instructor** &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 06/2018
   * <font size="2"> Developed and taught a 1 week “hands-on” course on rocket propulsion. </font>
 
-* **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
+* **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
   * <font size="2"> Determination of phase change coefficients for cryogenic propellants. </font>
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 09/2017 – 12/2017
   * <font size="2"> Mechanical Engineering Laboratory instructor. </font>
 
-* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 05/2017 – 09/2017
+* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; 05/2017 – 09/2017
   * <font size="2"> SPR microscopy/ Ellipsometry of water transport in thin ionomer films. </font>
 
 * **Winnikow Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 05/2016 – 05/2017
@@ -51,7 +51,7 @@ Experience
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
   * <font size="2">  Mechanical Engineering Laboratory instructor. </font>
 
-* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
+* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; 01/2014 – 12/2015: 
   * <font size="2"> Cryo-Neutron imaging phase change experiments. </font>
 
 * **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
@@ -75,17 +75,6 @@ Grants
 * J. S. Allen and K. Bellur, “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
 * W. Schultz, K. Bellur and A. Gronewald, “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
 
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -107,3 +96,12 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
