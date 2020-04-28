@@ -31,16 +31,13 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* 01/2016 – 05/2016: &emsp; &emsp; &emsp; &emsp; Graduate Teaching Assistant
-  * *Michigan Technological University*.
+* Graduate Teaching Assistant &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
   * • Mechanical Engineering Laboratory instructor.
 
-* 01/2014 – 12/2015: &emsp; &emsp; &emsp; &emsp; Graduate Research Assistant
-  * *Michigan Technological University*.
+* Graduate Research Assistant &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
   * Cryo-Neutron imaging phase change experiments.
 
-* 03/2013 – 08/2013: &emsp; &emsp; &emsp; &emsp; Graduate Research Assistant Hydraulics Engineer
-  * *The Raymond Corporation*.
+* Hydraulics Engineer &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
   * Developed models to predict hydraulic system performance.
 
 Honors and awards
