@@ -51,9 +51,9 @@ Experience
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
   * Mechanical Engineering Laboratory instructor (MEEM 2911).
 
+
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
   * Cryo-Neutron imaging phase change experiments.
-
 <p>&nbsp;</p>
 
 * **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
