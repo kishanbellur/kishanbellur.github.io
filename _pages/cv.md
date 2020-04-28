@@ -31,7 +31,11 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* 01/2014 – 12/2015: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+* 01/2016 – 05/2016: &nmsp; Graduate Teaching Assistant
+  * *Michigan Technological University*.
+  * • Mechanical Engineering Laboratory instructor.
+
+* 01/2014 – 12/2015: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Graduate Research Assistant
   * *Michigan Technological University*.
   * Cryo-Neutron imaging phase change experiments.
 
