@@ -17,18 +17,18 @@ Education
   * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
 * Ph.D in Mechanical Engineering, *Michigan Technological University*, 2018 
   * Dissertation: A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants
-  * Advisors: Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
+  * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
 
 Experience
 ======
-* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present
-   * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>
-   * <font size="2"> Great lakes evaporation measurement and modeling. </font>
+* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; * University of Michigan* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present
+#   * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>
+#   * <font size="2"> Great lakes evaporation measurement and modeling. </font>
 
 * **Postdoctoral Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 10/2018 – Present
-  * <font size="2"> Liquid-vapor phase change in micro-gravity. </font>
-  * <font size="2"> Molecular dynamics modeling of liquid-vapor phase change. </font>
-  * <font size="2"> Droplet contact mechanics experiments. </font>
+#  * <font size="2"> Liquid-vapor phase change in micro-gravity. </font>
+#  * <font size="2"> Molecular dynamics modeling of liquid-vapor phase change. </font>
+#  * <font size="2"> Droplet contact mechanics experiments. </font>
 
 * **Instructor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2019 – 04/2019
   * <font size="2"> Primary instructor for a 4 credit, 3 year undergraduate class on “internal flow”, combining concepts from both fluid mechanics and heat transfer. (MEEM 3201) </font>
