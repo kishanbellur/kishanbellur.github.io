@@ -54,8 +54,10 @@ Experience
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
   * Cryo-Neutron imaging phase change experiments.
 
+<p>&nbsp;</p>
+
 * **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
-  * <font size="4"> Developed models to predict hydraulic system performance. </font>
+  * <font size="3"> Developed models to predict hydraulic system performance. </font>
 
 Honors and awards
 ======
