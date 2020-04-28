@@ -51,7 +51,7 @@ Experience
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
   * <font size="2">  Mechanical Engineering Laboratory instructor. </font>
 
-* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; 01/2014 – 12/2015: 
+* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; 01/2014 – 12/2015 
   * <font size="2"> Cryo-Neutron imaging phase change experiments. </font>
 
 * **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; 03/2013 – 08/2013
@@ -72,8 +72,8 @@ Honors and awards
 
 Grants
 ======
-* J. S. Allen and K. Bellur, “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
-* W. Schultz, K. Bellur and A. Gronewald, “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
+* Allen, J. S. and Bellur, K., “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
+* Schultz, W., Bellur, K., and Gronewald, A., “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
 
 Publications
 ======
