@@ -31,11 +31,11 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Graduate Research Assistant: 			01/2014 – 12/2015
+* Graduate Research Assistant:                  01/2014 – 12/2015
   * *Michigan Technological University*.
   * Cryo-Neutron imaging phase change experiments.
 
-* Hydraulics Engineer: 				03/2013 – 08/2013
+* Hydraulics Engineer:                          03/2013 – 08/2013
   * *The Raymond Corporation*.
   * Developed models to predict hydraulic system performance.
 
