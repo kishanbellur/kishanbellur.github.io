@@ -13,8 +13,10 @@ Education
 ======
 * B.S. in Mechanical Engineering, Milwaukee School of Engineering, 2013
 * M.S. in Mechanical Engineering, Michigan Technological University, 2016
+  * MS Report: An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by Examining Cryogenic Propellants
   * Advisors: Jeffrey Allen and Chang Kyoung Choi
 * Ph.D in Mechanical Engineering, Michigan Technological University, 2018 
+  * PhD Dissertation: A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants
   * Advisors: Jeffrey Allen and Chang Kyoung Choi
 
 Experience
@@ -28,6 +30,14 @@ Experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* Graduate Research Assistant: 			01/2014 – 12/2015
+  * *Michigan Technological University*.
+  * Cryo-Neutron imaging phase change experiments.
+
+* Hydraulics Engineer: 				03/2013 – 08/2013
+  * *The Raymond Corporation*.
+  * Developed models to predict hydraulic system performance.
 
 Honors and awards
 ======
@@ -47,12 +57,7 @@ Grants
 * J. S. Allen and K. Bellur, “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
 * W. Schultz, K. Bellur and A. Gronewald, “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
 
-Dissertations and reports
-======
-* K. Bellur, “An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by
-Examining Cryogenic Propellants”, Michigan Technological University, MS report, 2016.
-* K. Bellur, “A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants”,
-Michigan Technological University, PhD dissertation, 2018.
+
 
 Skills
 ======
