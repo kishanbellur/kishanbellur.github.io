@@ -21,8 +21,8 @@ Education
 
 Experience
 ======
-* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; * University of Michigan* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present
-   * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>
+* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; * University of Michigan* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present  
+   * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>  
    * <font size="2"> Great lakes evaporation measurement and modeling. </font>
 
 * **Postdoctoral Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 10/2018 – Present
