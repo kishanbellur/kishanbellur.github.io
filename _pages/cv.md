@@ -14,10 +14,10 @@ Education
 * B.S. in Mechanical Engineering, Milwaukee School of Engineering, 2013
 * M.S. in Mechanical Engineering, Michigan Technological University, 2016
   * MS Report: An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by Examining Cryogenic Propellants
-  * Advisors: Jeffrey Allen and Chang Kyoung Choi
+  * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi] (https://www.mtu.edu/mechanical/people/faculty/choi/)
 * Ph.D in Mechanical Engineering, Michigan Technological University, 2018 
   * PhD Dissertation: A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants
-  * Advisors: Jeffrey Allen and Chang Kyoung Choi
+  * Advisors: Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi] (https://www.mtu.edu/mechanical/people/faculty/choi/)
 
 Experience
 ======
@@ -31,11 +31,11 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Graduate Research Assistant: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 01/2014 – 12/2015
+* 01/2014 – 12/2015: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   * *Michigan Technological University*.
   * Cryo-Neutron imaging phase change experiments.
 
-* Hydraulics Engineer: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 03/2013 – 08/2013
+* 03/2013 – 08/2013: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Graduate Research Assistant Hydraulics Engineer
   * *The Raymond Corporation*.
   * Developed models to predict hydraulic system performance.
 
