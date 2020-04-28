@@ -36,7 +36,7 @@ Experience
 * **Summer Youth Program Instructor** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 06/2018
   * <font size="2"> Developed and taught a 1 week “hands-on” course on rocket propulsion. </font>
 
-* **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
+* **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
   * <font size="2"> Determination of phase change coefficients for cryogenic propellants. </font>
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 09/2017 – 12/2017
@@ -45,7 +45,7 @@ Experience
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2017 – 09/2017
   * <font size="2"> SPR microscopy/ Ellipsometry of water transport in thin ionomer films. </font>
 
-* **Winnikow Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2016 – 05/2017
+* **Winnikow Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2016 – 05/2017
   * <font size="2"> Modeling of phase change experiments. </font>
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
@@ -54,7 +54,7 @@ Experience
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
   * <font size="2"> Cryo-Neutron imaging phase change experiments. </font>
 
-* **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
+* **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
   * <font size="2"> Developed models to predict hydraulic system performance. </font>
 
 Honors and awards
