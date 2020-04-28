@@ -21,7 +21,7 @@ Education
 
 Experience
 ======
-* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *University of Michigan* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present
+* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *University of Michigan* &emsp; &emsp; 09/2019 – Present
    * <font size="2"> Sub-pixel edge detection for smooth surfaces. </font>
    * <font size="2"> Great lakes evaporation measurement and modeling. </font>
 
@@ -36,7 +36,7 @@ Experience
 * **Summer Youth Program Instructor** &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 06/2018
   * <font size="2"> Developed and taught a 1 week “hands-on” course on rocket propulsion. </font>
 
-* **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
+* **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
   * <font size="2"> Determination of phase change coefficients for cryogenic propellants. </font>
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 09/2017 – 12/2017
@@ -54,7 +54,7 @@ Experience
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Tech.* &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; 01/2014 – 12/2015: 
   * <font size="2"> Cryo-Neutron imaging phase change experiments. </font>
 
-* **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
+* **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; 03/2013 – 08/2013
   * <font size="2"> Developed models to predict hydraulic system performance. </font>
 
 Honors and awards
