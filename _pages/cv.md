@@ -14,30 +14,21 @@ Education
 * B.S. in Mechanical Engineering, Milwaukee School of Engineering, 2013
 * M.S. in Mechanical Engineering, Michigan Technological University, 2016
   * MS Report: An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by Examining Cryogenic Propellants
-  * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi] (https://www.mtu.edu/mechanical/people/faculty/choi/)
+  * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
 * Ph.D in Mechanical Engineering, Michigan Technological University, 2018 
   * PhD Dissertation: A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants
-  * Advisors: Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi] (https://www.mtu.edu/mechanical/people/faculty/choi/)
+  * Advisors: Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Graduate Teaching Assistant &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
+* **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
   * • Mechanical Engineering Laboratory instructor.
 
-* Graduate Research Assistant &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
+* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
   * Cryo-Neutron imaging phase change experiments.
 
-* Hydraulics Engineer &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
+* **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
   * Developed models to predict hydraulic system performance.
 
 Honors and awards
