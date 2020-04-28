@@ -57,7 +57,7 @@ Experience
 <p>&nbsp;</p>
 
 * **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
-  * <font size="3"> Developed models to predict hydraulic system performance. </font>
+  * <font size="2"> Developed models to predict hydraulic system performance. </font>
 
 Honors and awards
 ======
