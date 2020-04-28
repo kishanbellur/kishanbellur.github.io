@@ -11,19 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, Milwaukee School of Engineering, 2013
-* M.S. in Mechanical Engineering, Michigan Technological University, 2016
-  * MS Report: An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by Examining Cryogenic Propellants
+* B.S. in Mechanical Engineering, *Milwaukee School of Engineering*, 2013
+* M.S. in Mechanical Engineering, *Michigan Technological University*, 2016
+  * Report: An Assessment of the Validity of the Kinetic Model for Liquid-Vapor Phase Change by Examining Cryogenic Propellants
   * Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
-* Ph.D in Mechanical Engineering, Michigan Technological University, 2018 
-  * PhD Dissertation: A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants
+* Ph.D in Mechanical Engineering, *Michigan Technological University*, 2018 
+  * Dissertation: A New Technique to Determine Accommodation Coefficients of Cryogenic Propellants
   * Advisors: Advisors: [Jeffrey Allen](https://www.mtu.edu/mechanical/people/faculty/allen/) and [Chang Kyoung Choi](https://www.mtu.edu/mechanical/people/faculty/choi/)
 
 Experience
 ======
+* **Visiting Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 09/2019 – Present
+  * Sub-pixel edge detection for smooth surfaces.
+  * Great lakes evaporation measurement and modeling
+
+* **Postdoctoral Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 10/2018 – Present
+  * Liquid-vapor phase change in micro-gravity.
+  * Molecular dynamics modeling of liquid-vapor phase change.
+  * Droplet contact mechanics experiments.
+
+* **Instructor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2019 – 04/2019
+  * Primary instructor for a 4 credit, 3 year undergraduate class on “internal flow”, combining concepts from both fluid mechanics and heat transfer. (MEEM 3201)
+
+* **Summer Youth Program Instructor** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 06/2018
+  * Developed and taught a 1 week “hands-on” course on rocket propulsion.
+
+* **Doctoral Finishing Fellow** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2018 – 05/2018
+  * Determination of phase change coefficients for cryogenic propellants.
+
+* **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 09/2017 – 12/2017
+  * Mechanical Engineering Laboratory instructor (MEEM 3000).
+
+* **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2017 – 09/2017
+  * SPR microscopy/ Ellipsometry of water transport in thin ionomer films.
+
+* **Winnikow Fellow** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 05/2016 – 05/2017
+  * Modeling of phase change experiments.
 
 * **Graduate Teaching Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2016 – 05/2016
-  * • Mechanical Engineering Laboratory instructor.
+  * Mechanical Engineering Laboratory instructor (MEEM 2911).
 
 * **Graduate Research Assistant** &emsp; &emsp; &emsp; &emsp; *Michigan Technological University* &emsp; &emsp; &emsp; &emsp; 01/2014 – 12/2015: 
   * Cryo-Neutron imaging phase change experiments.
