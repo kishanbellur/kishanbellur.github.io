@@ -55,7 +55,7 @@ Experience
   * Cryo-Neutron imaging phase change experiments.
 
 * **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; &emsp; &emsp; &emsp; 03/2013 – 08/2013
-  * Developed models to predict hydraulic system performance.
+  * ##### Developed models to predict hydraulic system performance.
 
 Honors and awards
 ======
