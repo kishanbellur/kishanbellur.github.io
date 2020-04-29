@@ -92,16 +92,52 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Appearances in popular media
 ======
-* Currently signed in to 43 different slack teams
+* Research featured in “Fundamental Questions”, MTU ME-EM annual report, 2016-2017.
+
+Membership
+======
+* American Society of Gravitational and Space Research (ASGSR) 
+* Cryogenics Society of America (CSA) 
+* American Society of Thermal and Fluids Engineering (ASTFE)
+
+Service
+======
+* Senior Capstone Design Review Panelist &emsp; &emsp; 2014 – 2017
+* Graduate Orientation Facilitator &emsp; &emsp; &emsp; 2017
+* MTU Design Expo Oral/Poster Presentation Judge &emsp; 2014 – 2016
+* Engineers Without Borders, Guatemala &emsp; &emsp; 2013 
+
+Review Activities
+======
+* Journals
+  * Cryogenics, Nano, Journal of Thermophysics and Heat Transfer.
+* Conferences
+  * International Conference on Computational Heat, Mass and Momentum Transfer (ICCHMT 2019)
+* Grant Proposals
+  * 5 NASA grant proposals
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Optics
+  * Ellipsometry
+  * Interferometry
+  * Surface Plasmon Resonance Microscopy
+* Cryogenics
+  * Cryogenic fluid handling
+  * Cryostat operation
+* Neutron Techniques
+  * Neutron Imaging
+  * Small Angle Neutron Scattering
+* Computing
+  * HPC
+  * MATLAB
+  * BASH
+  * PYTHON
+  * LABVIEW
+  * C++
+  * ANSYS FLUENT
+  * LAMMPS
+  * Image processing
