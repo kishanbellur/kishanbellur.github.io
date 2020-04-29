@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
+    "Graduate Research Colloquium, Michigan Tech | Houghton, MI, USA",
+    46.8591287,
+    -88.7774734
+  ],
+  [
+    "26th Space Cryogenics Workshop | Phoenix, AZ, USA",
+    33.4484367,
+    -112.0741417
+  ],
+  [
+    "ASME-IMECE | Montreal, ON, Canada",
+    43.667986299999995,
+    -79.373456427228
+  ],
+  [
+    "UC-Berkeley Institute for Testing Science | Berkeley CA, USA",
     37.8708393,
-    -122.2728638
-  ],
-  [
-    "London, UK",
-    51.5073219,
-    -0.1276473
-  ],
-  [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    -122.2728639
   ]
 ];
