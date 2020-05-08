@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-1
 venue: "Mechanical Engineering - Engineering Mechanics, Michigan Technological University"
-date: 2014-01-01
+date: 2019-05-01
 location: "Houghton, MI"
 ---
 
