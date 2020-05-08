@@ -8,4 +8,4 @@ date: 2014-11-14
 location: "Montreal, ON, Canada"
 ---
 
-The presentation focused on the setup and preliminary images from a feasibility campaign. This was the first time neutron images of evaporating liquid hydrogen was presented.
+The presentation focused on the setup and preliminary images from a feasibility campaign. This was the first time neutron images of evaporating liquid hydrogen was presented. The presentation resulted in a [journal article](http://kishanbellur.github.io/files/bellur_2015.pdf) published in the [Journal of Heat Transgfer](https://journaltool.asme.org/home/JournalDescriptions.cfm?JournalID=10#
