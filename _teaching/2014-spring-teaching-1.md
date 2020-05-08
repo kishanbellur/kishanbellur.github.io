@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Fluid Mechanics and Heat Transfer: Internal Flow"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/2019-spring-1
+venue: "Mechanical Engineering - Engineering Mechanics, Michigan Technological University"
 date: 2014-01-01
-location: "City, Country"
+location: "Houghton, MI"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
