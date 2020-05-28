@@ -17,17 +17,17 @@ momentum and heat transfer.
 	* Fluid Statics, manometry and pressure.
   * Control Volume Analysis
 	* Conservation laws - mass, momentum and energy.
-	* Reynolds Transport Theorem
-	* Bernoulli equation & Applications
+	* Reynolds transport theorem
+	* Bernoulli equation & applications
   * Steady State Conduction Heat Transfer
-	* Boundary and Initial Conditions
-	* Thermal Resistance Networks
+	* Boundary and initial conditions
+	* Thermal resistance networks
 	* Adding dimensions and changing coordinate systems
   * Dimensional Analysis
-	* Buckingham Pi Theorem
+	* Buckingham Pi theorem
 	* Scaling experimental data
   * Transient Heat Transfer
-	* Lumped Mass Analysis & Biot number
+	* Lumped mass analysis & Biot number
   * Internal flow
 	* Entrance length, fully-developed flow
 	* Pressure and shear stress
