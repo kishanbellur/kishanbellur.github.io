@@ -11,11 +11,10 @@ location: "Houghton, MI"
 In the spring semester of 2019, I taught a 4 credit junior level undergraduate course in thermo-fluids. This unique course focused on fundamentals and applications of fluid mechanics and heat transfer to fluid flow in ducts and pipes (internal flow). Concepts from fluid mechanics and heat transfer were taught simultaneously in an integrated thermal-fluids approach. Course topics included:
 
   * Conservation of mass, energy and momentum via control volume theory.
-  * Dimensional analysis and
-similitude,
-  * One-dimensional steady unsteady heat conduction
-  * Laminar and turbulent pipe flow and pipe networks
-  * Convective heat transfer with an emphasis on internal flows
+  * Dimensional analysis and similitude.
+  * One-dimensional steady unsteady heat conduction.
+  * Laminar and turbulent pipe flow and pipe networks.
+  * Convective heat transfer with an emphasis on internal flows.
   * Simple heat exchanger analysis.
 
   * Introduction to fluids, fluid flow and Heat Transfer
