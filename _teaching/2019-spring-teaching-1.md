@@ -14,5 +14,5 @@ In the spring semester of 2019, I taught MEEM 3201, a 4 credit junior level unde
       * Unit systems, 
       * Thermodynamic and transport properties of
 momentum and heat transfer.
-	*Fluid Statics, Manometry and Pressure
+	* Fluid Statics, Manometry and Pressure
 
