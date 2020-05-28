@@ -8,13 +8,11 @@ date: 2019-05-01
 location: "Houghton, MI"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In the spring semester of 2019, I taught MEEM 3201, a 4 credit junior level undergraduate course in thermo-fluids. This unique course combines aspects from fluid mechanics and heat transfer. The course is geared towards a comprehensive approach to model, analyze and design pipe/duct flow. Course topics included:
 
-Heading 1
-======
+  * Introduction to fluids, fluid flow and Heat Transfer
+      * Unit systems, 
+      * Thermodynamic and transport properties of
+momentum and heat transfer.
+	*Fluid Statics, Manometry and Pressure
 
-Heading 2
-======
-
-Heading 3
-======
