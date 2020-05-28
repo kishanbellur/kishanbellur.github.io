@@ -8,7 +8,7 @@ date: 2019-05-01
 location: "Houghton, MI"
 ---
 
-In the spring semester of 2019, I taught MEEM 3201, a 4 credit junior level undergraduate course in thermo-fluids. This unique course combines aspects from fluid mechanics and heat transfer. The course is geared towards a comprehensive approach to model, analyze and design pipe/duct flow. Course topics included:
+In the spring semester of 2019, I taught a 4 credit junior level undergraduate course in thermo-fluids. This unique course focused on fundamentals and applications of fluid mechanics and heat transfer to fluid flow in ducts and pipes (internal flow). Concepts from fluid mechanics and heat transfer were taught simultaneously in an integrated thermal-fluids approach. Course topics included:
 
   * Introduction to fluids, fluid flow and Heat Transfer
 	* Unit systems. 
@@ -31,10 +31,8 @@ momentum and heat transfer.
   * Internal flow
 	* Entrance length, fully-developed flow
 	* Pressure and shear stress
-	* Laminar pipe flow from dimensional analysis and conservation of energy
-	* Turbulent pipe flow
-          * major losses & Moody diagram
-          * minor losses & loss coefficients
+	* Laminar pipe flow
+	* Turbulent pipe flow (major and minor losses, moody diagram, loss coefficients)
 	* Parallel pipe flow
   * Internal flow with convective heat transfer
 	* Thermal and inertial entrance lengths, Re, Nu, Pr
