@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently a Postdoctoral Scholar in [Mechanical Engineering - Engineering Mechanics](https://www.mtu.edu/mechanical/) at [Michigan Technological University](https://www.mtu.edu/) and a Visiting Scholar at the [University of Michigan](https://umich.edu/), Ann Arbor. Feel free to look around.
+Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently a Postdoctoral Scholar in [Mechanical Engineering - Engineering Mechanics](https://www.mtu.edu/mechanical/) at [Michigan Technological University](https://www.mtu.edu/) and a Visiting Scholar at the [University of Michigan](https://umich.edu/), Ann Arbor.
 
 Bio
 ------
