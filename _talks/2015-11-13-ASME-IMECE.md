@@ -8,4 +8,4 @@ date: 2015-11-13
 location: "Houston, TX, USA"
 ---
 
-Wettability of hydrogen is investigated through neutron image processing using a conical cell and results discussed. The presentation resulted in a [journal article](http://kishanbellur.github.io/files/konduru_2016.pdf) published in the [Journal of Heat Transgfer](https://journaltool.asme.org/home/JournalDescriptions.cfm?JournalID=10#)
+Wettability of hydrogen is investigated through neutron image processing using a conical cell and results discussed. The presentation resulted in a [journal article](http://kishanbellur.github.io/files/konduru_2016.pdf) published in [Journal of Heat Transfer](https://journaltool.asme.org/home/JournalDescriptions.cfm?JournalID=10#)
