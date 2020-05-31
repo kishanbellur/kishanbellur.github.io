@@ -103,13 +103,6 @@ Membership
 * Cryogenics Society of America (CSA) 
 * American Society of Thermal and Fluids Engineering (ASTFE)
 
-Service
-======
-* Senior Capstone Design Review Panelist &emsp; &emsp; 2014 – 2017
-* Graduate Orientation Facilitator &emsp; &emsp; &emsp; 2017
-* MTU Design Expo Oral/Poster Presentation Judge &emsp; 2014 – 2016
-* Engineers Without Borders, Guatemala &emsp; &emsp; 2013 
-
 Review Activities
 ======
 * Journals
@@ -118,6 +111,21 @@ Review Activities
   * International Conference on Computational Heat, Mass and Momentum Transfer (ICCHMT 2019)
 * Grant Proposals
   * 5 NASA grant proposals
+
+Service
+======
+* Senior Capstone Design Review Panelist &emsp; &emsp; 2014 – 2017
+* Graduate Orientation Facilitator &emsp; &emsp; &emsp; 2017
+* MTU Design Expo Oral/Poster Presentation Judge &emsp; 2014 – 2016
+* Engineers Without Borders, Guatemala &emsp; &emsp; 2013 
+
+Workshops
+======
+* NASA Space Life and Physical Sciences Research and Applications (SLPSRA) Fluid Physics Workshop, Glenn Research Center, Cleveland, OH, October 16-17, 2019.
+* Institute for Mathematics and its Applications (IMA) workshop on “Dynamic Contact Lines: Progress and Opportunities”. University of Minnesota, Minneapolis, MN, March 26-28, 2018.
+* NASA Early Stage Innovation Workshop on “Measuring Accommodation coefficients”, Glenn Research Center, Cleveland, OH, November 20, 2014. 
+
+
 
 Skills
 ======
