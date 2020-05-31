@@ -8,4 +8,4 @@ date: 2019-11-29
 location: "Bangalore, India"
 ---
 
-Invited by Prof. K. T> Vasudevan
+Invited by Prof. K. T Vasudevan
