@@ -126,7 +126,6 @@ Workshops
 * NASA Early Stage Innovation Workshop on “Measuring Accommodation coefficients”, Glenn Research Center, Cleveland, OH, November 20, 2014. 
 
 
-
 Skills
 ======
 * Optics
