@@ -8,8 +8,12 @@ author_profile: true
 
 <H2>Accommodation coefficients of LH2 and LCH4 : Cryo-Neutron Experiments</H2>
 
+{ for post in site.research }
+	{% include archive-single.html }
+{ endfor }
+
 {% for post in site.research %}
-	{% include archive-single.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 
