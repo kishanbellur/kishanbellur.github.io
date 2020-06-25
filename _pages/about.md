@@ -18,9 +18,11 @@ Interests
 ------
 My research is focused on liquid-vapor phase change (evaporation/condensation) and associated interfacial phenomena. He is primarily interested in multi-scale modeling and visualization of transport phenomena at (1) micro-/nano- scales, (2) cryogenic temperatures and (3) reduced-gravity.
 
-My research interest is mainly is focused on liquid-vapor phase change (evaporation/condensation) and associated interfacial phenomena. My research interests include micro-scale thermophysics, liquid-vapor phase change (evaporation/condensation), capillary phenomena, heat and mass transfer, cryogenics, optical characterization, computational fluid dynamics and scientific computing. My unique interests have led me to use / develop novel characterization tools (neutron imaging, interferometry, SANS, SPR microscopy and ellipsometry) to explore different aspects of my research intersts.
+My research interest is mainly is focused on liquid-vapor phase change (evaporation/condensation) and associated interfacial phenomena. My interests include micro-scale thermophysics, capillary phenomena, heat and mass transfer, cryogenics, optical characterization, computational fluid dynamics, data driven modeling, scientific and high performance computing. In short, if theres a liquid-vapor mixture that's either small, cold or in space - I'm interested in it!
 
-I'm currently working on multiple projects on fundamental liquid-vapor phase change both on earth and on the International Space Station. I would love to collaborate with anyone interested in any of the above topics. I'm also passionate about teaching emphasizing on "hands-on" active learning, data analysis and communication and integrated thermo-fluid-sciences. 
+Although most of my work is computational in nature, my unique interests have led me to use / develop novel characterization tools (neutron imaging, interferometry, SANS, SPR microscopy and ellipsometry) to validate models and explore different aspects of my research intersts. I'm currently working on multiple projects on fundamental liquid-vapor phase change both on earth and on the International Space Station. Want to learn more? Explore the different tabs on this website or get in touch with me (email preffered).
+
+I would love to collaborate with anyone interested in any of the above topics. I'm also passionate about teaching emphasizing on "hands-on" active learning, data analysis and communication and integrated thermo-fluid-sciences. 
 
 In my spare time, I like to sample new cuisines, explore the outdoors.
 
