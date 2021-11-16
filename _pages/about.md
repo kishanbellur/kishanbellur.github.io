@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently an adjunct assistant professor in [Mechanical Engineering - Engineering Mechanics](https://www.mtu.edu/mechanical/) at [Michigan Technological University](https://www.mtu.edu/). I'm an assistant professor in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/).
+Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently an assistant professor in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/).
 
 Bio
 ------
