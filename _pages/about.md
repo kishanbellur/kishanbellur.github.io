@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently an adjunct assistant professor in [Mechanical Engineering - Engineering Mechanics](https://www.mtu.edu/mechanical/) at [Michigan Technological University](https://www.mtu.edu/). I will begin a tenure track position as an assistant professor in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/) in August 2021.
+Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently an adjunct assistant professor in [Mechanical Engineering - Engineering Mechanics](https://www.mtu.edu/mechanical/) at [Michigan Technological University](https://www.mtu.edu/). I'm an assistant professor in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/).
 
 Bio
 ------
@@ -18,7 +18,7 @@ Interests
 ------
 My research is mainly focused on liquid-vapor phase change (evaporation/condensation) and associated interfacial phenomena. My specific interests include micro-scale thermophysics, capillary phenomena, heat and mass transfer, cryogenics, optical characterization, computational fluid dynamics, data driven modeling, scientific and high performance computing. In short, if theres a liquid-vapor mixture that's either small, cold or in space - I'm interested in it!
 
-Although most of my work is computational in nature, my unique interests have led me to use / develop novel characterization tools (neutron imaging, interferometry, SANS, SPR microscopy and ellipsometry) to validate models and explore different aspects of my research intersts. I'm currently working on multiple projects on fundamental liquid-vapor phase change both on earth and on the International Space Station. Want to learn more? Explore the different tabs on this website or send me an email at ksbellur@mtu.edu.
+Although most of my work is computational in nature, my unique interests have led me to use / develop novel characterization tools (neutron imaging, interferometry, SANS, SPR microscopy and ellipsometry) to validate models and explore different aspects of my research intersts. I'm currently working on multiple projects on fundamental liquid-vapor phase change both on earth and on the International Space Station. Want to learn more? Explore the different tabs on this website or send me an <a href="mailto:bellurkn@ucmail.uc.edu">email</a>.
 
 I would love to collaborate with anyone interested in any of the above topics. I'm also passionate about teaching emphasizing on "hands-on" active learning, data analysis and communication and integrated thermo-fluid-sciences. 
 
