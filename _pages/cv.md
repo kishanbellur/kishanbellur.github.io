@@ -106,11 +106,9 @@ Membership
 Review Activities
 ======
 * Journals
-  * Cryogenics, Nano, Journal of Thermophysics and Heat Transfer.
+  * Langmuir, Applied Thermal Engineering, Physics of Fluids, Cryogenics, Nano, Fluids, Processes, Journal of Physical Chemistry, Thermal Science and Engineering Process, Environmental Science and Engineering, International Journal of Thermofluids, Journal of Thermophysics and Heat Transfer.
 * Conferences
   * International Conference on Computational Heat, Mass and Momentum Transfer (ICCHMT 2019)
-* Grant Proposals
-  * 5 NASA grant proposals
 
 Service
 ======
@@ -121,9 +119,11 @@ Service
 
 Workshops
 ======
+* Surface Wettability Effects on Phase Change (SWEP) workshop. University of Brighton (virtual meeting). October 8 9, 2021. (Poster Presentation)
+* NSF Workshop on “New Frontie rs of Thermal Transport”, University of Central Florida (virtual meeting), December 14 16, 2020 and January 4 6, 2021. (Poster Presentation)
 * NASA Space Life and Physical Sciences Research and Applications (SLPSRA) Fluid Physics Workshop, Glenn Research Center, Cleveland, OH, October 16-17, 2019.
-* Institute for Mathematics and its Applications (IMA) workshop on “Dynamic Contact Lines: Progress and Opportunities”. University of Minnesota, Minneapolis, MN, March 26-28, 2018.
-* NASA Early Stage Innovation Workshop on “Measuring Accommodation coefficients”, Glenn Research Center, Cleveland, OH, November 20, 2014. 
+* Institute for Mathematics and its Applications (IMA) workshop on “Dynamic Contact Lines: Progress and Opportunities”. University of Minnesota, Minneapolis, MN, March 26-28, 2018. (Poster Presentation)
+* NASA Early Stage Innovation Workshop on “Measuring Accommodation coefficients”, Glenn Research Center, Cleveland, OH, November 20, 2014. (Oral Presentation)
 
 
 Skills
