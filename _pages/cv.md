@@ -77,15 +77,15 @@ Grants
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ol>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Teaching
 ======
