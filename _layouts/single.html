@@ -45,7 +45,7 @@ layout: default
              
         {% if page.citation and page.paperurl %}
           <!--<p>Citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>PDF</u></a></p>-->
-		  <p><a href="{{ post.doi }}"><u> DOI </u></a> &nbsp; <a href="{{ post.paperurl }}"><u> PDF </u></a></p>
+		  <p> {{ page.citation }} <a href="{{ post.doi }}"><u> DOI </u></a> &nbsp; <a href="{{ post.paperurl }}"><u> PDF </u></a></p>
         {% elsif page.citation %}
           <p>Citation: {{ page.citation }} </p>
         {% endif %}
