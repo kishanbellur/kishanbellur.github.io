@@ -57,6 +57,12 @@ Experience
 * **Hydraulics Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *The Raymond Corporation* &emsp; 03/2013 – 08/2013
   * <font size="2"> Developed models to predict hydraulic system performance. </font>
 
+Funding
+======
+* Allen, J. S. and Bellur, K., “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI), 2018-2020, $198K.
+* Bellur, K., "Toward an open-source CFD based evaporation/condensation model without tuning parameters", UC Office of the Provost, 06/2022-08/2022, $3.5K.
+* Bellur, K., Research Launch Award, UC Office of Research, 2022-2023, $2.5K.
+
 Honors and awards
 ======
 * Best poster award, *American Society of Gravitational and Space Research* annual meeting, 2018.
@@ -69,11 +75,6 @@ Honors and awards
 * 2nd place award, 3 Minute Thesis (3MT) competition, &Michigan Tech&, 2017.
 * 3rd place award for best poster, *American Chemical Society* UPLS Student Research Symposium, 2017.
 * Multiple travel grant awards from the Graduate Student Government at *Michigan Tech*, 2016-2017.
-
-Grants
-======
-* Allen, J. S. and Bellur, K., “Testing the equivalence of evaporation and condensation coefficients using the Constrained Vapor Bubble (CVB) data from ISS experiments”, NASA Physical Sciences Informatics (PSI). Role: Co-I. Duration: 2018-2020. Budget: $198K.
-* Schultz, W., Bellur, K., and Gronewald, A., “Rethinking EC scales for measuring evaporation of the Great Lakes”, Graham Sustainability Institute Winter Catalyst Grant. Role: Co-I. Budget: $10K. (pending)
 
 Publications
 ======
@@ -96,6 +97,7 @@ Teaching
 Appearances in popular media
 ======
 * Research featured in “Fundamental Questions”, MTU ME-EM annual report, 2016-2017.
+* Research highlighted and summarized on NASA [webpage](https://www.nasa.gov/feature/nasa-selects-proposals-to-provide-new-insights-from-openly-available-data-0/), 2018
 
 Membership
 ======
@@ -103,19 +105,12 @@ Membership
 * Cryogenics Society of America (CSA) 
 * American Society of Thermal and Fluids Engineering (ASTFE)
 
-Review Activities
+Peer Review
 ======
 * Journals
   * Langmuir, Applied Thermal Engineering, Physics of Fluids, Cryogenics, Nano, Fluids, Processes, Journal of Physical Chemistry, Thermal Science and Engineering Process, Environmental Science and Engineering, International Journal of Thermofluids, Journal of Thermophysics and Heat Transfer.
 * Conferences
   * International Conference on Computational Heat, Mass and Momentum Transfer (ICCHMT 2019)
-
-Service
-======
-* Senior Capstone Design Review Panelist &emsp; &emsp; 2014 – 2017
-* Graduate Orientation Facilitator &emsp; &emsp; &emsp; 2017
-* MTU Design Expo Oral/Poster Presentation Judge &emsp; 2014 – 2016
-* Engineers Without Borders, Guatemala &emsp; &emsp; 2013 
 
 Workshops
 ======
@@ -125,6 +120,12 @@ Workshops
 * Institute for Mathematics and its Applications (IMA) workshop on “Dynamic Contact Lines: Progress and Opportunities”. University of Minnesota, Minneapolis, MN, March 26-28, 2018. (Poster Presentation)
 * NASA Early Stage Innovation Workshop on “Measuring Accommodation coefficients”, Glenn Research Center, Cleveland, OH, November 20, 2014. (Oral Presentation)
 
+Service
+======
+* Senior Capstone Design Review Panelist &emsp; &emsp; 2014 – 2017
+* Graduate Orientation Facilitator &emsp; &emsp; &emsp; 2017
+* MTU Design Expo Oral/Poster Presentation Judge &emsp; 2014 – 2016
+* Engineers Without Borders, Guatemala &emsp; &emsp; 2013 
 
 Skills
 ======
