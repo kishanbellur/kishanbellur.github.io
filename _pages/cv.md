@@ -22,7 +22,7 @@ Education
 Experience
 ======
 * **Assistant Professor** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *University of Cincinnati* &emsp; &emsp; 08/2021 – Present
-   * <font size="2"> Leads the [UC Laboratory for Interfacial Dynamics](https://ceas.uc.edu/research/centers-labs/lab-for-interfacial-dynamics.html) (UCLID) </font>
+   * <font size="2"> Leads the [UC Laboratory for Interfacial Dynamics (UCLID) ](https://ceas.uc.edu/research/centers-labs/lab-for-interfacial-dynamics.html) </font>
 
 * **Postdoctoral Scholar** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; *Michigan Tech.* &emsp; &emsp; &emsp; &emsp; 10/2018 – Present
   * <font size="2"> Liquid-vapor phase change in micro-gravity. </font>
