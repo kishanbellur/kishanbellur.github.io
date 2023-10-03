@@ -2,9 +2,9 @@
 title: "Aerospace Engineering 101"
 collection: talks
 type: "Invited talk"
-permalink: /talks/8/16/19-PLDL_INVITE
+permalink: /talks/2019-08-16-PLDL_INVITE
 venue: "Portage Lake District Library"
-date: 8/16/19
+date: 2019-08-16
 location: "Houghton, MI, USA"
 ---
 
