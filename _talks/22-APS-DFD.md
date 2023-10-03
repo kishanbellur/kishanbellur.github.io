@@ -1,0 +1,11 @@
+---
+title: "Thin film evaporation modeling of the microlayer region in a dewetting water bubble"
+collection: talks
+type: "Poster presentation"
+permalink: /talks/11/21/22-APS-DFD
+venue: "75th Annual Meeting of the American Physical Society Ð Division of Fluid Dynamics (APS DFD)"
+date: 11/21/22
+location: "Indianapolis, IN, USA"
+---
+
+A custom thin-film evaporation model was develoed to describe the microlayer region of a dewetting water bubble. The model incorporates high spatio-temporal resolution film thickness and temperature measurements and shows the mass flux non-uniformity in the microlayer region during the dewetting process.  

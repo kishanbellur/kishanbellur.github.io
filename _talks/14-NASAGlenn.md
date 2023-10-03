@@ -2,9 +2,9 @@
 title: "A new experiment for determining evaporation and condensation coefficients of cryogenic propellants"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2014-11-20-NASAGlenn
+permalink: /talks/11/20/14-NASAGlenn
 venue: "NASA Glenn Research Center"
-date: 2014-11-20
+date: 11/20/14
 location: "Cleveland, OH, USA"
 ---
 

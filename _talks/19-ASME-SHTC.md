@@ -1,0 +1,11 @@
+---
+title: "Thermo-Mechanical Phase Change Stability of Liquid-Vapor Meniscus"
+collection: talks
+type: "Oral presentation"
+permalink: /talks/7/15/19-ASME-SHTC
+venue: "ASME Summer Heat Transfer Conference, AIChE Symposium in Honor of Prof. Peter C. Wayner, Jr. II"
+date: 7/15/19
+location: "Bellevue, WA, USA"
+---
+
+The stability of thin liquid films was discussed from the context of liquid-vapor phase change. A new scaling analysis was presented.
