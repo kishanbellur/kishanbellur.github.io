@@ -135,9 +135,9 @@ var addressPoints = [
     77.590082
   ],
   [
-    "ASME-IMECE | Montreal, ON, Canada",
-    47.2477017,
-    -84.5964062
+    "ASME-IMECE | Montreal, Quebec, Canada",
+    45.5031824,
+    -73.5698065
   ],
   [
     "Portage Lake District Library | Houghton, MI, USA",
