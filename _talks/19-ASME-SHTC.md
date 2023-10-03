@@ -2,9 +2,9 @@
 title: "Thermo-Mechanical Phase Change Stability of Liquid-Vapor Meniscus"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2019-07-15-ASME-SHTC
+permalink: /talks/7/15/19-ASME-SHTC
 venue: "ASME Summer Heat Transfer Conference, AIChE Symposium in Honor of Prof. Peter C. Wayner, Jr. II"
-date: 2019-07-15
+date: 7/15/19
 location: "Bellevue, WA, USA"
 ---
 

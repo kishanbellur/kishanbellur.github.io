@@ -2,9 +2,9 @@
 title: "Neutron Radiography of Condensation and Evaporation of Hydrogen in a Cryogenic Condition"
 collection: talks
 type: "Poster & Oral presentation"
-permalink: /talks/2015-11-13-ASME-IMECE
+permalink: /talks/11/13/15-ASME-IMECE
 venue: "ASME-IMECE"
-date: 2015-11-13
+date: 11/13/15
 location: "Houston, TX, USA"
 ---
 

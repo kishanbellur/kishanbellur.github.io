@@ -2,9 +2,9 @@
 title: "Mass Accommodation Coefficients of Cryogenic Propellants"
 collection: talks
 type: "Poster & Oral presentation"
-permalink: /talks/2018-11-01-ASGSR
+permalink: /talks/11/1/18-ASGSR
 venue: "34th Annual Meeting of the American Society for Gravitational and Space Research, Washington,"
-date: 2018-11-01
+date: 11/1/18
 location: "Washington, DC, USA"
 ---
 

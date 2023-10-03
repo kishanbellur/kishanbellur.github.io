@@ -2,9 +2,9 @@
 title: "Grant Writing as a Graduate Student: Practical Tips and Benefits"
 collection: talks
 type: "Invited talk"
-permalink: /talks/2018-10-16-MTU_INVITE2
+permalink: /talks/10/16/18-MTU_INVITE2
 venue: "Material Science and Engineering Seminar, Michigan Tech."
-date: 2018-10-16
+date: 10/16/18
 location: "Houghton, MI, USA"
 ---
 

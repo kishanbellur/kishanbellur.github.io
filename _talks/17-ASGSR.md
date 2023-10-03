@@ -2,9 +2,9 @@
 title: "A novel method to determine accommodation coefficients of cryogenic propellants"
 collection: talks
 type: "Poster & Oral presentation"
-permalink: /talks/2017-10-25-ASGSR
+permalink: /talks/10/25/17-ASGSR
 venue: "33rd Annual Meeting of the American Society for Gravitational and Space Research"
-date: 2017-10-25
+date: 10/25/17
 location: "Renton, WA, USA"
 ---
 

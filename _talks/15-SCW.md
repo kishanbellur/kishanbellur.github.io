@@ -2,9 +2,9 @@
 title: "A New Experiment for Determining Evaporation and Condensation Coefficients of Cryogenic Propellants"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2015-06-24-SCW
+permalink: /talks/6/24/15-SCW
 venue: "26th Space Cryogenics Workshop"
-date: 2015-06-24
+date: 6/24/15
 location: "Phoenix, AZ, USA"
 ---
 

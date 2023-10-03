@@ -2,9 +2,9 @@
 title: "Determining solid-fluid interface temperature distribution during phase change of cryogenic propellants using transient thermal modeling"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2017-07-07-SCW
+permalink: /talks/7/7/17-SCW
 venue: "27th Space Cryogenics Workshop"
-date: 2017-07-07
+date: 7/7/17
 location: "Chicago, IL, USA"
 ---
 

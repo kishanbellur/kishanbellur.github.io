@@ -2,9 +2,9 @@
 title: "Neutron attenuation analysis of cryogenic propellants"
 collection: talks
 type: "Poster & Oral presentation"
-permalink: /talks/2017-07-09-ASME-SHTC
+permalink: /talks/7/9/17-ASME-SHTC
 venue: "ASME Summer Heat Transfer Conference"
-date: 2017-07-09
+date: 7/9/17
 location: "Bellevue, WA , USA"
 ---
 

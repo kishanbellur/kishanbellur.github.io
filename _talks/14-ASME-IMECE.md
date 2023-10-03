@@ -2,9 +2,9 @@
 title: "Neutron Bidography of Condensation and Evaporation of Hydrogen in a Cryogenic Condition"
 collection: talks
 type: "Poster & Oral presentation"
-permalink: /talks/2014-11-14-ASME-IMECE
+permalink: /talks/11/14/14-ASME-IMECE
 venue: "ASME-IMECE"
-date: 2014-11-14
+date: 11/14/14
 location: "Montreal, ON, Canada"
 ---
 

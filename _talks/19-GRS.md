@@ -2,9 +2,9 @@
 title: "A combined experimental and multi-scale modeling technique to determine accommodation coefficients of cryogenic propellants"
 collection: talks
 type: "Poster & Oral presentation"
-permalink: /talks/2019-02-03-GRS
+permalink: /talks/2/3/19-GRS
 venue: "Gordon Research Seminar on Micro and Nanoscale Phase Change Heat Transfer"
-date: 2019-02-03
+date: 2/3/19
 location: "Lucca (Barga), Italy"
 ---
 

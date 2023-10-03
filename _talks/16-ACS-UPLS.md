@@ -2,9 +2,9 @@
 title: "A new method to investigate evaporation and condensation of cryogenic propellants and determine accommodation coefficients"
 collection: talks
 type: "Poster presentation"
-permalink: /talks/2016-04-02-ACS-UPLS
+permalink: /talks/4/2/16-ACS-UPLS
 venue: "ACS UPLS Student Research Symposium"
-date: 2016-04-02
+date: 4/2/16
 location: "Marquette, MI, USA"
 ---
 

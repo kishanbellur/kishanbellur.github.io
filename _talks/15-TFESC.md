@@ -2,9 +2,9 @@
 title: "Contact angle measurement of Hydrogen in a Cryogenic Condition"
 collection: talks
 type: "Poster & Oral presentation"
-permalink: /talks/2015-08-09-TFESC
+permalink: /talks/8/9/15-TFESC
 venue: "The First Thermal and Fluids Engineering Summer Conference"
-date: 2015-08-09
+date: 8/9/15
 location: "New York, NY, USA"
 ---
 

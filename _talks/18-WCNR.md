@@ -2,9 +2,9 @@
 title: "Determining the evaporation and condensation coefficients of cryogenic propellants"
 collection: talks
 type: "Poster presentation"
-permalink: /talks/2018-09-11-WCNR
+permalink: /talks/9/11/18-WCNR
 venue: "11th World Conference on Neutron Radiography"
-date: 2018-09-11
+date: 9/11/18
 location: "Sydney, Australia"
 ---
 

@@ -2,9 +2,9 @@
 title: "Multiscale modeling of liquid-vapor phase change based on experimental data"
 collection: talks
 type: "Poster presentation"
-permalink: /talks/2019-11-21-ASGSR
+permalink: /talks/11/21/19-ASGSR
 venue: "35th Annual Meeting of the American Society for Gravitational and Space Research"
-date: 2019-11-21
+date: 11/21/19
 location: "Denver, CO, USA"
 ---
 

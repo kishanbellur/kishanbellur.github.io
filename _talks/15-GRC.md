@@ -2,9 +2,9 @@
 title: "Kinetic modeling and neutron imaging experiments of evaporation in cryogenic propellants"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2015-02-26-GRC
+permalink: /talks/2/26/15-GRC
 venue: "Graduate Research Colloquium, Michigan Tech"
-date: 2015-02-26
+date: 2/26/15
 location: "Houghton, MI, USA"
 ---
 
