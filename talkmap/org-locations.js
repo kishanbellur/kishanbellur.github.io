@@ -10,6 +10,11 @@ var addressPoints = [
     -122.192337
   ],
   [
+    "75th Annual Meeting of the American Physical Society - Division of Fluid Dynamics (APS DFD) | Indianapolis, IN, USA",
+    39.7683331,
+    -86.1583502
+  ],
+  [
     "75th Annual Meeting of the American Physical Society \u00d0 Division of Fluid Dynamics (APS DFD) | Indianapolis, IN, USA",
     39.7683331,
     -86.1583502
