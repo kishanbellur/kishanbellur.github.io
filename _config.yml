@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kishan Bellur"
+title                    : "UCLID"
 title_separator          : "-"
-name                     : &name ""
-description              : &description ""
+name                     : &name "Test name"
+description              : &description "Test desc"
 url                      : https://kishanbellur.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kishanbellur/kishanbellur.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kishan Bellur"
+  name             : "PI: Kishan Bellur"
   avatar           : "kb_crop.jpg"
-  bio              : "Engineer by profession, Researcher by curiosity, Educator by passion."
+  bio              : "Assistant Professor, Mechanical Engineering"
   location         : "Cincinnati, OH"
   employer         : "University of Cincinnati"
   pubmed           : 
