@@ -7,19 +7,18 @@ redirect_from:
   - /resume
 ---
 # Principal Investigator
-## Principal Investigator
-### Kishan Bellur
-#### Education
+## Kishan Bellur
+### Education
 * B.S. in Mechanical Engineering, *Milwaukee School of Engineering*, 2013
 * M.S. in Mechanical Engineering, *Michigan Technological University*, 2016
 * Ph.D in Mechanical Engineering, *Michigan Technological University*, 2018 
 
-#### Experience
+### Experience
 * Assistant Professor &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *University of Cincinnati* &emsp; &emsp; 08/2021 – Present.
 * Visiting Assistant Professor &emsp; &emsp; &emsp;  &nbsp; &nbsp; &nbsp; *Manhattan College* &emsp; &emsp; &emsp; &emsp; 01/2021 – 08/2021.
 * Postdoctoral Scholar &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Michigan Tech. / University of Michigan* &emsp; &emsp; &emsp; &emsp; 10/2018 – 01/2021.
 
-#### Interests
+### Interests
 Dr. Bellur's is primarily interested in multi-scale modeling and visualization of transport phenomena at (1) micro-/nano- scales, (2) cryogenic temperatures, and (3) reduced-gravity. Other interests include, but are not limited to, capillary phenomena, micro-scale thermophysics, cryogenic heat and mass transfer, two-phase flow, optical characterization, interferometry, surface plasmon resonance imaging, image processing, computational fluid dynamics, molecular dynamics, scientific and high performance computing. Dr. Bellur is also passionate about teaching emphasizing on "hands-on" active learning, data analysis and communication and integrated thermo-fluid-sciences. In his spare time, he likes to sample new cuisines, test new recipes and explore the outdoors by any self propelled means possible - walk, bike, ski or run.
 
 ## PhD Students
@@ -27,6 +26,10 @@ Dr. Bellur's is primarily interested in multi-scale modeling and visualization o
 ### Kishan Bellur
 #### Education
 
+
+<ul>{% for post in site.personnel reversed %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
 
 {% include base_path %}
 

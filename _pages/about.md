@@ -13,7 +13,7 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 
 ![overview](/images/research_overview.png "lab overview")
 
-At UCLID, we study liquid-vapor phase change at a fundamental level using **theory**, _on-earth_ and _in-space_ **experiments**, and computational **modeling**. We then leverage the knowledge gained to pioneer next generation microscale phase change transfer devices, enable new technologies for the upcoming hydrogen economy, develop solutions for thermo-fluid management in microgravity and address critical issues in the food-water-energy nexus and enable breakthroughs in advanced manufacturing. If you are interested in learning more, explore the different tabs on this website or send Prof. Bellur an <a href="mailto:bellurkn@ucmail.uc.edu">email</a>.
+At UCLID, we study liquid-vapor phase change at a fundamental level using **theory**, _on-earth_ and _in-space_ **experiments**, and computational **modeling**. We then leverage the knowledge gained to pioneer next generation microscale phase change transfer devices, enable new technologies for the upcoming hydrogen economy, develop solutions for thermo-fluid management in microgravity and address critical issues in the food-water-energy nexus and enable breakthroughs in advanced manufacturing. If you are interested in learning more, feel free to explore the different tabs on this website or send Prof. Bellur an <a href="mailto:bellurkn@ucmail.uc.edu">email</a>.
 
 
 
