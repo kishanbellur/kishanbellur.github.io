@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "UCLID: UC Lab for Interface Dynamics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,22 @@ redirect_from:
 
 The UC Lab for Interfacial Dynamics (UCLID) is an interdisciplinary laboratory with both experimental and computational capabilities to explore transport mechanics at curved liquid-vapor surfaces such as drops, bubbles, sprays, etc. The lab is housed in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/) and is led by Prof. Kishan Bellur.
 
+Liquid-vapor interfaces are ubiquitous in both natural and engineered devices. We often dont notice it but they are all around us! The cup of coffee on your desk, the tree outdoor, the AC unit indoor, they all have liquid-vapor interfaces and are undergoing “evaporation” in some form. Curved interfaces (such as droplets and bubbles) are particularly interesting becasue they exhibit unique properties due to surface tension thereby sigificantly altering evaporation dynamics. In turn, the evaporation deforms and moves the interface. This coupling between evaporation and interface dynamics is not well understood. This understanding is critical to develop systems where surface tension becomes the dominant force (such as in the microgravity of space or mirco/nano-scale devices on earth).
+
+![overviews](/images/research_overview.png "lab overview")
+
+At UCLUD, we study phase change at curved surfaces at a fundamental level using **theory**, _on-earth_ and _in-space_ **experiments**, and develop computational tools for **modeling and simulation** of multi-phase phenomena. We then leverage the knowledge gained to pioneer next generation microscale phase change transfer devices (heat pipes, HVAC, electronics cooling), enable new technologies for the upcoming hydrogen economy (storage and transport), develop solutions for thermo-fluid management in microgravity and address critical issues in the food-water-energy nexus (desalination, distillation) and breakthroughs in manufacturing (coating, inkjet printing, additive manufacturing). Liquid-vapor interfacial dynamics is at the core of each of these technologies and forms the backbone of the research conducted at UCLID.
+
+If you are interested in learning more, explore the different tabs on this website or send Prof. Bellur an <a href="mailto:bellurkn@ucmail.uc.edu">email</a>.
+
 
 <!---Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently an assistant professor in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/). --->
 
 
 <!---Background
------- --->
+------ 
 Liquid-vapor phase change is ubiquitous in both natural and engineered devices. It’s happening around us – all the time. The cup of coffee, the tree outdoor, the AC unit indoor, they are all undergoing “evaporation” in some form. Curved surfaces (such as droplets and bubbles) exhibit unique properties due to surface tension that alters evaporation. In turn, the evaporation further deforms and moves the interface. At UCLID, we focus on liquid-vapor phase change and associated interfacial dynamics. We study multi-phase transport phenomena using a combination of visualization tools, theory, and modeling. We work on a variety of topics including but not limited to boiling, condensation, dehumidification, evaporative deposition, colloidal self-assembly, porous media transport, electronics cooling, cryogenics, variable-gravity fluid management, and nano-/micro-scale heat transfer. If you are interested in learning more, explore the different tabs on this website or send Prof. Bellur an <a href="mailto:bellurkn@ucmail.uc.edu">email</a>.
-
+--->
 
 <!--- Bio
 ------
