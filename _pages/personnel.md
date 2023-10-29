@@ -26,12 +26,12 @@ Dr. Bellur's is primarily interested in multi-scale modeling and visualization o
 ### Kishan Bellur
 #### Education
 
+{% include base_path %}
 
 <ul>{% for post in site.personnel reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
 
-{% include base_path %}
 
 Education
 ======
