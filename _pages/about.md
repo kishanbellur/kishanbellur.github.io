@@ -10,7 +10,6 @@ redirect_from:
 
 The UC Lab for Interfacial Dynamics (UCLID) is an interdisciplinary laboratory with both experimental and computational capabilities to explore transport mechanics at curved liquid-vapor surfaces such as drops, bubbles, sprays, etc. The lab is housed in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/) and is led by Prof. Kishan Bellur.
 
-Liquid-vapor interfaces are ubiquitous in both natural and engineered devices. We often dont notice it but they are all around us! The cup of coffee on your desk, the tree outdoor, the AC unit indoor, they all have liquid-vapor interfaces and are undergoing “evaporation” in some form. Curved interfaces (such as droplets and bubbles) are particularly interesting becasue they exhibit unique properties due to surface tension thereby sigificantly altering evaporation dynamics. In turn, the evaporation deforms and moves the interface. The intricate coupling between coupling between evaporation and interface dynamics becomes critical when surface tension is the dominant force such as in the microgravity of space or mirco/nano-scale devices on earth.
 
 ![overview](/images/research_overview.png "lab overview")
 
