@@ -1,6 +1,6 @@
 ---
 title: "Summer Youth Program - Rocketry and Space Science"
-collection: teaching
+collection: personnel
 type: "Workshop"
 permalink: /teaching/2018-summer-1
 venue: " Michigan Technological University"

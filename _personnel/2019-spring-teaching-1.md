@@ -1,6 +1,6 @@
 ---
 title: "Fluid Mechanics and Heat Transfer: Internal Flow"
-collection: teaching
+collection: personnel
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-1
 venue: "Mechanical Engineering - Engineering Mechanics, Michigan Technological University"
