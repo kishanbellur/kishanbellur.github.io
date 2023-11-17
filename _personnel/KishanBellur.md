@@ -2,7 +2,7 @@
 title: "Kishan Bellur"
 collection: research
 permalink: /research/research-1
-excerpt: "Principal Investigator<br/><img src='/images/500x300.png'>"
+excerpt: "Principal Investigator<br/><img src='/images/kb_crop.png'>"
 ---
 
 # Kishan Bellur
