@@ -2,6 +2,7 @@
 title: "Kishan Bellur"
 collection: research
 permalink: /personnel/kishanbellur
+author: Kishan Bellur
 author_profile: false
 excerpt: "Principal Investigator<br/><img src='/images/kb_crop.png'>"
 ---
@@ -25,9 +26,6 @@ excerpt: "Principal Investigator<br/><img src='/images/kb_crop.png'>"
 Dr. Bellur's is primarily interested in multi-scale modeling and visualization of transport phenomena at (1) micro-/nano- scales, (2) cryogenic temperatures, and (3) reduced-gravity. Other interests include, but are not limited to, capillary phenomena, micro-scale thermophysics, cryogenic heat and mass transfer, two-phase flow, optical characterization, interferometry, surface plasmon resonance imaging, image processing, computational fluid dynamics, molecular dynamics, scientific and high performance computing. Dr. Bellur is also passionate about teaching emphasizing on "hands-on" active learning, data analysis and communication and integrated thermo-fluid-sciences. In his spare time, he likes to sample new cuisines, test new recipes and explore the outdoors by any self propelled means possible - walk, bike, ski or run.
 
 # Honors and awards
-
-Honors and awards
-======
 * Best poster award, *American Society of Gravitational and Space Research* annual meeting, 2018.
 * 1 st place award for best oral presentation, Graduate Research Colloquium, *Michigan Tech*, 2018.
 * Dean's award for outstanding scholarship, *Michigan Tech*, 2018.
@@ -39,14 +37,12 @@ Honors and awards
 * 3rd place award for best poster, *American Chemical Society* UPLS Student Research Symposium, 2017.
 * Multiple travel grant awards from the Graduate Student Government at *Michigan Tech*, 2016-2017.
 
-Membership
-======
+# Membership
 * American Society of Gravitational and Space Research (ASGSR) 
 * Cryogenics Society of America (CSA) 
 * American Society of Thermal and Fluids Engineering (ASTFE)
 
-Peer Review
-======
+# Peer Review
 * Journals
   * Langmuir, Applied Thermal Engineering, Physics of Fluids, Cryogenics, Nano, Fluids, Processes, Journal of Physical Chemistry, Thermal Science and Engineering Process, Environmental Science and Engineering, International Journal of Thermofluids, Journal of Thermophysics and Heat Transfer.
 * Conferences
