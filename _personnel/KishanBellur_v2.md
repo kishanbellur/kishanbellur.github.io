@@ -4,7 +4,7 @@ collection: research
 permalink: /personnel/kishanbellur
 author: Kishan Bellur
 author_profile: true
-excerpt: "Principal Investigator<br/><img src='/images/kb_crop.png'>"
+excerpt: "Principal Investigator<br/><img src='/images/kb_crop.jpg'>"
 ---
 # Education
 * B.S. in Mechanical Engineering, *Milwaukee School of Engineering*, 2013
