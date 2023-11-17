@@ -6,6 +6,8 @@ author: Kishan Bellur
 author_profile: true
 excerpt: "Principal Investigator <img src='/images/kb_crop.jpg' width='200' height='auto'>"
 ---
+# Principal Investigator
+
 ## Education
 * B.S. in Mechanical Engineering, *Milwaukee School of Engineering*, 2013
 * M.S. in Mechanical Engineering, *Michigan Technological University*, 2016
