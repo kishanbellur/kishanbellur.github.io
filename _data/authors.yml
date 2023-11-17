@@ -1,18 +1,25 @@
 # Authors
 
-Name Name:
+Kishan Bellur:
   name        : "Kishan Bellur"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+  uri         : "https://kishanbellur.github.io/personnel/kishanbellur"
+  email       : "bellurkn@ucmail.uc.edu"
   bio         : "Principal Investigator"
   avatar      : "images/kb-crop"
-  twitter     : "name"
-  google_plus : "Name"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=oY-EaKIAAAAJ"
+  email            : "bellurkn@ucmail.uc.edu"
+  researchgate     : "https://www.researchgate.net/profile/Kishan_Bellur?ev=hdr_xprf"
+  github           : "kishanbellur"
+  linkedin         : "https://www.linkedin.com/in/kishanbellur/"
+  orcid            : "https://orcid.org/0000-0002-2596-4389"
 
-Name2 Name2:
-  name        : "Name2 Name2"
+First Name:
+  name        : "First Name"
   email       : "name2@name2.com"
-  bio         : "I ordered what?"
+  bio         : "blah"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  googlescholar    : "add link here"
+  email            : "add link here"
+  researchgate     : "add link here"
+  linkedin         : "add link here"
+  orcid            : "add link here"
