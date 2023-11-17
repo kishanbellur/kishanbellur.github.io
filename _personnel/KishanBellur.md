@@ -14,6 +14,7 @@ excerpt: "Principal Investigator <img src='/images/kb_crop.jpg' width='200' heig
 * Ph.D in Mechanical Engineering, *Michigan Technological University*, 2018 
 
 ## Experience
+
 | Assistant Professor          | University of Cincinnati          | 08/2021 – Present |
 | Adjunct Assistant Professor  | Michigan Technological University | 01/2021 - Present |
 | Visiting Assistant Professor | Manhattan College                 | 01/2021 – 08/2021 |
