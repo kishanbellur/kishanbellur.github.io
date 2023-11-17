@@ -3,7 +3,7 @@ title: "Kishan Bellur"
 collection: research
 permalink: /personnel/kishanbellur
 author: Kishan Bellur
-author_profile: false
+author_profile: true
 excerpt: "Principal Investigator<br/><img src='/images/kb_crop.png'>"
 ---
 
