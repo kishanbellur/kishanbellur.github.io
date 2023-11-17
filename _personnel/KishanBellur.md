@@ -1,10 +1,10 @@
 ---
 title: "Kishan Bellur"
-collection: research
+collection: personnel
 permalink: /personnel/kishanbellur
 author: Kishan Bellur
 author_profile: true
-excerpt: "Principal Investigator<br/><img src='/images/kb_crop.jpg' width='200' height='auto'>"
+excerpt: "Principal Investigator <img src='/images/kb_crop.jpg' width='200' height='auto'>"
 ---
 ## Education
 * B.S. in Mechanical Engineering, *Milwaukee School of Engineering*, 2013
@@ -12,10 +12,6 @@ excerpt: "Principal Investigator<br/><img src='/images/kb_crop.jpg' width='200' 
 * Ph.D in Mechanical Engineering, *Michigan Technological University*, 2018 
 
 ## Experience
-* Assistant Professor &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *University of Cincinnati* &emsp; &emsp; 08/2021 – Present.
-* Visiting Assistant Professor &emsp; &emsp; &emsp;  &nbsp; &nbsp; *Manhattan College* &emsp; &emsp; &emsp; &emsp; 01/2021 – 08/2021.
-* Postdoctoral Scholar &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Michigan Tech. / University of Michigan* &emsp; &emsp; &emsp; &emsp; 10/2018 – 01/2021.
-
 | Assistant Professor          | University of Cincinnati          | 08/2021 – Present |
 | Adjunct Assistant Professor  | Michigan Technological University | 01/2021 - Present |
 | Visiting Assistant Professor | Manhattan College                 | 01/2021 – 08/2021 |
