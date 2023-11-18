@@ -13,3 +13,8 @@ redirect_from:
 <ul>{% for post in site.personnel reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
+
+test
+  <ul>{% for post in site.personnel-phd reversed %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
