@@ -1,10 +1,10 @@
 ---
 title: "First Last"
-collection: personnel
+collection: personnel-phd
 permalink: /personnel/firstnamelastname
 author: First Last
 author_profile: true
-excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='200' height='auto'>"
+excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='150' height='auto'>"
 ---
 # PhD student
 

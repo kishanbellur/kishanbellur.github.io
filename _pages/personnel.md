@@ -10,11 +10,17 @@ redirect_from:
 
 {% include base_path %}
 
+# Principal Investigator
 <ul>{% for post in site.personnel reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
+<br>
 
-test
+The PI leads a multi-disciplinary group of students:
+# Graduate students
   <ul>{% for post in site.personnel-phd reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
+
+
+# Prior students
