@@ -10,16 +10,16 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.personnel reversed %}
+{% for post in site.personnel %}
     {% include archive-single.html %}
   {% endfor %}
 <br>
-
+<!---
 The PI leads a multi-disciplinary group of students:
 # Graduate students
   <ul>{% for post in site.personnel-phd reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
-
+---> 
 
 # Prior students
