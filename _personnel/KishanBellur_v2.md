@@ -2,6 +2,8 @@
 title: "Kishan Bellur"
 collection: personnel
 permalink: /personnel/kishanbellur2
+tag: PI
+date: 2022-01-01
 author: Kishan Bellur
 author_profile: true
 excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='200' height='auto'>"

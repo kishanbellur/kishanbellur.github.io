@@ -2,6 +2,8 @@
 title: "First Last"
 collection: personnel
 permalink: /personnel/FirstLast
+tag: PhD
+date: 2023-01-01
 author: First Last
 author_profile: true
 excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='150' height='auto'>"

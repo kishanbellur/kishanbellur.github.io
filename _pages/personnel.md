@@ -10,7 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Principal Investigator
 <ul>{% for post in site.personnel reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
