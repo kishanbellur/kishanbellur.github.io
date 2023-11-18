@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-<ul>{% for post in site.personnel reversed %}
+{% for post in site.personnel reversed %}
     {% include archive-single.html %}
-  {% endfor %}</ul>
+  {% endfor %}
 <br>
 
 The PI leads a multi-disciplinary group of students:
