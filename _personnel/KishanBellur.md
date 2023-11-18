@@ -3,7 +3,7 @@ title: "Kishan Bellur"
 collection: personnel
 permalink: /personnel/kishanbellur
 tag: PI
-date: 2021-08-15
+order: 1
 author: Kishan Bellur
 author_profile: true
 excerpt: "Principal Investigator <br> <img src='/images/kb_crop.jpg' width='150' height='auto'>"
