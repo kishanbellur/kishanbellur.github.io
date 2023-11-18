@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.sortedpersonnel %}
+{% for post in sortedpersonnel %}
     {% include archive-single.html %}
   {% endfor %}
 <br>
