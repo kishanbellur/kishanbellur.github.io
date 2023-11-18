@@ -1,10 +1,10 @@
 ---
-title: "Kishan Bellur"
+title: "First Last"
 collection: personnel
-permalink: /personnel/kishanbellur2
-author: Kishan Bellur
+permalink: /personnel/FirstLast
+author: First Last
 author_profile: true
-excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='200' height='auto'>"
+excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='150' height='auto'>"
 ---
 # Education
 * B.S. in Mechanical Engineering, *xxx*, 20xx
