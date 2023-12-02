@@ -1,8 +1,10 @@
 ---
-title: "First Last"
+title: "Ermiyas Lakew"
 collection: personnel
-permalink: /personnel/FirstLast
+permalink: /personnel/ErmiyasLakew
 position: MS Student
+start: 2021
+end: 2022
 order: 3
 author: First Last
 author_profile: true

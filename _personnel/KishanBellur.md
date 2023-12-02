@@ -2,12 +2,12 @@
 title: "Kishan Bellur"
 collection: personnel
 permalink: /personnel/kishanbellur
-position: PI
+position: Principal Investigator
 start: 2021
 order: 1
 author: Kishan Bellur
 author_profile: true
-excerpt: "Principal Investigator <br> <img src='/images/kb_crop.jpg' width='150' height='auto'>"
+excerpt: "<img src='/images/kb_crop.jpg' width='150' height='auto'>"
 ---
 # Principal Investigator
 
