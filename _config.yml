@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "UCLID"
 title_separator          : "-"
-name                     : &name "Test name"
-description              : &description "Test desc"
+name                     : &name "Kishan Bellur"
+description              : &description "UC Lab for Interfacial Dynamics"
 url                      : https://kishanbellur.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kishanbellur/kishanbellur.github.io"

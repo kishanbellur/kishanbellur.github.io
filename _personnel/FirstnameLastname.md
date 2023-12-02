@@ -2,7 +2,7 @@
 title: "First Last"
 collection: personnel
 permalink: /personnel/FirstLast
-tag: MS
+position: MS Student
 order: 3
 author: First Last
 author_profile: true

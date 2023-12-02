@@ -2,7 +2,7 @@
 title: "Unmeelan Chakrabarti"
 collection: personnel
 permalink: /personnel/unmeelanchakrabarti
-tag: PhD Student
+position: PhD Student
 order: 2
 author: Unmeelan Chakrabarti
 author_profile: true
