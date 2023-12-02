@@ -1,14 +1,14 @@
 ---
-title: "First Last"
+title: "Unmeelan Chakrabarti"
 collection: personnel
-permalink: /personnel/FirstLast
-tag: MS
-order: 3
-author: First Last
+permalink: /personnel/unmeelanchakrabarti
+tag: PhD Student
+order: 2
+author: Unmeelan Chakrabarti
 author_profile: true
 excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='150' height='auto'>"
 ---
-# MS Student
+# PhD Student
 
 ## Education
 * B.S. in Mechanical Engineering, *xxx*, 20xx
