@@ -1,13 +1,13 @@
 ---
-title: "Unmeelan Chakrabarti"
+title: "Firstname1 Lastname1"
 collection: personnel
-permalink: /personnel/unmeelanchakrabarti
+permalink: /personnel/Firstname1Lastname1
 position: PhD Student
 start: 2022
 order: 2
-author: Unmeelan Chakrabarti
+author: Firstname Lastname
 author_profile: true
-excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='150' height='auto'>"
+excerpt: "<img src='/images/bio-photo.jpg' width='150' height='auto'>"
 ---
 # PhD Student
 

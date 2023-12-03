@@ -1,14 +1,14 @@
 ---
-title: "Ermiyas Lakew"
+title: "Firstname2 Lastname2"
 collection: personnel
-permalink: /personnel/ErmiyasLakew
+permalink: /personnel/Firstname2Lastname2
 position: MS Student
 start: 2021
 end: 2022
 order: 3
-author: First Last
+author: Firstname2 Lastname2
 author_profile: true
-excerpt: "PhD student <br> <img src='/images/bio-photo.jpg' width='150' height='auto'>"
+excerpt: "<img src='/images/bio-photo.jpg' width='150' height='auto'>"
 ---
 # MS Student
 

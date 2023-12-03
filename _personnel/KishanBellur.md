@@ -7,7 +7,6 @@ start: 2021
 order: 1
 author: Kishan Bellur
 author_profile: true
-excerpt: "<img src='/images/kb_crop.jpg' width='150' height='auto'>"
 ---
 # Principal Investigator
 
