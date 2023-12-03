@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Personnel"
-permalink: /personnel/
+title: "People"
+permalink: /people/
 author_profile: false
 redirect_from:
   - /resume
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign sortedpersonnel = site.personnel | sort: 'order' %}
+{% assign sortedpeople = site.people | sort: 'order' %}
 
-{% for post in sortedpersonnel %}
+{% for post in sortedpeople %}
     {% include archive-single.html %}
   {% endfor %}
 

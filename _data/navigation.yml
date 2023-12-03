@@ -10,13 +10,13 @@ main:
   - title: "Talks"
     url: /talks/     
 
-  - title: "Personnel"
-    url: /personnel/   
+  - title: "People"
+    url: /people/   
 
   - title: "Teaching"
     url: /teaching/
         
-  - title: "Blog Posts"
+  - title: "Posts & Updates"
     url: /year-archive/
     
 #  - title: "Guide"

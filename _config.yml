@@ -187,10 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  personnel:
-    output: true
-    permalink: /:collection/:path/
-  personnel-phd:
+  people:
     output: true
     permalink: /:collection/:path/
 
@@ -250,18 +247,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _personnel
+  # _people
   - scope:
       path: ""
-      type: personnel
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _personnel-phd
-  - scope:
-      path: ""
-      type: personnel
+      type: people
     values:
       layout: single
       author_profile: true
