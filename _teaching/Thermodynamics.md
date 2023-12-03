@@ -1,10 +1,9 @@
 ---
 title: "Thermodynamics"
 collection: teaching
-type: "Undergraduatecourse"
+type: "Undergraduate course"
 permalink: /teaching/thermodynamics
 venue: "University of Cincinnati"
-date: 2022-08-01
 location: "Cincinnati, OH"
 ---
 

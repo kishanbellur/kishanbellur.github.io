@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate/Graduate course"
 permalink: /teaching/CFD
 venue: "University of Cincinnati"
-date: 2022-01-01
 location: "Cincinnati, OH"
 ---
 
