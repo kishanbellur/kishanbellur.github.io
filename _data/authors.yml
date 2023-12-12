@@ -7,7 +7,6 @@ Kishan Bellur:
   bio         : "Principal Investigator"
   avatar      : "kb_crop.jpg"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oY-EaKIAAAAJ"
-  email            : "bellurkn@ucmail.uc.edu"
   researchgate     : "https://www.researchgate.net/profile/Kishan_Bellur?ev=hdr_xprf"
   github           : "kishanbellur"
   linkedin         : "https://www.linkedin.com/in/kishanbellur/"
@@ -15,22 +14,20 @@ Kishan Bellur:
 
 Unmeelan Chakrabarti:
   name        : "Unmeelan Chakrabarti"
-  email       : "name2@name2.com"
+  email       : "name@email.edu"
   bio         : "PhD Student"
   avatar      : "bio-photo.jpg"
   googlescholar    : "add link here"
-  email            : "add link here"
   researchgate     : "add link here"
   linkedin         : "add link here"
   orcid            : "add link here"
 
 Ayaaz Yasin:
   name        : "Ayaaz Yasin"
-  email       : "name2@name2.com"
-  bio         : "PhD Student"
+  email       : "name2@email.edu"
+  bio         : "MS Student"
   avatar      : "bio-photo.jpg"
   googlescholar    : "add link here"
-  email            : "add link here"
   researchgate     : "add link here"
   linkedin         : "add link here"
   orcid            : "add link here"
