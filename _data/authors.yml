@@ -13,8 +13,19 @@ Kishan Bellur:
   linkedin         : "https://www.linkedin.com/in/kishanbellur/"
   orcid            : "https://orcid.org/0000-0002-2596-4389"
 
-First Last:
-  name        : "First Last"
+Unmeelan Chakrabarti:
+  name        : "Unmeelan Chakrabarti"
+  email       : "name2@name2.com"
+  bio         : "PhD Student"
+  avatar      : "bio-photo.jpg"
+  googlescholar    : "add link here"
+  email            : "add link here"
+  researchgate     : "add link here"
+  linkedin         : "add link here"
+  orcid            : "add link here"
+
+Ayaaz Yasin:
+  name        : "Ayaaz Yasin"
   email       : "name2@name2.com"
   bio         : "PhD Student"
   avatar      : "bio-photo.jpg"

@@ -1,17 +1,18 @@
 ---
-title: "Firstname1 Lastname1"
+title: "Ayaaz Yasin"
 collection: people
-permalink: /people/Firstname1Lastname1
-position: PhD Student
-start: 2022
-order: 2
-author: Firstname1 Lastname1
+permalink: /people/ayaazyasin
+position: MS Student
+start: 2021
+end: 2022
+order: 3
+author: Ayaaz Yasin
 author_profile: true
 excerpt: "<img src='/images/bio-photo.jpg' width='150' height='auto'>"
 ---
-## PhD Student
+## MS Student
 
-### Education
+## Education
 * B.S. in Mechanical Engineering, *xxx*, 20xx
 * M.S. in Mechanical Engineering, *xxx*, 20xx
 

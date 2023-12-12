@@ -1,18 +1,17 @@
 ---
-title: "Firstname2 Lastname2"
+title: "Unmeelan Chakrabarti"
 collection: people
-permalink: /people/Firstname2Lastname2
-position: MS Student
-start: 2021
-end: 2022
-order: 3
-author: Firstname2 Lastname2
+permalink: /people/unmeelanchakrabarti
+position: PhD Student
+start: 2022
+order: 2
+author: Unmeelan Chakrabarti
 author_profile: true
 excerpt: "<img src='/images/bio-photo.jpg' width='150' height='auto'>"
 ---
-## MS Student
+## PhD Student
 
-## Education
+### Education
 * B.S. in Mechanical Engineering, *xxx*, 20xx
 * M.S. in Mechanical Engineering, *xxx*, 20xx
 
