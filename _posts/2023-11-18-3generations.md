@@ -1,5 +1,5 @@
 ---
-title: 'Three generations, One paper'
+title: 'Three academic generations in one publication'
 date: 2023-11-18
 permalink: /posts/2023/11/18/3gen1paper/
 author: Kishan Bellur
