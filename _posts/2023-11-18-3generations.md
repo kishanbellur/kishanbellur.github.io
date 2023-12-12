@@ -8,8 +8,8 @@ tags:
   - publication
 ---
 
-Presenting the new and improved UCLID website. While we have had a [formal UC website](https://ceas.uc.edu/research/centers-labs/lab-for-interfacial-dynamics.html), it was time to revive my defunct personal website and transform it into a group website. Historically, I have refrained from "posting" anything on a public form. I've realized I need to overcome this and what better way than to put my students front-and-center and empower them to post updates while learning to use git effectively and maintain the site. As with a lot of things we do at UCLID, this is an experiment that will evolve with time and group interests but I hope that this becomes a productive (and fun) exercise that keeps the website more active.
+We are happy to present our [latest publication](https://kishanbellur.github.io/publications/chakrabarti_2023.html) on analysis of the Constrained Vapor Bubble (CVB) experiment on the International Space Station (ISS). We used data from the NASA Physical Sciences Informatics (PSI) database combined with multi-scale liquid-vapor phase change modeling to argue against the common long standing assumption of an isothermal liquid-vapor interface. We show that the  non-isothermal interface results in strong Marangoni flow in the absence of gravity. The computational analysis reveals recirculating flow patterns and stagnation points that correlate extremely well with optical signatures from experiments.
 
-Here's to UCLID 2.0!
+This manuscript holds special place for us since it includes three academic generations!
 
 
