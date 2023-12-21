@@ -7,7 +7,7 @@ start: 2022
 order: 2
 author: Unmeelan Chakrabarti
 author_profile: true
-excerpt: "<img src='/images/bio-photo.jpg' width='150' height='auto'>"
+excerpt: "<img src='/images/unmeelanchakrabarti.jpg' width='150' height='auto'>"
 ---
 ## PhD Student
 

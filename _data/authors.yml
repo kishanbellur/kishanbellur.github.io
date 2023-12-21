@@ -14,20 +14,49 @@ Kishan Bellur:
 
 Unmeelan Chakrabarti:
   name        : "Unmeelan Chakrabarti"
-  email       : "name@email.edu"
+  email       : "chakraun@mail.uc.edu"
   bio         : "PhD Student"
-  avatar      : "bio-photo.jpg"
-  googlescholar    : "add link here"
-  researchgate     : "add link here"
-  linkedin         : "add link here"
-  orcid            : "add link here"
+  avatar      : "unmeelanchakrabarti.jpg"
+  linkedin    : "https://www.linkedin.com/in/unmeelan-chakrabarti-665130114/"
+
+Amirhosein Sarchami:
+  name        : "Amirhosein Sarchami"
+  email       : "sarchaan@mail.uc.edu"
+  bio         : "PhD Student"
+  avatar      : "amirhoseinsarchami.jpg"
+  linkedin    : "https://www.linkedin.com/in/amirhosein-sarchami-229751188/"
+
+Manjeera Vinnakota:
+  name        : "Manjeera Vinnakota"
+  email       : "vinnakbm@mail.uc.edu"
+  bio         : "PhD Student"
+  avatar      : "manjeeravinnakota.jpg"
+  linkedin    : "https://www.linkedin.com/in/manjeera-vinnakota-a7789b17/"
+
+Mostafa Jafari:
+  name        : "Mostafa Jafari"
+  email       : "jafarimf@mail.uc.edu"
+  bio         : "PhD Student"
+  avatar      : "mostafajafari.jpg"
+  linkedin    : "https://www.linkedin.com/in/mostafa-jafari-gildeh-098746241/"
 
 Ayaaz Yasin:
   name        : "Ayaaz Yasin"
-  email       : "name2@email.edu"
+  email       : "yasinaz@mail.uc.edu"
   bio         : "MS Student"
-  avatar      : "bio-photo.jpg"
-  googlescholar    : "add link here"
-  researchgate     : "add link here"
-  linkedin         : "add link here"
-  orcid            : "add link here"
+  avatar      : "ayaazyasin.jpg"
+  googlescholar    : "https://scholar.google.com/citations?user=OyLSrL0AAAAJ&hl=en&inst=15581119675090073038&oi=sra"
+  linkedin         : "https://www.linkedin.com/in/ayaazyasin/"
+
+Sandeepan Dasgupta:
+  name        : "Sandeepan Dasgupta"
+  email       : "dasgupsn@mail.uc.edu"
+  bio         : "MS Student"
+  avatar      : "sandeepandasgupta.jpg"
+  linkedin    : "https://www.linkedin.com/in/sandeepan-dasgupta-9a7a73146/"
+
+William Cullen:
+  name        : "William Cullen"
+  email       : "cullenwe@mail.uc.edu"
+  bio         : "MS Student"
+  avatar      : "williamcullen.jpg"
