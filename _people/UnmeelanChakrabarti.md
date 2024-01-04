@@ -9,19 +9,18 @@ author: Unmeelan Chakrabarti
 author_profile: true
 excerpt: "<img src='/images/unmeelanchakrabarti.jpg' width='150' height='auto'>"
 ---
-## PhD Student
+### Research Interests
+Multiscale liquid-vapor phase change, molecular dynamics.
 
 ### Education
-* B.S. in Mechanical Engineering, *xxx*, 20xx
-* M.S. in Mechanical Engineering, *xxx*, 20xx
+* M.S. in Mechanical Engineering, University of Illinois at Chicago, 2017
+* B.S. in Mechanical Engineering, SRM University, 2015
 
 ### Experience
 
-| Job title          | Name of company     | 08/2021 – Present |
-| Job title          | Name of company     | 08/2021 – Present |
-
-### Interests
-The focus of Firstname Lastname's reserach is---? He/she likes to....?
+| Research Specialist          | University of Illinois at Chicago     | 2015-2017 |
+| Aeronautical Engineer          | Defence Research and Development Organization     | 2018-2022 |
 
 ### Honors and awards
-* add if any...
+Graduate Incentive Award, University of Cincinnati
+Conference Travel Award, UC Graduate School
