@@ -9,7 +9,7 @@ Kishan Bellur:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oY-EaKIAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Kishan_Bellur?ev=hdr_xprf"
   github           : "kishanbellur"
-  linkedin         : "https://www.linkedin.com/in/kishanbellur/"
+  linkedin         : "kishanbellur/"
   orcid            : "https://orcid.org/0000-0002-2596-4389"
 
 Unmeelan Chakrabarti:
@@ -17,28 +17,22 @@ Unmeelan Chakrabarti:
   email       : "chakraun@mail.uc.edu"
   bio         : "PhD Student"
   avatar      : "unmeelanchakrabarti.jpg"
-  linkedin    : "https://www.linkedin.com/in/unmeelan-chakrabarti-665130114/"
+  linkedin    : "/unmeelan-chakrabarti-665130114/"
 
 Amirhosein Sarchami:
   name        : "Amirhosein Sarchami"
   email       : "sarchaan@mail.uc.edu"
   bio         : "PhD Student"
   avatar      : "amirhoseinsarchami.jpg"
-  linkedin    : "https://www.linkedin.com/in/amirhosein-sarchami-229751188/"
+  googlescholar    : "https://scholar.google.com/citations?user=gugmMjcAAAAJ&hl=en&oi=ao"
+  linkedin    : "amirhosein-sarchami-229751188/"
 
 Manjeera Vinnakota:
   name        : "Manjeera Vinnakota"
   email       : "vinnakbm@mail.uc.edu"
   bio         : "PhD Student"
   avatar      : "manjeeravinnakota.jpg"
-  linkedin    : "https://www.linkedin.com/in/manjeera-vinnakota-a7789b17/"
-
-Mostafa Jafari:
-  name        : "Mostafa Jafari"
-  email       : "jafarimf@mail.uc.edu"
-  bio         : "PhD Student"
-  avatar      : "mostafajafari.jpg"
-  linkedin    : "https://www.linkedin.com/in/mostafa-jafari-gildeh-098746241/"
+  linkedin    : "manjeera-vinnakota-a7789b17/"
 
 Ayaaz Yasin:
   name        : "Ayaaz Yasin"
@@ -46,14 +40,14 @@ Ayaaz Yasin:
   bio         : "MS Student"
   avatar      : "ayaazyasin.jpg"
   googlescholar    : "https://scholar.google.com/citations?user=OyLSrL0AAAAJ&hl=en&inst=15581119675090073038&oi=sra"
-  linkedin         : "https://www.linkedin.com/in/ayaazyasin/"
+  linkedin         : "ayaazyasin/"
 
 Sandeepan Dasgupta:
   name        : "Sandeepan Dasgupta"
   email       : "dasgupsn@mail.uc.edu"
   bio         : "MS Student"
   avatar      : "sandeepandasgupta.jpg"
-  linkedin    : "https://www.linkedin.com/in/sandeepan-dasgupta-9a7a73146/"
+  linkedin    : "sandeepan-dasgupta-9a7a73146/"
 
 William Cullen:
   name        : "William Cullen"
