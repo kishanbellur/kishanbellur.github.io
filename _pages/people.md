@@ -13,6 +13,5 @@ redirect_from:
 
 {% for post in sortedpeople %}
     {% include archive-single-people.html %}
-    {<hr>}
   {% endfor %}
 
