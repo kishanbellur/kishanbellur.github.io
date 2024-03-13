@@ -45,7 +45,6 @@
         {% elsif post.collection == 'research' %}
           <p>  </p>
         {% elsif post.collection == 'people' %}
-          <br><hr><br>
           <p> <i>{{ post.position}}</i>, {{ post.start | default: "1900-01-01" | start: "%Y" }} - {{ post.end | default: "current" }}.<br> 
           {% if post.interests %} Research Interests: {{ post.interests }}.{% endif %}</p>
         {% elsif post.date %}
