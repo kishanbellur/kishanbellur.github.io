@@ -12,7 +12,7 @@ redirect_from:
 {% assign sortedpeople = site.people | sort: 'order' %}
 
 {% for post in sortedpeople %}
-    {% include archive-single.html %}
-    <hr>
+    {% include archive-single-people.html %}
+    {<hr>}
   {% endfor %}
 
