@@ -28,6 +28,7 @@ Prof. Bellur's is primarily interested in multi-scale modeling and visualization
 
 ### Honors and awards
 * CAREER award, *National Science Foundation*, 2024
+* Distinguished Researcher Award, *College of Engineering and Applied Sciences*, 2024
 * Best Paper Award, *Cryogenics* (Elsevier), 2022
 * Best poster award, *American Society of Gravitational and Space Research* annual meeting, 2018.
 * 1 st place award for best oral presentation, Graduate Research Colloquium, *Michigan Tech*, 2018.
