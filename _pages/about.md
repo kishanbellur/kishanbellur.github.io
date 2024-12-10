@@ -19,7 +19,7 @@ At UCLID, we study liquid-vapor phase change at a fundamental level using **theo
 News and Updates
 ----------------
 
-11/19/2024 [Unmeelan]{https://kishanbellur.github.io/people/unmeelanchakrabarti} presents a talk at ASME IMECE and wins the Outstanding Student Presentation Award!
+11/19/2024 [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) presents a talk at ASME IMECE and wins the Outstanding Student Presentation Award!
 
 
 
