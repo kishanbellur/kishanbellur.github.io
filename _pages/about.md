@@ -10,10 +10,16 @@ redirect_from:
 
 The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics (UCLID) is an interdisciplinary laboratory with experimental and computational capabilities to explore transport mechanics at curved liquid-vapor interfaces such as drops, bubbles, sprays, etc. The lab is housed in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) and is led by [Prof. Kishan Bellur](https://researchdirectory.uc.edu/p/bellurkn). 
 
+At UCLID, we study liquid-vapor phase change at a fundamental level using **theory**, _on-earth_ and _in-space_ **experiments**, and computational **modeling**. We then leverage the knowledge gained to pioneer next generation microscale phase change transfer devices, enable new technologies for the upcoming hydrogen economy, develop solutions for thermo-fluid management in microgravity and address critical issues in the food-water-energy nexus and enable breakthroughs in advanced manufacturing. If you are interested in learning more, feel free to explore the different tabs on this website or send Prof. Bellur an <a href="mailto:bellurkn@ucmail.uc.edu">email</a>.
+
 
 ![overview](/images/research_overview.png "lab overview")
 
-At UCLID, we study liquid-vapor phase change at a fundamental level using **theory**, _on-earth_ and _in-space_ **experiments**, and computational **modeling**. We then leverage the knowledge gained to pioneer next generation microscale phase change transfer devices, enable new technologies for the upcoming hydrogen economy, develop solutions for thermo-fluid management in microgravity and address critical issues in the food-water-energy nexus and enable breakthroughs in advanced manufacturing. If you are interested in learning more, feel free to explore the different tabs on this website or send Prof. Bellur an <a href="mailto:bellurkn@ucmail.uc.edu">email</a>.
+
+News and Updates
+----------------
+
+11/19/2024 [Unmeelan]{https://kishanbellur.github.io/people/unmeelanchakrabarti} presents a talk at ASME IMECE and wins the Outstanding Student Presentation Award!
 
 
 
