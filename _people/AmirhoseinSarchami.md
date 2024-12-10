@@ -8,7 +8,8 @@ end: present
 order: 3
 author: Amirhosein Sarchami
 author_profile: true
-excerpt: "<img src='/images/amirhoseinsarchami.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/amirhoseinsarchami.jpg' width='150' height='auto'>"
+excerpt: <font size="3"> Porous Media Flow, Two-Phase Flow, Thermal Management, Optical Microscopy </font>
 ---
 ### Research Interests
 Porous Media Flow, Two-Phase Flow, Thermal Management, Optical Microscopy

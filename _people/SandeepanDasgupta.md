@@ -2,22 +2,24 @@
 title: "Sandeepan Dasgupta"
 collection: people
 permalink: /people/sandeepandasgupta
-position: MS Student
+position: MS Alum
 start: 2021
-end: present
+end: 2024
 order: 7
 author: Sandeepan Dasgupta
 author_profile: true
-excerpt: "<img src='/images/sandeepandasgupta.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/sandeepandasgupta.jpg' width='150' height='auto'>"
+excerpt: <font size="3"> MS Thesis, "Optical Transmission through Sessile Water Droplets Undergoing Solidification, and the Effect of Hydrophobicity", 2024. </font>
 ---
-### Research Interests
-Phase Change, Solidification-Melting, Optics, Cryo-surgery, Cryo-preservation, Bio-heat Transfer
+### Research
+* Interests: Phase Change, Solidification-Melting, Optics, Cryo-surgery, Cryo-preservation, Bio-heat Transfer
+* Thesis: "Optical Transmission through Sessile Water Droplets Undergoing Solidification, and the Effect of Hydrophobicity"
 
 ### Education
-* M.S. in Mechanical Engineering, University of Cincinnati, 2021-present
+* M.S. in Mechanical Engineering, University of Cincinnati, 2024
 * B.S. in Mechanical Engineering, SRM University, 2020
 
-### Experience
-| Junior Project Assistant | Indian Institute of Technology, Delhi     | 12/2019 - 01/2021 |
-| Teacher (6th -10th grade)          | Prayaas Institute of Excellence     | 02/2021 - 07/2021 |
+### Prior Experience
+| Junior Project Assistant           | Indian Institute of Technology, Delhi     | 12/2019 - 01/2021 |
+| Teacher (6th -10th grade)          | Prayaas Institute of Excellence           | 02/2021 - 07/2021 |
 

@@ -8,7 +8,8 @@ end: present
 order: 8
 author: William Cullen
 author_profile: true
-excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
+excerpt: <font size="3"> Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liquid Droplets </font> 
 ---
 ### Research Interests
 Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liquid Droplets
@@ -19,6 +20,6 @@ Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liq
 
 ### Experience
 
-| Intern          | GE Aerospace     | 2020-2023 |
-| Intern          | Florida Turbine Technologies     | 2019 |
-| Intern          | Kimlet-Horn & Associates     | 2017 |
+| Intern          | GE Aerospace     			| 2020-2023 |
+| Intern          | Florida Turbine Technologies     	| 2019 |
+| Intern          | Kimlet-Horn & Associates     	| 2017 |

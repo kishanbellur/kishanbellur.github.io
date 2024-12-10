@@ -8,7 +8,8 @@ end: present
 order: 6
 author: Ayaaz Yasin
 author_profile: true
-excerpt: "<img src='/images/ayaazyasin.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/ayaazyasin.jpg' width='150' height='auto'>"
+excerpt: <font size="3"> Computational Fluid Dyanmics, Multiphase Flows, Phase Change Modeling, Numerical Analysis </font>
 ---
 ### Research Interests
 Computational Fluid Dyanmics, Multiphase Flows, Phase Change Modeling, Numerical Analysis
