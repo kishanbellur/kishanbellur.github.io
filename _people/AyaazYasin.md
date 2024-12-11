@@ -2,7 +2,7 @@
 title: "Ayaaz Yasin"
 collection: people
 permalink: /people/ayaazyasin
-position: MS Student
+position: PhD Student
 start: 2022
 end: present
 order: 6
