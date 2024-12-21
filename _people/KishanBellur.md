@@ -8,7 +8,7 @@ order: 1
 author: Kishan Bellur
 author_profile: true
 [comment]: # excerpt: "<img src='/images/kb_crop.jpg' width='150' height='auto'>"
-excerpt: <font size="3"> 10+ years of experience in phase change heat transfer, cryogenics and scientific computing </font>
+excerpt: <font size="3"> 10+ years of experience in phase change heat transfer, capillary phenomena, cryogenics and scientific computing </font>
 ---
 
 ## Principal Investigator
