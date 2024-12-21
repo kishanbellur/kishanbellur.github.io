@@ -17,3 +17,4 @@ excerpt: <font size="3"> MS Thesis, "Experimental and Numerical Investigation of
 
 ### Education
 * M.S. in Mechanical Engineering, University of Cincinnati, 2024
+* B.S. in Mechanical Engineering, Savitribai Phule Pune University, 2019
