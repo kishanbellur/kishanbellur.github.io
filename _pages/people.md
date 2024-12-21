@@ -50,3 +50,8 @@ redirect_from:
 {% for post in AlumniMSpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
+
+{% assign AlumniBSpeople = site.people | where: "position", "BS Alum" %}
+{% for post in AlumniBSpeople %}
+    {% include archive-single-people.html %}
+{% endfor %}
