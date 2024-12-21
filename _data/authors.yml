@@ -30,7 +30,7 @@ Amirhosein Sarchami:
 Manjeera Vinnakota:
   name        : "Manjeera Vinnakota"
   email       : "vinnakbm@mail.uc.edu"
-  bio         : "PhD Student"
+  bio         : "PhD Alum"
   avatar      : "manjeeravinnakota.jpg"
   linkedin    : "manjeera-vinnakota-a7789b17/"
 
@@ -45,7 +45,7 @@ Ayaaz Yasin:
 Sandeepan Dasgupta:
   name        : "Sandeepan Dasgupta"
   email       : "dasgupsn@mail.uc.edu"
-  bio         : "MS Student"
+  bio         : "MS Alum"
   avatar      : "sandeepandasgupta.jpg"
   linkedin    : "sandeepan-dasgupta-9a7a73146/"
 
@@ -54,3 +54,20 @@ William Cullen:
   email       : "cullenwe@mail.uc.edu"
   bio         : "MS Student"
   avatar      : "williamcullen.jpg"
+
+Ermiyas Lakew:
+  name        : "Ermiyas Lakew"
+  email       : "lakewet@mail.uc.edu"
+  bio         : "MS Alum"
+  avatar      : "ermiyaslakew.jpg"
+  linkedin    : "ermiyas-lakew/"
+
+Tejas Mahajani:
+  name        : "Tejas Mahajani"
+  email       : "mahajaty@mail.uc.edu"
+  bio         : "MS Alum"
+  avatar      : "tejasmahajani.jpg"
+  linkedin    : "tejasmahajani1/"
+
+
+
