@@ -2,7 +2,7 @@
 title: "Denis Fulks"
 collection: people
 permalink: /people/denisfulks
-position: BS Student
+position: BS Alum
 start: May 2024
 end: August 2024
 order: 9
