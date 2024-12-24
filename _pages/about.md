@@ -18,7 +18,11 @@ News and Updates
 ----------------
 
 | **11/19/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) presents a talk at ASME IMECE and wins the Outstanding Student Presentation Award! |
-| **test** | test |
+| **11/11/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives an invited seminar talk at Southern Methodist University. Invited by [Prof. Ali Beskok](https://www.smu.edu/lyle/departments/me/people/faculty/beskok-ali) |
+| **11/11/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives an invited seminar talk at Embry-Riddle Aeronautical Univerity. Invited by [Prof. Sandra Boetcher](https://faculty.erau.edu/Sandra.Boetcher)|
+| **08/28/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti)  and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) present their work at the NASA Thermal Fluids and Analysis Workshop. [TFAWS](https://tfaws.nasa.gov) |
+|  |  |
+|  |  |
 |  |  |
 
 
