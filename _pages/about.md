@@ -24,7 +24,7 @@ News and Updates
 | **05/06/2024** | Congratulations to [Manjeera](https://kishanbellur.github.io/people/manjeeravinnakota) on well excexuted PhD dissertation defense! |
 | **05/10/2024** | [Tejas](https://kishanbellur.github.io/people/tejasmahajani) successfully defends MS Thesis. Congratulations! |
 | **05/29/2024** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) successfully defends MS Thesis! Ayaaz will continue at UCLID as a PhD student. |
-| **05/30/2024** | Congratulations to [Sandeepan](https://kishanbellur.github.io/people/sandeepandasgupta) on a successfull MS Thesis defence! |
+| **05/30/2024** | Congratulations to [Sandeepan](https://kishanbellur.github.io/people/sandeepandasgupta) on a successfull MS Thesis defense! |
 <!---Hi! I'm an engineer by profession, researcher by curiosity and educator by passion. I'm currently an assistant professor in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) at [University of Cincinnati](https://www.uc.edu/). --->
 
 
