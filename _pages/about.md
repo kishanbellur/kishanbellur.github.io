@@ -21,7 +21,7 @@ News and Updates
 | **11/11/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives an invited seminar talk at Southern Methodist University. Invited by [Prof. Ali Beskok](https://www.smu.edu/lyle/departments/me/people/faculty/beskok-ali) |
 | **11/11/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives an invited seminar talk at Embry-Riddle Aeronautical University. Invited by [Prof. Sandra Boetcher](https://faculty.erau.edu/Sandra.Boetcher) |
 | **08/28/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti)  and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) present their work at the NASA Thermal Fluids and Analysis Workshop. [TFAWS](https://tfaws.nasa.gov) |
-| **05/06/2024** | Congratulations to [Manjeera](https://kishanbellur.github.io/people/manjeeravinnakotta) on well excexuted PhD dissertation defense! |
+| **05/06/2024** | Congratulations to [Manjeera](https://kishanbellur.github.io/people/manjeeravinnakota) on well excexuted PhD dissertation defense! |
 | **05/10/2024** | [Tejas](https://kishanbellur.github.io/people/tejasmahajani) successfully defends MS Thesis. Congratulations! |
 | **05/29/2024** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) successfully defends MS Thesis! Ayaaz will continue at UCLID as a PhD student. |
 | **05/30/2024** | Congratulations to [Sandeepan](https://kishanbellur.github.io/people/sandeepandasgupta) on a successfull MS Thesis defence! |
