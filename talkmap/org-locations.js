@@ -26,8 +26,8 @@ var addressPoints = [
   ],
   [
     "29th Space Cryogenics Workshop | Virtual",
-    39.2171138,
-    -9.278711124684799
+    44.4939936,
+    11.3576917
   ],
   [
     "34th Annual Meeting of the American Society for Gravitational and Space Research, Washington, | Washington, DC, USA",
@@ -51,8 +51,8 @@ var addressPoints = [
   ],
   [
     "Gordon Research Conference on Micro and Nanoscale Phase Change Heat Transfer | Lucca (Barga), Italy",
-    44.0826068,
-    10.4638738
+    44.0454286,
+    10.4792677
   ],
   [
     "11th World Conference on Neutron Radiography | Sydney, Australia",
@@ -71,8 +71,8 @@ var addressPoints = [
   ],
   [
     "Gordon Research Seminar on Micro and Nanoscale Phase Change Heat Transfer | Lucca (Barga), Italy",
-    44.0826068,
-    10.4638738
+    44.0454286,
+    10.4792677
   ],
   [
     "Graduate Research Colloquium, Michigan Tech | Houghton, MI, USA",
@@ -96,8 +96,8 @@ var addressPoints = [
   ],
   [
     "36th Annual Meeting of the American Society for Gravitational and Space Research | Virtual",
-    39.2171138,
-    -9.278711124684799
+    44.4939936,
+    11.3576917
   ],
   [
     "NASA Glenn Research Center | Cleveland, OH, USA",
@@ -136,8 +136,8 @@ var addressPoints = [
   ],
   [
     "Vijaya College, Bangalore University | Bangalore, India",
-    12.9767936,
-    77.590082
+    12.98815675,
+    77.62260003796
   ],
   [
     "ASME-IMECE | Montreal, Quebec, Canada",
@@ -158,5 +158,10 @@ var addressPoints = [
     "8th Thermal and Fluids Engineering Conference | College Park, MD, USA",
     38.980666,
     -76.9369189
+  ],
+  [
+    "American Physical Society - Division of Fluid Dynamics | Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ]
 ];
