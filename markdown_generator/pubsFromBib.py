@@ -103,6 +103,7 @@ for pubsource in publist:
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
+            citation_notitle = citation
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
@@ -110,7 +111,7 @@ for pubsource in publist:
 
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
-
+            citation_notitle = citation_notitle + " " + venue + ", " + pub_year + "."
 
            
             ## YAML variables
@@ -139,6 +140,8 @@ for pubsource in publist:
                     url = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
+            md += "\ncitationNotitle: '" + html_escape(citation_notitle) + "'"
+
 
             md += "\n---"
 
