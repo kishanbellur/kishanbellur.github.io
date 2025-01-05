@@ -109,9 +109,9 @@ for pubsource in publist:
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
-            citation = citation + " *" + html_escape(venue) + "*"
+            citation = citation + " <i>" + html_escape(venue) + "</i>"
             citation = citation + ", " + pub_year + "."
-            citation_notitle = citation_notitle + " *" + venue + "*, " + pub_year + "."
+            citation_notitle = citation_notitle + " <i>" + venue + "</i>, " + pub_year + "."
 
            
             ## YAML variables
