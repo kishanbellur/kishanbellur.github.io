@@ -23,6 +23,8 @@ Prof. Bellur's is primarily interested in multi-scale modeling and visualization
 
 ### Experience
 
+| **Position**                 | **Institution**                              | **Dates**             |
+|------------------------------|-----------------------------------------------|-----------------------|
 | Assistant Professor          | University of Cincinnati                     | Aug 2021 – Present    |
 | Adjunct Assistant Professor  | Michigan Technological University            | Jan 2021 – Present    |
 | Visiting Assistant Professor | Manhattan College                            | Jan 2021 – Aug 2021   |
