@@ -22,6 +22,7 @@ Prof. Bellur's is primarily interested in multi-scale modeling and visualization
 * Ph.D in Mechanical Engineering, *Michigan Technological University*, 2018 
 
 ### Experience
+
 | Assistant Professor          | University of Cincinnati                     | Aug 2021 – Present    |
 | Adjunct Assistant Professor  | Michigan Technological University            | Jan 2021 – Present    |
 | Visiting Assistant Professor | Manhattan College                            | Jan 2021 – Aug 2021   |
