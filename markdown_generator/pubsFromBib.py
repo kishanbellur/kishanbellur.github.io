@@ -140,7 +140,7 @@ for pubsource in publist:
                     url = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
-            md += "\ncitationNotitle: '" + html_escape(citation_notitle) + "'"
+            md += "\ncitationNoTitle: '" + html_escape(citation_notitle) + "'"
 
 
             md += "\n---"
