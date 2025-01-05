@@ -89,11 +89,11 @@ for pubsource in publist:
             #strip out {} as needed (some bibtex entries that maintain formatting)
             clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
 
-            url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
+            url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", bib_id)
             url_slug = url_slug.replace("--","-")
 
             md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
-            html_filename = (str(pub_date) + "-" + url_slug).replace("--","-")
+            html_filename = (url_slug).replace("--","-")
 
             #Build Citation from text
             citation = ""
@@ -111,13 +111,15 @@ for pubsource in publist:
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
 
-            
-            ## YAML variables
-            md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
-            
-            md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
-            md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
+           
+            ## YAML variables
+            md = "---\ntitle: \"" + html_escape(b["title"].replace("{", "").replace("}", "").replace("\\", "")) + '"\n'
+            md += """collection: """ + publist[pubsource]["collection"]["name"]
+            md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"] + html_filename
+            md += """\npaperurl: """ + "'http://kishanbellur.github.io/files/" + html_filename + ".pdf'"
+            md += """\ndoi: """ + "'https://doi.org/" + str(b["doi"]) + "'"
+            
             
             note = False
             if "note" in b.keys():
@@ -128,7 +130,8 @@ for pubsource in publist:
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
-            
+
+
             url = False
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
