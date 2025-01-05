@@ -20,6 +20,8 @@ Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liq
 
 ### Experience
 
-| Intern          | GE Aerospace     			| 2020-2023 |
-| Intern          | Florida Turbine Technologies     	| 2019 |
-| Intern          | Kimlet-Horn & Associates     	| 2017 |
+| **Position**   | **Organization**                    | **Dates**       |
+|----------------|--------------------------------|-----------------|
+| Intern         | GE Aerospace                  | 2020 – 2023     |
+| Intern         | Florida Turbine Technologies  | 2019            |
+| Intern         | Kimley-Horn & Associates      | 2017            |
