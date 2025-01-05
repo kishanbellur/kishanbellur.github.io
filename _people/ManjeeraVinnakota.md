@@ -22,5 +22,7 @@ excerpt: <font size="3"> PhD Dissertation, "Design and Investigation of a Hydrau
 * BE in Mechanical Engineering, AU College of Engineering, India, 2006
 
 ### Prior Experience
-| Project Lead                | TATA Consultancy Services (TCS)     |
-| New Product Development     | Ethicon (J&J MedTech)               |
+| **Position**         | **Company**                                |
+|-----------------------|--------------------------------------------|
+| Project Lead          | TATA Consultancy Services (TCS)           |
+| New Product Development | Ethicon (J&J MedTech)                    |

@@ -18,8 +18,10 @@ Multiscale liquid-vapor phase change, molecular dynamics.
 * B.S. in Mechanical Engineering, SRM University, 2015
 
 ### Experience
-| Research Specialist            | University of Illinois at Chicago                 | 2015-2017 |
-| Aeronautical Engineer          | Defence Research and Development Organization     | 2018-2022 |
+| **Position**             | **Institution**                              | **Dates**       |
+|---------------------------|----------------------------------------------|-----------------|
+| Research Specialist       | University of Illinois at Chicago           | 2015 – 2017     |
+| Aeronautical Engineer     | Defence Research and Development Organization | 2018 – 2022     |
 
 ### Honors and awards
 * Graduate Incentive Award, University of Cincinnati, 2022 - current

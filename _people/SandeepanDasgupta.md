@@ -20,6 +20,7 @@ excerpt: <font size="3"> MS Thesis, "Optical Transmission through Sessile Water 
 * B.S. in Mechanical Engineering, SRM University, 2020
 
 ### Prior Experience
-| Junior Project Assistant           | Indian Institute of Technology, Delhi     | 12/2019 - 01/2021 |
-| Teacher (6th -10th grade)          | Prayaas Institute of Excellence           | 02/2021 - 07/2021 |
-
+| **Position**               | **Institution**                         | **Dates**            |
+|----------------------------|------------------------------------------|----------------------|
+| Junior Project Assistant   | Indian Institute of Technology, Delhi   | Dec 2019 – Jan 2021  |
+| Teacher (6th–10th grade)   | Prayaas Institute of Excellence          | Feb 2021 – Jul 2021  |
