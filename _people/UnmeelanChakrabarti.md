@@ -18,6 +18,7 @@ Multiscale liquid-vapor phase change, molecular dynamics.
 * B.S. in Mechanical Engineering, SRM University, 2015
 
 ### Experience
+
 | **Position**             | **Institution**                              | **Dates**       |
 |---------------------------|----------------------------------------------|-----------------|
 | Research Specialist       | University of Illinois at Chicago           | 2015 – 2017     |
