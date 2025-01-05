@@ -20,8 +20,10 @@ Computational Fluid Dyanmics, Multiphase Flows, Phase Change Modeling, Numerical
 
 ### Experience
 
-| Instructor          | Department of Engineering & Computing Education, University of Cincinnati     | 01/2022 – Present |
-| Research Assistant          | UC Simulation Center, in collaboration with P&G     | 10/2022 – 12/2022 |
+| **Position**          | **Institution/Organization**                             | **Dates**            |
+|-----------------------|----------------------------------------------------------|----------------------|
+| Instructor            | Department of Engineering & Computing Education, University of Cincinnati | Jan 2022 – Present   |
+| Research Assistant    | UC Simulation Center, in collaboration with P&G          | Oct 2022 – Dec 2022  |
 
 ### Honors and Awards
 * Nominated for the 2024 UC Excellence in Teaching Award by the Dept of Engineering & Computing Education.
