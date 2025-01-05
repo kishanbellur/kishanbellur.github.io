@@ -8,4 +8,4 @@ date: 2014-11-20
 location: "Cleveland, OH, USA"
 ---
 
-NASA Early Stage Innovation Workshop on âMeasuring Accommodation Coefficientsâ.
+NASA Early Stage Innovation Workshop on Ã¢ÂÂMeasuring Accommodation CoefficientsÃ¢ÂÂ.

@@ -8,4 +8,4 @@ date: 2018-03-27
 location: "Minneapolis, MN, USA"
 ---
 
-IMA workshop on Dynamic Contact Lines: Progress and Opportunitiesâ. Kishan Bellur received travel support to attend/present at this workshop.
+IMA workshop on Dynamic Contact Lines: Progress and OpportunitiesÃ¢ÂÂ. Kishan Bellur received travel support to attend/present at this workshop.

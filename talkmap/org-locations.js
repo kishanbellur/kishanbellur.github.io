@@ -35,6 +35,11 @@ var addressPoints = [
     -77.0365427
   ],
   [
+    "Embry-Riddle Aeronautical University | Daytona Beach, FL, USA",
+    29.2108147,
+    -81.0228331
+  ],
+  [
     "Portland State University | Portland, OR, USA",
     45.5202471,
     -122.674194
@@ -51,8 +56,18 @@ var addressPoints = [
   ],
   [
     "Gordon Research Conference on Micro and Nanoscale Phase Change Heat Transfer | Lucca (Barga), Italy",
-    44.0754957,
-    10.4821594
+    44.0454286,
+    10.4792677
+  ],
+  [
+    " 76th Annual Meeting of the American Physical Society \u00d0 Division of Fluid Dynamics (APS DFD) | Washington, DC, USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
+    "NASA Thermal Fluids Analysis Workshop (TFAWS) 2024 | Cleveland, OH, USA",
+    41.4996574,
+    -81.6936772
   ],
   [
     "11th World Conference on Neutron Radiography | Sydney, Australia",
@@ -71,8 +86,8 @@ var addressPoints = [
   ],
   [
     "Gordon Research Seminar on Micro and Nanoscale Phase Change Heat Transfer | Lucca (Barga), Italy",
-    44.0754957,
-    10.4821594
+    44.0454286,
+    10.4792677
   ],
   [
     "Graduate Research Colloquium, Michigan Tech | Houghton, MI, USA",
@@ -85,9 +100,24 @@ var addressPoints = [
     -122.674194
   ],
   [
+    "ASME-IMECE 2024 | Portland, OR, USA",
+    45.5202471,
+    -122.674194
+  ],
+  [
     "38th Annual Meeting of the American Society for Gravitational and Space Research | Houston, TX, USA",
     29.7589382,
     -95.3676974
+  ],
+  [
+    "ASME Turbo Expo 2024 | London, UK",
+    51.4893335,
+    -0.14405508452768728
+  ],
+  [
+    "Southern Methodist University | Dallas, TX, USA",
+    32.7762719,
+    -96.7968559
   ],
   [
     "27th Space Cryogenics Workshop | Chicago, IL, USA",
@@ -110,7 +140,7 @@ var addressPoints = [
     -122.2034496
   ],
   [
-    "ASME Summer Heat Transfer Conference | Washington, DC, USA",
+    "ASME Summer Heat Transfer Conference 2024 | Washington, DC, USA",
     38.8950368,
     -77.0365427
   ],
@@ -145,12 +175,17 @@ var addressPoints = [
     -73.5698065
   ],
   [
+    "75th Annual Meeting of the American Physical Society \u00c3\u0090 Division of Fluid Dynamics (APS DFD) | Indianapolis, IN, USA",
+    39.7683331,
+    -86.1583502
+  ],
+  [
     "Portage Lake District Library | Houghton, MI, USA",
     46.8591287,
     -88.7774734
   ],
   [
-    "Thermal and Fluids Analysis Workshop (TFAWS)  | College Park, MD, USA",
+    "Thermal and Fluids Analysis Workshop (TFAWS) 2023 | College Park, MD, USA",
     38.980666,
     -76.9369189
   ],
