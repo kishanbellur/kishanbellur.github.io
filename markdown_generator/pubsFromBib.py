@@ -138,7 +138,7 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            md += "\ncitation: '" + html_escape(author_only) + "'"
+            md += "\nauthors: '" + html_escape(author_only) + "'"
             md += "\ncitationNoTitle: '" + html_escape(citation_notitle) + "'"
 
 
