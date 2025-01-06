@@ -45,9 +45,9 @@ layout: default
              
         {% if page.authors and page.paperurl %}
           <!--<p>Citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>PDF</u></a></p>-->
-	  <p> Authors: {{ page.authors }} </p>
+	  <p> <u> Authors: </u> {{ page.authors }} </p>
         {% elsif page.authors %}
-          <p>Authors: {{ page.authors }} </p>
+          <p> <u> Authors: </u> {{ page.authors }} </p>
         {% endif %}
     
         </header>
