@@ -100,10 +100,9 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
+                author_only = citation+" "+author.first_names[0]+" "+author.last_names[0]+"."
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
-
-            #citation title
-            citation_notitle = citation
+            
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
@@ -111,7 +110,7 @@ for pubsource in publist:
 
             citation = citation + " <i>" + html_escape(venue) + "</i>"
             citation = citation + ", " + pub_year + "."
-            citation_notitle = citation_notitle + " <i>" + venue + "</i>, " + pub_year + "."
+            citation_notitle = author_only + " <i>" + venue + "</i>, " + pub_year + "."
 
            
             ## YAML variables
@@ -139,7 +138,7 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            md += "\ncitation: '" + html_escape(citation) + "'"
+            md += "\nauthors: '" + html_escape(author_only) + "'"
             md += "\ncitationNoTitle: '" + html_escape(citation_notitle) + "'"
 
 
