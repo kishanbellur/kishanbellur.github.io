@@ -28,5 +28,5 @@ Updates
 | **05/29/2024** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) successfully defends MS Thesis and will continue at UCLID as a PhD student.                                                                                          |
 | **05/10/2024** | [Tejas](https://kishanbellur.github.io/people/tejasmahajani) successfully defends MS Thesis. Congratulations!                                                                                                                  |
 | **05/06/2024** | Congratulations to [Manjeera](https://kishanbellur.github.io/people/manjeeravinnakota) on a well-executed PhD dissertation defense!                                                                                            |
-| **old** | Older updates are archived here [Tejas](https://kishanbellur.github.io/posts/year-archive/updates)                                                                                           
+| **old** | Older updates are archived [here](https://kishanbellur.github.io/posts/updates)                                                                                           
 |
