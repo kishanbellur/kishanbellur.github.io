@@ -18,8 +18,8 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **03/10/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) led a team that won 1st place in the Green Energy CFD Competition at the ASTFE conference! |
-| **08/28/2024** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) presented their work at the [ASTFE conference](https://www.astfe.org/tfec2025/). |
+| **03/12/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) led a team that won 1st place in the ASTFE [Green Energy CFD Competition](https://www.astfe.org/tfec2025/first-annual-astfe-green-energy-cfd-competition/).|
+| **03/11/2024** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) presented their work at the [ASTFE conference](https://www.astfe.org/tfec2025/). |
 | **02/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Ericsson, Sweden, on recent trends in non-invasive two-phase flow and phase-change diagnostics. |
 | **12/04/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) successfully defended his PhD proposal and advanced to PhD candidacy! |
 | **11/19/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) presented a talk at ASME IMECE and won the Outstanding Student Presentation Award! |
