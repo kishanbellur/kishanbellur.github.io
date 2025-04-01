@@ -23,6 +23,7 @@ Updates
                                     |
 | **02/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives invited talk at Ericsson, Sweden on recent trends in non-invasive two-phase flow and phase-change diagnostics
                                     |
+| **12/04/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) successfully defends PhD proposal and advances to PhD candidacy!                                                                                         |
 | **11/19/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) presents a talk at ASME IMECE and wins the Outstanding Student Presentation Award!                                                                       |
 | **11/11/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives invited seminar talk at Southern Methodist University (host: [Prof. Ali Beskok](https://www.smu.edu/lyle/departments/me/people/faculty/beskok-ali)) |
 | **10/30/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives invited seminar talk Embry-Riddle Aeronautical University (host: [Prof. Sandra Boetcher](https://faculty.erau.edu/Sandra.Boetcher)) |
