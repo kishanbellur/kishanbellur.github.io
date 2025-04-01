@@ -19,8 +19,11 @@ Updates
 
 | **Date**       | **Event**                                                                                                                                                                                                                     |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **12/04/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) successfully defends PhD proposal and advances to PhD candidacy!                                                                                         |
-| **11/19/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) presents a talk at ASME IMECE and wins the Outstanding Student Presentation Award!                                                                        |
+| **03/10/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) led a team that won 1st place in the Green Energy CFD Competition at the ASTFE conference!
+                                    |
+| **02/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives invited talk at Ericsson, Sweden on recent trends in non-invasive two-phase flow and phase-change diagnostics
+                                    |
+| **11/19/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) presents a talk at ASME IMECE and wins the Outstanding Student Presentation Award!                                                                       |
 | **11/11/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives invited seminar talk at Southern Methodist University (host: [Prof. Ali Beskok](https://www.smu.edu/lyle/departments/me/people/faculty/beskok-ali)) |
 | **10/30/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gives invited seminar talk Embry-Riddle Aeronautical University (host: [Prof. Sandra Boetcher](https://faculty.erau.edu/Sandra.Boetcher)) |
 | **08/28/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) present their work at the NASA Thermal Fluids and Analysis Workshop ([TFAWS](https://tfaws.nasa.gov)).                            |
