@@ -33,4 +33,4 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 | **05/29/2024** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) successfully defended his MS thesis and will continue at UCLID as a PhD student. |
 | **05/10/2024** | [Tejas](https://kishanbellur.github.io/people/tejasmahajani) successfully defended his MS thesis. Congratulations! |
 | **05/06/2024** | Congratulations to [Manjeera](https://kishanbellur.github.io/people/manjeeravinnakota) on a well-executed PhD dissertation defense! |
-| **[Older Updates](https://kishanbellur.github.io/posts/update)** | Archived updates can be found here. |
+| **[Older Updates](https://kishanbellur.github.io/posts/update)** | Updates older than one year are archived and can can be found here. |
