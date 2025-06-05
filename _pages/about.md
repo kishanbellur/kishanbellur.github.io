@@ -18,12 +18,14 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **05/13/2025** | We received the 2025 _Gold Star Lab_ Award :star: from the College of Engineering and Applied Science. |
+| **05/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Oregon State University, Corvallis, OR (host: [Prof. Andy Dong](https://engineering.oregonstate.edu/people/andy-dong)). |
+| **05/13/2025** | We received the 2025 _Gold Star Lab_ Award from the College of Engineering and Applied Science. |
 | **05/07/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for being selected to recieve the [2025 Armstrong Fellowship for Discovery](https://research.uc.edu/armstrong-institute)!|
-| **05/01/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Hokkaido University, Japan on _Controlling capillary flow in porous media_. (host: [Prof. Yutaka Tabe](https://ecs.eng.hokudai.ac.jp)). |
+| **05/01/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Hokkaido University, Japan (host: [Prof. Yutaka Tabe](https://ecs.eng.hokudai.ac.jp)). |
 | **03/12/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) led a team that won 1st place in the ASTFE [Green Energy CFD Competition](https://www.astfe.org/tfec2025/first-annual-astfe-green-energy-cfd-competition/).|
 | **03/11/2024** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) presented their work at the [ASTFE conference](https://www.astfe.org/tfec2025/). |
-| **02/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Ericsson, Sweden, on _Recent trends in non-invasive two-phase flow and phase-change diagnostics._ |
+| **02/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Ericsson, Sweden. |
+| **02/11/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Miami University, Oxford, OH (host: [Prof. Andrew Sommers](https://miamioh.edu/profiles/cec/andrew-sommers.html)) |
 | **12/04/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) successfully defended his PhD proposal and advanced to PhD candidacy! |
 | **11/19/2024** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) presented a talk at ASME IMECE and won the Outstanding Student Presentation Award! |
 | **11/11/2024** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited seminar talk at Southern Methodist University (host: [Prof. Ali Beskok](https://www.smu.edu/lyle/departments/me/people/faculty/beskok-ali)). |
