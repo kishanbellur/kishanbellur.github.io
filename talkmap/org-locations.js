@@ -40,6 +40,11 @@ var addressPoints = [
     -81.0228331
   ],
   [
+    "University of Manchester | Manchester, UK",
+    53.4794892,
+    -2.2451148
+  ],
+  [
     "Portland State University | Portland, OR, USA",
     45.5202471,
     -122.674194
@@ -56,8 +61,8 @@ var addressPoints = [
   ],
   [
     "Gordon Research Conference on Micro and Nanoscale Phase Change Heat Transfer | Lucca (Barga), Italy",
-    44.0454286,
-    10.4792677
+    44.0754957,
+    10.4821594
   ],
   [
     " 76th Annual Meeting of the American Physical Society \u00d0 Division of Fluid Dynamics (APS DFD) | Washington, DC, USA",
@@ -68,6 +73,26 @@ var addressPoints = [
     "NASA Thermal Fluids Analysis Workshop (TFAWS) 2024 | Cleveland, OH, USA",
     41.4996574,
     -81.6936772
+  ],
+  [
+    "Miami University | Oxford, OH, USA",
+    39.5103048,
+    -84.7420519
+  ],
+  [
+    "Gordon Research Conference on Micro and Nanoscale Phase Change Phenomena | Pomona, CA, USA",
+    34.0553813,
+    -117.7517496
+  ],
+  [
+    "105th Annual Meeting of the American Meteorological Society | New Orleans, LA, USA",
+    29.9759983,
+    -90.0782127
+  ],
+  [
+    "10th Thermal and Fluids Engineering Conference (ASTFE) | Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ],
   [
     "11th World Conference on Neutron Radiography | Sydney, Australia",
@@ -86,8 +111,8 @@ var addressPoints = [
   ],
   [
     "Gordon Research Seminar on Micro and Nanoscale Phase Change Heat Transfer | Lucca (Barga), Italy",
-    44.0454286,
-    10.4792677
+    44.0754957,
+    10.4821594
   ],
   [
     "Graduate Research Colloquium, Michigan Tech | Houghton, MI, USA",
@@ -112,7 +137,7 @@ var addressPoints = [
   [
     "ASME Turbo Expo 2024 | London, UK",
     51.4893335,
-    -0.14405508452768728
+    -0.1440551
   ],
   [
     "Southern Methodist University | Dallas, TX, USA",
@@ -166,8 +191,8 @@ var addressPoints = [
   ],
   [
     "Vijaya College, Bangalore University | Bangalore, India",
-    12.98815675,
-    77.62260003796
+    12.9881567,
+    77.6226
   ],
   [
     "ASME-IMECE | Montreal, Quebec, Canada",
@@ -185,9 +210,19 @@ var addressPoints = [
     -88.7774734
   ],
   [
+    "Oregon State University | Corvallis, OR, USA",
+    44.5645659,
+    -123.2620435
+  ],
+  [
     "Thermal and Fluids Analysis Workshop (TFAWS) 2023 | College Park, MD, USA",
     38.980666,
     -76.9369189
+  ],
+  [
+    "Hokkaido University  | Sapporo, Hokkaido, Japan",
+    43.061936,
+    141.3542924
   ],
   [
     "8th Thermal and Fluids Engineering Conference | College Park, MD, USA",

@@ -18,7 +18,7 @@ from geopy import Nominatim
 g = glob.glob("_talks/*.md")
 
 
-geocoder = Nominatim(user_agent="new-application")
+geocoder = Nominatim(user_agent="UCLID-website")
 location_dict = {}
 location = ""
 permalink = ""
@@ -46,7 +46,7 @@ for file in g:
            
         key = str(venue + " | " + location)                 
            
-        location_dict[key] = geocoder.geocode(location)
+        location_dict[key] = geocoder.geocode(location,timeout=10)
         print(key, "\n", location_dict[key])
 
 
