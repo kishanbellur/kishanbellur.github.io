@@ -1,0 +1,13 @@
+---
+title: "Neutron imaging of evaporation/condensation in cryogenic propellants: an accommodation coefficient study"
+collection: talks
+type: "Oral presentation"
+permalink: /talks/11/21/22-APS-DFD1
+venue: "75th Annual Meeting of the American Physical Society - Division of Fluid Dynamics (APS DFD)"
+date: 11/21/22
+location: "Indianapolis, IN, USA"
+---
+
+[More information here](https://meetings.aps.org/Meeting/DFD22/Session/Z20.1)
+
+Exerimental results from cryo/neutron imaging work were discussed. The data (neutron images, temperature and pressure measurements) were packed into a publicly accessible [database](https://data.mendeley.com/datasets/z5zc7kk76g/2) and disseminated through a [data article](https://kishanbellur.github.io/publication/bellur_2022a). 
