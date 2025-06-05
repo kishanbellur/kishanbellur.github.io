@@ -18,7 +18,7 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **05/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Oregon State University, Corvallis, OR on _Probing fundamental assumptions in phase change and playing with surface tension_ (host: [Prof. Andy Dong]([https://ecs.eng.hokudai.ac.jp](https://engineering.oregonstate.edu/people/andy-dong)). |
+| **05/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Oregon State University, Corvallis, OR on _Probing fundamental assumptions in phase change and playing with surface tension_ (host: [Prof. Andy Dong](https://engineering.oregonstate.edu/people/andy-dong)). |
 | **05/13/2025** | We received the 2025 _Gold Star Lab_ Award from the College of Engineering and Applied Science. |
 | **05/07/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for being selected to recieve the [2025 Armstrong Fellowship for Discovery](https://research.uc.edu/armstrong-institute)!|
 | **05/01/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Hokkaido University, Japan on _Controlling capillary flow in porous media_. (host: [Prof. Yutaka Tabe](https://ecs.eng.hokudai.ac.jp)). |
