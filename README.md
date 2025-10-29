@@ -1,6 +1,6 @@
 # Website for The University of Cincinnati Lab for Interfacial dynamics (UCLID) led by Prof. Kishan Bellur
 
-This website is based on a template for academic websites that was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md. Select UCLID students that have edit access can update the website using the instructions below.
+This website is based on a publicly available template for academic websites that was forked from [Stuart Geiger](https://github.com/staeiou) who modfied the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) released under the MIT License. See LICENSE.md.  Select UCLID students that have edit access can update the website using the instructions below.
 
 ## Instructions to update _Talks_ 
 1) Pull latest version from github
