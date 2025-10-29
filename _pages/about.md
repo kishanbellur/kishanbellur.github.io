@@ -18,6 +18,9 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **10/20/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) successfully defended his PhD proposal and advanced to PhD candidacy! |
+| **10/14/2025** | New paper on pore-scale flow regime tuning with surfactants. Great work by [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami)! |
+| **08/20/2025** | [Unmeelan's](https://kishanbellur.github.io/people/unmeelanchakrabarti) second paper on analysis of ISS experiments is now available! |
 | **05/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Oregon State University, Corvallis, OR (host: [Prof. Andy Dong](https://engineering.oregonstate.edu/people/andy-dong)). |
 | **05/13/2025** | We received the 2025 _Gold Star Lab_ Award from the College of Engineering and Applied Science. |
 | **05/07/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for being selected to recieve the [2025 Armstrong Fellowship for Discovery](https://research.uc.edu/armstrong-institute)!|
