@@ -4,7 +4,7 @@ This website is based on a publicly available template for academic websites tha
 
 ## Instructions to update _Talks_ 
 1) Pull latest version from github
-2) Update _markdowngenerator/talks.tsv_
+2) Update _markdowngenerator/talks.tsv_. Note that YAML date format is YYYY-MM-DD.
 3) Run: _python3 talks.py_ from the _markdowngenerators/_ folder. This generates or updates the markdown files in _talks/_
 4) Run: _python3 talkmap.py_ from the base directory to update the talkmap
 5) Push changes to github
