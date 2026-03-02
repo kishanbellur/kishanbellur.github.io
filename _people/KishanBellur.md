@@ -31,9 +31,11 @@ Prof. Bellur's is primarily interested in multi-scale modeling and visualization
 | Postdoctoral Scholar         | Michigan Technological University / University of Michigan | Oct 2018 – Jan 2021 |
 
 ### Honors and awards
-* CAREER award, *National Science Foundation*, 2024
+* Rising Star of Mechanical Engineering, *American Society of Mechanical Engineers*, 2025
+* Gold Star Lab award, *College of Engineering and Applied Sciences*, 2025
 * Distinguished Researcher Award, *College of Engineering and Applied Sciences*, 2024
-* Best Paper Award, *Cryogenics* (Elsevier), 2022
+* CAREER award, *National Science Foundation*, 2024
+* Best paper award, *Cryogenics* (Elsevier), 2022
 * Best poster award, *American Society of Gravitational and Space Research* annual meeting, 2018.
 * 1 st place award for best oral presentation, Graduate Research Colloquium, *Michigan Tech*, 2018.
 * Dean's award for outstanding scholarship, *Michigan Tech*, 2018.

@@ -2,7 +2,7 @@
 title: "William Cullen"
 collection: people
 permalink: /people/williamcullen
-position: MS Student
+position: MS Alum
 start: 2023
 end: present
 order: 8
@@ -15,7 +15,7 @@ excerpt: <font size="3"> Lidenfrost Effect, Droplet Manipulation, Removal of Par
 Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liquid Droplets
 
 ### Education
-* M.S. in Mechanical Engineering, University of Cincinnati, 2023-present
+* M.S. in Mechanical Engineering, University of Cincinnati, 2025
 * B.S. in Mechanical Engineering, University of Florida, 2019
 
 ### Experience

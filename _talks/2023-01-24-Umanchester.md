@@ -1,0 +1,9 @@
+---
+title: "Addressing fundamental challenges in liquid-vapor interface transport modeling for space applications"
+collection: talks
+type: "Invited talk"
+permalink: /talks/2023-01-24-Umanchester
+venue: "University of Manchester"
+date: 2023-01-24
+location: "Manchester, UK"
+---
