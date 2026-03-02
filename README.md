@@ -22,7 +22,7 @@ This website is based on a publicly available template for academic websites tha
 8) Update changelog below
 
 ## Changelog --
-
+2026-03-01: Kishan updates talks and pubs
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
