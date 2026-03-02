@@ -18,6 +18,9 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **12/19/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for being receiving a second [Armstrong Fellowship!](https://research.uc.edu/armstrong-institute)!|
+| **11/16/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) recieved a _Rising Star in Mechanial Engineering_ recognition at ASME IMECE! |
+| **11/16/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) recieved a travel award to present/attend ASME IMECE. He was accompanied by labmates [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) and [Saaras](https://kishanbellur.github.io/people/saaraspakanati) |
 | **10/20/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) successfully defended his PhD proposal and advanced to PhD candidacy! |
 | **10/14/2025** | [New paper](https://kishanbellur.github.io/files/sarchami_2026.pdf) on pore-scale flow regime tuning with surfactants. Great work by [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami)! |
 | **08/20/2025** | [Unmeelan's](https://kishanbellur.github.io/people/unmeelanchakrabarti) second paper on analysis of ISS experiments is now [available](https://kishanbellur.github.io/publication/chakrabarti_2025a)! |
@@ -38,4 +41,4 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 | **05/29/2024** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) successfully defended his MS thesis and will continue at UCLID as a PhD student. |
 | **05/10/2024** | [Tejas](https://kishanbellur.github.io/people/tejasmahajani) successfully defended his MS thesis. Congratulations! |
 | **05/06/2024** | Congratulations to [Manjeera](https://kishanbellur.github.io/people/manjeeravinnakota) on a well-executed PhD dissertation defense! |
-| **[Older Updates](https://kishanbellur.github.io/posts/update)** | Updates older than one year are archived and can can be found here. |
+| **[Older Updates](https://kishanbellur.github.io/posts/updates)** | Updates older than one year are archived and can can be found here. |
