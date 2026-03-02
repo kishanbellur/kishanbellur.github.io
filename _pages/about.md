@@ -29,7 +29,7 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 | **05/07/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for being selected to recieve the [2025 Armstrong Fellowship for Discovery](https://research.uc.edu/armstrong-institute)!|
 | **05/01/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Hokkaido University, Japan (host: [Prof. Yutaka Tabe](https://ecs.eng.hokudai.ac.jp)). |
 | **03/12/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) led a team that won 1st place in the ASTFE [Green Energy CFD Competition](https://www.astfe.org/tfec2025/first-annual-astfe-green-energy-cfd-competition/).|
-| **03/11/2024** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) presented their work at the [ASTFE conference](https://www.astfe.org/tfec2025/). |
+| **03/11/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) presented their work at the [ASTFE conference](https://www.astfe.org/tfec2025/). |
 | **02/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Ericsson, Sweden. |
 | **02/11/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Miami University, Oxford, OH (host: [Prof. Andrew Sommers](https://miamioh.edu/profiles/cec/andrew-sommers.html)) |
 | **[Older Updates](https://kishanbellur.github.io/posts/updates)** | Updates older than one year are archived and can can be found here. |
