@@ -22,10 +22,10 @@ Unmeelan Chakrabarti:
 Amirhosein Sarchami:
   name        : "Amirhosein Sarchami"
   email       : "sarchaan@mail.uc.edu"
-  bio         : "PhD Student"
+  bio         : "PhD Candidate"
   avatar      : "amirhoseinsarchami1.jpg"
   googlescholar    : "https://scholar.google.com/citations?user=gugmMjcAAAAJ&hl=en&oi=ao"
-  linkedin    : "amirhosein-sarchami-229751188/"
+  linkedin    : "amirhosein-sarchami/"
 
 Manjeera Vinnakota:
   name        : "Manjeera Vinnakota"
@@ -75,6 +75,13 @@ Saaras Pakanati:
   bio         : "BS Student"
   avatar      : "saaraspakanati.jpg"
   linkedin    : "saaras-pakanati/"
+
+  Tahsin Enam:
+  name        : "Tahsin Enam"
+  email       : "enamtn@mail.uc.edu"
+  bio         : "PhD Student"
+  avatar      : "tahsinenam.jpg"
+  linkedin    : "tahsinenam/"
 
 
 
