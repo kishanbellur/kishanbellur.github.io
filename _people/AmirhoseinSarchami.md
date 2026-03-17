@@ -19,5 +19,8 @@ Porous Media, Two-Phase Flow, Thermal Management, Li-ion Battery, Optical Micros
 * B.S. in Mechanical Engineering, Islamic Azad University (North Tehran Branch), 2019
 
 ### Honors and awards
+* Dean’s Dissertation Completion Fellowship, Graduate College, University of Cincinnati
 * 1st Place Winner Green Energy CFD Competition, American Society of Thermal Fluid Engineering (ASTFE)
-* Several Travel Awards from the College of Engineering and Applied Science, University of Cincinnati
+* Several Travel Awards from the University of Cincinnati, NSF, and ASME
+* Graduate Scholarship, Department of Mechanical and Materials Engineering, University of Cincinnati
+* Graduate Incentive Award, College of Engineering and Applied Science, University of Cincinnati
