@@ -21,13 +21,13 @@ Porous Media, Two-Phase Flow, Thermal Management, Li-ion Battery, Optical Micros
 
  ### Experience
 * Graduate research assistant, University of Cincinnati, 2023 - Present
-1. Designed and conducted experimental studies on phase-change heat transfer, thin-film evaporation, and interfacial transport
-2. Developed high-resolution optical diagnostics, including interferometry, optical microscopy, and ellipsometry
-3. Built and validated physics-based numerical models for multiphase heat and mass transfer
+* Designed and conducted experimental studies on phase-change heat transfer, thin-film evaporation, and interfacial transport
+* Developed high-resolution optical diagnostics, including interferometry, optical microscopy, and ellipsometry
+* Built and validated physics-based numerical models for multiphase heat and mass transfer
 
 * Graduate research assistant, University of Tehran, 2018 - 2022
-1. Designed and built experimental setups to study thermal behavior of Li-ion battery packs
-2. Developed computational models of lithium-ion battery modules with advanced cooling strategies
+* Designed and built experimental setups to study thermal behavior of Li-ion battery packs
+* Developed computational models of lithium-ion battery modules with advanced cooling strategies
 
 ### Honors and awards
 * Dean’s Dissertation Completion Fellowship, Graduate College, University of Cincinnati
