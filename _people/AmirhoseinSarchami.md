@@ -15,6 +15,7 @@ excerpt: <font size="3"> Porous Media, Two-Phase Flow, Thermal Management, Li-io
 Porous Media, Two-Phase Flow, Thermal Management, Li-ion Battery, Optical Microscopy
 
 ### Education
+* PhD in Mechanical Engineering, University of Cincinnati, 2023-Present
 * M.S. in Mechanical Engineering, Islamic Azad University (Science and Research Branch), 2022
 * B.S. in Mechanical Engineering, Islamic Azad University (North Tehran Branch), 2019
 
