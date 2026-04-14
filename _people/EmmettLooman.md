@@ -5,10 +5,10 @@ permalink: /people/emmettlooman
 position: BS Student
 start: 2024
 end: present
-order: 3
+order: 7
 author: Emmett Looman
 author_profile: true
-[comment]: # excerpt: "<img src='/images/EmmettLooman.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/EmmettLooman.jpg' width='100' height='auto'>"
 excerpt: <font size="3"> Fluid Mechanics, Signal and Image Processing, Optics </font>
 ---
 ### Research Interests
