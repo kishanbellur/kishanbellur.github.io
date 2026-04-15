@@ -9,7 +9,7 @@ order: 7
 author: Sandeepan Dasgupta
 author_profile: true
 [comment]: # excerpt: "<img src='/images/sandeepandasgupta.jpg' width='150' height='auto'>"
-excerpt: <font size="3"> MS Thesis, "Optical Transmission through Sessile Water Droplets Undergoing Solidification, and the Effect of Hydrophobicity", 2024. </font>
+excerpt: <font size="3"> MS Thesis, "Optical Transmission through Sessile Water Droplets Undergoing Solidification, and the Effect of Hydrophobicity", 2024. Currently at IIT Bombay. </font>
 ---
 ### Research
 * Interests: Phase Change, Solidification-Melting, Optics, Cryo-surgery, Cryo-preservation, Bio-heat Transfer
