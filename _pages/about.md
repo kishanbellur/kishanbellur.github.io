@@ -22,10 +22,10 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 | **04/08/2025** | [Saaras](https://kishanbellur.github.io/people/saaraspakanati) received the _Merchant M. Eugene Scholarship_!|
 | **04/07/2026** | Congratulations to [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) for receiving the prestigious _Dean's Dissertation Completion Fellowship_!|
 | **03/17/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) received a Graduate Stduent Government (GSG) _Research Fellowship Award_!|
-| **03/17/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _[ASTFE Early Career Researcher Award]_(https://www.astfe.org/awards/early_career_researcher_award/) for his contributions to Thermal Fluids Engineering!|
+| **03/17/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _[ASTFE Early Career Researcher Award](https://www.astfe.org/awards/early_career_researcher_award/)_ for his contributions to Thermal Fluids Engineering!|
 | **02/10/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) won the competitive _University Research Scholar (URC) fellowship_!|
 | **02/09/2026** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) successfully defends his PhD!|
-| **12/19/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for receiving a second _[Armstrong Fellowship]_(https://research.uc.edu/armstrong-institute)!|
+| **12/19/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for receiving a second _[Armstrong Fellowship](https://research.uc.edu/armstrong-institute)_!|
 | **11/16/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) recieved a _Rising Star in Mechanial Engineering_ recognition at ASME IMECE! |
 | **11/16/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) recieved an NSF sponsored travel award to present/attend ASME IMECE. He was accompanied by labmates [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) and [Saaras](https://kishanbellur.github.io/people/saaraspakanati) |
 | **10/20/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) successfully defended his PhD proposal and advanced to PhD candidacy! |
