@@ -18,10 +18,10 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **05/13/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _Neil Wandmaker Teaching Award_ from the College of Engineering and Applied Science!|
-| **04/08/2025** | [Saaras](https://kishanbellur.github.io/people/saaraspakanati) receives the _Merchant M. Eugene Scholarship_!|
+| **05/13/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _Neil Wandmacher Teaching Award_ from the College of Engineering and Applied Science!|
+| **04/08/2025** | [Saaras](https://kishanbellur.github.io/people/saaraspakanati) received the _Merchant M. Eugene Scholarship_!|
 | **04/07/2026** | Congratulations to [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) for receiving the prestigious _Dean's Dissertation Completion Fellowship_!|
-| **03/17/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) receives a Graduate Stduent Government (GSG) _Research Fellowship Award_!|
+| **03/17/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) received a Graduate Stduent Government (GSG) _Research Fellowship Award_!|
 | **03/17/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _[ASTFE Early Career Researcher Award]_(https://www.astfe.org/awards/early_career_researcher_award/) for his contributions to Thermal Fluids Engineering!|
 | **02/10/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) won the competitive _University Research Scholar (URC) fellowship_!|
 | **02/09/2026** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) successfully defends his PhD!|
