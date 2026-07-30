@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Lecture Pulse"
-permalink: /lecture-pulse/
+title: "Classroom Check-In"
+permalink: /check-in/
 author_profile: false
 ---
 
