@@ -1,27 +1,27 @@
 ---
 layout: single
-title: "Classroom Check-In"
-permalink: /check-in/
+title: "Teacher Live Pulse"
+permalink: /teacher-pulse/
 author_profile: false
 ---
 
 {% include base_path %}
 
-<div class="lecture-pulse-app">
-  <div class="lecture-pulse-card">
-    <h2>Student check-in</h2>
-    <p class="lecture-pulse-subtitle">Choose the color that matches how you feel about the current topic.</p>
-    <div class="lecture-pulse-buttons">
-      <button class="lecture-pulse-button lecture-pulse-button--green" data-vote="green">🟢 Green — I’m following</button>
-      <button class="lecture-pulse-button lecture-pulse-button--yellow" data-vote="yellow">🟡 Yellow — I’m getting there</button>
-      <button class="lecture-pulse-button lecture-pulse-button--red" data-vote="red">🔴 Red — I need help</button>
-    </div>
-    <p id="lecture-pulse-status" class="lecture-pulse-status" aria-live="polite">Waiting for your vote…</p>
+<div id="teacher-auth-overlay" class="teacher-auth-overlay">
+  <div class="teacher-auth-card">
+    <h2>Teacher access required</h2>
+    <p>Enter the classroom access code to open the live pulse monitor.</p>
+    <input id="teacher-access-code" class="teacher-access-input" type="password" placeholder="Enter access code" />
+    <button id="teacher-auth-submit" class="teacher-auth-submit">Unlock teacher view</button>
+    <p id="teacher-auth-message" class="teacher-auth-message" aria-live="polite"></p>
   </div>
+</div>
 
+<div id="teacher-pulse-app" class="lecture-pulse-app teacher-pulse-app--locked">
   <div class="lecture-pulse-card lecture-pulse-card--teacher">
     <h2>Live classroom pulse</h2>
     <p class="lecture-pulse-subtitle">This panel updates in real time when students submit their responses.</p>
+    <p id="lecture-pulse-status" class="lecture-pulse-status" aria-live="polite">Waiting for the next response…</p>
 
     <div class="lecture-pulse-stat-grid">
       <div class="lecture-pulse-stat lecture-pulse-stat--green">
@@ -48,11 +48,60 @@ author_profile: false
 </div>
 
 <style>
+  .teacher-auth-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(17, 24, 39, 0.78);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    padding: 1rem;
+  }
+
+  .teacher-auth-card {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 1.5rem;
+    width: min(100%, 420px);
+    box-shadow: 0 16px 44px rgba(0, 0, 0, 0.2);
+  }
+
+  .teacher-access-input {
+    width: 100%;
+    padding: 0.9rem 1rem;
+    border-radius: 10px;
+    border: 1px solid #cbd5e1;
+    margin: 0.75rem 0;
+    font-size: 1rem;
+  }
+
+  .teacher-auth-submit {
+    width: 100%;
+    padding: 0.9rem 1rem;
+    border: none;
+    border-radius: 10px;
+    background: #111827;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .teacher-auth-message {
+    margin-top: 0.75rem;
+    color: #b91c1c;
+    font-weight: 600;
+  }
+
   .lecture-pulse-app {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
     gap: 1rem;
     margin: 1.5rem 0;
+  }
+
+  .teacher-pulse-app--locked {
+    display: none;
   }
 
   .lecture-pulse-card {
@@ -170,6 +219,7 @@ author_profile: false
     appId: "1:832755872153:web:0d2b546fcccfad7a296308",
     measurementId: "G-ZG84ZD9VGV"
   };
+  window.LECTURE_PULSE_TEACHER_CODE = "classroom2026";
 </script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-database-compat.js"></script>

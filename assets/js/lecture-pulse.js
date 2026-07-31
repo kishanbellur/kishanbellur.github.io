@@ -17,6 +17,12 @@
     total: document.getElementById('count-total'),
   };
   const resetButton = document.getElementById('lecture-pulse-reset');
+  const authOverlay = document.getElementById('teacher-auth-overlay');
+  const authSubmit = document.getElementById('teacher-auth-submit');
+  const authCodeInput = document.getElementById('teacher-access-code');
+  const authMessage = document.getElementById('teacher-auth-message');
+  const pulseApp = document.getElementById('teacher-pulse-app');
+  const teacherCode = window.LECTURE_PULSE_TEACHER_CODE || 'classroom2026';
 
   const firebaseConfig = window.LECTURE_PULSE_FIREBASE_CONFIG || {};
 
@@ -61,6 +67,15 @@
 
   function setStatus(message) {
     statusEl.textContent = message;
+  }
+
+  function unlockTeacherView() {
+    if (!authOverlay || !pulseApp) {
+      return;
+    }
+
+    authOverlay.style.display = 'none';
+    pulseApp.classList.remove('teacher-pulse-app--locked');
   }
 
   function initializeDemoBroadcast() {
@@ -178,6 +193,17 @@
   }
 
   function attachListeners() {
+    if (authSubmit && authCodeInput && authMessage) {
+      authSubmit.addEventListener('click', function () {
+        if (authCodeInput.value === teacherCode) {
+          unlockTeacherView();
+          return;
+        }
+
+        authMessage.textContent = 'Incorrect access code. Please try again.';
+      });
+    }
+
     document.querySelectorAll('[data-vote]').forEach(function (button) {
       button.addEventListener('click', function () {
         handleVote(button.dataset.vote);
