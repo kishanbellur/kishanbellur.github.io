@@ -23,18 +23,27 @@ author_profile: false
     <p class="lecture-pulse-subtitle">This panel updates in real time when students submit their responses.</p>
     <p id="lecture-pulse-status" class="lecture-pulse-status" aria-live="polite">Waiting for the next response…</p>
 
-    <div class="lecture-pulse-stat-grid">
-      <div class="lecture-pulse-stat lecture-pulse-stat--green">
-        <span class="lecture-pulse-label">Green</span>
-        <strong id="count-green">0</strong>
+    <div class="lecture-pulse-bar-chart">
+      <div class="lecture-pulse-bar-row">
+        <div class="lecture-pulse-bar-label">Green</div>
+        <div class="lecture-pulse-bar-track">
+          <div id="bar-green" class="lecture-pulse-bar lecture-pulse-bar--green" style="width: 0%"></div>
+        </div>
+        <div id="count-green" class="lecture-pulse-bar-value">0</div>
       </div>
-      <div class="lecture-pulse-stat lecture-pulse-stat--yellow">
-        <span class="lecture-pulse-label">Yellow</span>
-        <strong id="count-yellow">0</strong>
+      <div class="lecture-pulse-bar-row">
+        <div class="lecture-pulse-bar-label">Yellow</div>
+        <div class="lecture-pulse-bar-track">
+          <div id="bar-yellow" class="lecture-pulse-bar lecture-pulse-bar--yellow" style="width: 0%"></div>
+        </div>
+        <div id="count-yellow" class="lecture-pulse-bar-value">0</div>
       </div>
-      <div class="lecture-pulse-stat lecture-pulse-stat--red">
-        <span class="lecture-pulse-label">Red</span>
-        <strong id="count-red">0</strong>
+      <div class="lecture-pulse-bar-row">
+        <div class="lecture-pulse-bar-label">Red</div>
+        <div class="lecture-pulse-bar-track">
+          <div id="bar-red" class="lecture-pulse-bar lecture-pulse-bar--red" style="width: 0%"></div>
+        </div>
+        <div id="count-red" class="lecture-pulse-bar-value">0</div>
       </div>
     </div>
 
@@ -152,31 +161,44 @@ author_profile: false
     color: #1f2937;
   }
 
-  .lecture-pulse-stat-grid {
+  .lecture-pulse-bar-chart {
     display: grid;
+    gap: 0.9rem;
+    margin-top: 1rem;
+  }
+
+  .lecture-pulse-bar-row {
+    display: grid;
+    grid-template-columns: 78px 1fr 42px;
+    align-items: center;
     gap: 0.75rem;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .lecture-pulse-stat {
-    border-radius: 12px;
-    padding: 0.85rem;
-    text-align: center;
-  }
-
-  .lecture-pulse-stat--green { background: #dcfce7; }
-  .lecture-pulse-stat--yellow { background: #fef3c7; }
-  .lecture-pulse-stat--red { background: #fee2e2; }
-
-  .lecture-pulse-label {
-    display: block;
-    font-size: 0.9rem;
-    margin-bottom: 0.35rem;
+  .lecture-pulse-bar-label {
     font-weight: 700;
   }
 
-  .lecture-pulse-stat strong {
-    font-size: 1.8rem;
+  .lecture-pulse-bar-track {
+    width: 100%;
+    height: 18px;
+    background: #e5e7eb;
+    border-radius: 999px;
+    overflow: hidden;
+  }
+
+  .lecture-pulse-bar {
+    height: 100%;
+    border-radius: 999px;
+    transition: width 0.25s ease;
+  }
+
+  .lecture-pulse-bar--green { background: #22c55e; }
+  .lecture-pulse-bar--yellow { background: #facc15; }
+  .lecture-pulse-bar--red { background: #ef4444; }
+
+  .lecture-pulse-bar-value {
+    text-align: right;
+    font-weight: 800;
   }
 
   .lecture-pulse-total-row {
@@ -219,7 +241,7 @@ author_profile: false
     appId: "1:832755872153:web:0d2b546fcccfad7a296308",
     measurementId: "G-ZG84ZD9VGV"
   };
-  window.LECTURE_PULSE_TEACHER_CODE = "classroom2026";
+  window.LECTURE_PULSE_TEACHER_CODE = "F26";
 </script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-database-compat.js"></script>

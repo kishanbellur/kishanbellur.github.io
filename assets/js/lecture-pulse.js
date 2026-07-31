@@ -16,6 +16,11 @@
     red: document.getElementById('count-red'),
     total: document.getElementById('count-total'),
   };
+  const barEls = {
+    green: document.getElementById('bar-green'),
+    yellow: document.getElementById('bar-yellow'),
+    red: document.getElementById('bar-red'),
+  };
   const resetButton = document.getElementById('lecture-pulse-reset');
   const authOverlay = document.getElementById('teacher-auth-overlay');
   const authSubmit = document.getElementById('teacher-auth-submit');
@@ -51,10 +56,16 @@
 
   function renderCounts() {
     const total = counts.green + counts.yellow + counts.red;
+    const safeTotal = total || 1;
+
     countEls.green.textContent = counts.green;
     countEls.yellow.textContent = counts.yellow;
     countEls.red.textContent = counts.red;
     countEls.total.textContent = total;
+
+    barEls.green.style.width = Math.round((counts.green / safeTotal) * 100) + '%';
+    barEls.yellow.style.width = Math.round((counts.yellow / safeTotal) * 100) + '%';
+    barEls.red.style.width = Math.round((counts.red / safeTotal) * 100) + '%';
   }
 
   function normalizeCounts(data) {
@@ -76,6 +87,19 @@
 
     authOverlay.style.display = 'none';
     pulseApp.classList.remove('teacher-pulse-app--locked');
+  }
+
+  function handleTeacherAuth() {
+    const enteredCode = String(authCodeInput.value || '').trim().toLowerCase();
+    const expectedCode = String(teacherCode || '').trim().toLowerCase();
+
+    if (enteredCode === expectedCode) {
+      unlockTeacherView();
+      authMessage.textContent = '';
+      return;
+    }
+
+    authMessage.textContent = 'Incorrect access code. Please try again.';
   }
 
   function initializeDemoBroadcast() {
@@ -194,13 +218,13 @@
 
   function attachListeners() {
     if (authSubmit && authCodeInput && authMessage) {
-      authSubmit.addEventListener('click', function () {
-        if (authCodeInput.value === teacherCode) {
-          unlockTeacherView();
-          return;
-        }
+      authSubmit.addEventListener('click', handleTeacherAuth);
 
-        authMessage.textContent = 'Incorrect access code. Please try again.';
+      authCodeInput.addEventListener('keydown', function (event) {
+        if (event.key === 'Enter') {
+          event.preventDefault();
+          handleTeacherAuth();
+        }
       });
     }
 
