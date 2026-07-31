@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="page__content">
+  <p>
+    <a href="/check-in/" class="btn btn--primary btn--large">Student Check-In</a>
+    <a href="/teacher-pulse/" class="btn btn--light-outline btn--large">Teacher Live Pulse</a>
+  </p>
+</div>
+
 {% for post in site.teaching reversed %}
 	{% include archive-single.html %}
 {% endfor %}

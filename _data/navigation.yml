@@ -15,12 +15,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Student Check-In"
-    url: /check-in/
-
-  - title: "Teacher Live Pulse"
-    url: /teacher-pulse/
         
   - title: "Posts & Updates"
     url: /year-archive/
