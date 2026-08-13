@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Student Check-In"
-permalink: /check-in/
+title: "LecturePulse"
+permalink: /lecturepulse/
 author_profile: false
 ---
 
@@ -9,7 +9,7 @@ author_profile: false
 
 <div class="lecture-pulse-app">
   <div class="lecture-pulse-card">
-    <h2>Student check-in</h2>
+    <h2>LecturePulse</h2>
     <p class="lecture-pulse-subtitle">Choose the color that matches how you feel about the current topic.</p>
     <div class="lecture-pulse-buttons">
       <button class="lecture-pulse-button lecture-pulse-button--green" data-vote="green">🟢 Green — I’m following</button>
