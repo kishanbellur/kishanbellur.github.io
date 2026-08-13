@@ -30,12 +30,42 @@
   const teacherCode = window.LECTURE_PULSE_TEACHER_CODE || 'classroom2026';
 
   const firebaseConfig = window.LECTURE_PULSE_FIREBASE_CONFIG || {};
+  const helpAlertThreshold = 20;
 
   let counts = loadCounts();
   let databaseRef = null;
   let usingFirebase = false;
   let previousVote = localStorage.getItem(voteStorageKey);
   let channel = null;
+  let helpAlertActive = false;
+
+  function requestNotificationPermission() {
+    if (typeof Notification === 'undefined' || Notification.permission === 'granted' || Notification.permission === 'denied') {
+      return;
+    }
+
+    Notification.requestPermission();
+  }
+
+  function checkHelpAlert(redPercent) {
+    if (typeof Notification === 'undefined') {
+      return;
+    }
+
+    if (redPercent >= helpAlertThreshold) {
+      if (!helpAlertActive) {
+        helpAlertActive = true;
+
+        if (Notification.permission === 'granted') {
+          new Notification('LecturePulse: students need help', {
+            body: redPercent + '% of responses are red — consider pausing to help.',
+          });
+        }
+      }
+    } else {
+      helpAlertActive = false;
+    }
+  }
 
   function loadCounts() {
     try {
@@ -63,9 +93,13 @@
     countEls.red.textContent = counts.red;
     countEls.total.textContent = total;
 
+    const redPercent = Math.round((counts.red / safeTotal) * 100);
+
     barEls.green.style.width = Math.round((counts.green / safeTotal) * 100) + '%';
     barEls.yellow.style.width = Math.round((counts.yellow / safeTotal) * 100) + '%';
-    barEls.red.style.width = Math.round((counts.red / safeTotal) * 100) + '%';
+    barEls.red.style.width = redPercent + '%';
+
+    checkHelpAlert(redPercent);
   }
 
   function normalizeCounts(data) {
@@ -87,6 +121,7 @@
 
     authOverlay.style.display = 'none';
     pulseApp.classList.remove('teacher-pulse-app--locked');
+    requestNotificationPermission();
   }
 
   function handleTeacherAuth() {
