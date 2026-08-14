@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teacher Live Pulse"
-permalink: /teacher-pulse/
+permalink: /lecturepulse-admin/
 author_profile: false
 ---
 

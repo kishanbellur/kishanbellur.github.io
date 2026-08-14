@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teacher SAM"
-permalink: /teacher-sam/
+permalink: /sam-admin/
 author_profile: false
 ---
 
