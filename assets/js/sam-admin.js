@@ -6,9 +6,9 @@ import * as pdfjsLib from "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build
 pdfjsLib.GlobalWorkerOptions.workerSrc =
   "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.worker.min.mjs";
 
-const apiBase = window.STUDY_BUDDY_API_BASE;
-const adminEmail = window.STUDY_BUDDY_ADMIN_EMAIL;
-const firebaseConfig = window.STUDY_BUDDY_FIREBASE_CONFIG || {};
+const apiBase = window.SAM_API_BASE;
+const adminEmail = window.SAM_ADMIN_EMAIL;
+const firebaseConfig = window.SAM_FIREBASE_CONFIG || {};
 
 const signinCard = document.getElementById("sb-admin-signin-card");
 const signinButton = document.getElementById("sb-signin-button");
@@ -63,7 +63,7 @@ async function handleAuthStateChanged(user) {
   if (user.email !== adminEmail || !user.emailVerified) {
     await firebase.auth().signOut();
     currentUser = null;
-    showSignedOut("This Google account is not authorized to manage Study Buddy content.");
+    showSignedOut("This account is not authorized to manage SAM content.");
     return;
   }
 
@@ -115,7 +115,7 @@ async function extractPdfText() {
     const avgCharsPerPage = fullText.length / pdf.numPages;
     if (avgCharsPerPage < 20) {
       extractWarning.textContent =
-        "Very little text was extracted — this PDF may be scanned/image-only slides. Try exporting directly from PowerPoint/Keynote/Google Slides instead.";
+        "Very little text was extracted — this PDF may be scanned/image-only slides. Try exporting directly from your slide software instead.";
     }
 
     updateUploadButtonState();
@@ -212,7 +212,7 @@ function attachListeners() {
 }
 
 if (!apiBase || apiBase.includes("YOUR-SUBDOMAIN")) {
-  showSignedOut("Study Buddy isn't configured yet — set STUDY_BUDDY_API_BASE once the Worker is deployed.");
+  showSignedOut("SAM isn't configured yet — set SAM_API_BASE once the Worker is deployed.");
 } else if (!hasValidFirebaseConfig()) {
   showSignedOut("Firebase isn't configured for this page.");
 } else {

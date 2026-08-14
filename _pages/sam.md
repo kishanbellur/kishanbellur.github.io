@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Study Buddy"
-permalink: /studybuddy/
+title: "SAM"
+permalink: /sam/
 author_profile: false
 ---
 
@@ -10,17 +10,17 @@ author_profile: false
 <div id="sb-code-overlay" class="sb-overlay">
   <div class="sb-card sb-overlay-card">
     <h2>Class access required</h2>
-    <p class="sb-subtitle">Enter the class access code your professor shared to start asking Study Buddy questions.</p>
+    <p class="sb-subtitle">Enter the class access code your professor shared to start asking SAM questions.</p>
     <input id="sb-code-input" class="sb-input" type="password" placeholder="Enter class code" />
-    <button id="sb-code-submit" class="sb-button sb-button--primary">Unlock Study Buddy</button>
+    <button id="sb-code-submit" class="sb-button sb-button--primary">Unlock SAM</button>
     <p id="sb-code-message" class="sb-message" aria-live="polite"></p>
   </div>
 </div>
 
 <div id="sb-chat-app" class="sb-chat-app sb-chat-app--locked">
   <div class="sb-card sb-chat-card">
-    <h2>Study Buddy</h2>
-    <p class="sb-subtitle">Ask about anything covered in lecture — Study Buddy only answers from the material your professor has uploaded.</p>
+    <h2>SAM</h2>
+    <p class="sb-subtitle">SAM (Student Assistant Model) answers using only the material your professor has uploaded from lecture.</p>
     <div id="sb-chat-messages" class="sb-chat-messages"></div>
     <div class="sb-chat-input-row">
       <input id="sb-chat-input" class="sb-input" type="text" placeholder="Ask a question…" />
@@ -151,6 +151,6 @@ author_profile: false
 </style>
 
 <script>
-  window.STUDY_BUDDY_API_BASE = "https://study-buddy-worker.quiet-forest-6b67.workers.dev";
+  window.SAM_API_BASE = "https://study-buddy-worker.quiet-forest-6b67.workers.dev";
 </script>
-<script src="{{ base_path }}/assets/js/study-buddy.js"></script>
+<script src="{{ base_path }}/assets/js/sam.js"></script>

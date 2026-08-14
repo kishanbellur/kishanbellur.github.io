@@ -1,16 +1,16 @@
 ---
 layout: single
-title: "Study Buddy — Add Lecture Content"
-permalink: /studybuddy-admin/
+title: "Teacher SAM"
+permalink: /teacher-sam/
 author_profile: false
 ---
 
 {% include base_path %}
 
 <div id="sb-admin-signin-card" class="sb-card sb-signin-card">
-  <h2>Study Buddy admin</h2>
-  <p class="sb-subtitle">Sign in with your Google account to add or manage lecture content.</p>
-  <button id="sb-signin-button" class="sb-button sb-button--primary">Sign in with Google</button>
+  <h2>SAM admin</h2>
+  <p class="sb-subtitle">Sign in to add or manage lecture content for SAM.</p>
+  <button id="sb-signin-button" class="sb-button sb-button--primary">Sign in</button>
   <p id="sb-signin-message" class="sb-message" aria-live="polite"></p>
 </div>
 
@@ -38,7 +38,7 @@ author_profile: false
     <textarea id="sb-lecture-preview" class="sb-textarea" rows="10" placeholder="Extracted text will appear here…"></textarea>
     <p id="sb-extract-warning" class="sb-warning" aria-live="polite"></p>
 
-    <button id="sb-upload-button" class="sb-button sb-button--primary" disabled>Upload to Study Buddy</button>
+    <button id="sb-upload-button" class="sb-button sb-button--primary" disabled>Upload to SAM</button>
     <p id="sb-upload-message" class="sb-message" aria-live="polite"></p>
   </div>
 
@@ -161,8 +161,8 @@ author_profile: false
 </style>
 
 <script>
-  window.STUDY_BUDDY_API_BASE = "https://study-buddy-worker.quiet-forest-6b67.workers.dev";
-  window.STUDY_BUDDY_FIREBASE_CONFIG = {
+  window.SAM_API_BASE = "https://study-buddy-worker.quiet-forest-6b67.workers.dev";
+  window.SAM_FIREBASE_CONFIG = {
     apiKey: "AIzaSyBU_1GwzgN9Db4GrEICN79mGijh6aDHprw",
     authDomain: "lecture-feedback-e758b.firebaseapp.com",
     databaseURL: "https://lecture-feedback-e758b-default-rtdb.firebaseio.com",
@@ -172,8 +172,8 @@ author_profile: false
     appId: "1:832755872153:web:0d2b546fcccfad7a296308",
     measurementId: "G-ZG84ZD9VGV"
   };
-  window.STUDY_BUDDY_ADMIN_EMAIL = "kishanbellur@gmail.com";
+  window.SAM_ADMIN_EMAIL = "kishanbellur@gmail.com";
 </script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-auth-compat.js"></script>
-<script type="module" src="{{ base_path }}/assets/js/study-buddy-admin.js"></script>
+<script type="module" src="{{ base_path }}/assets/js/sam-admin.js"></script>

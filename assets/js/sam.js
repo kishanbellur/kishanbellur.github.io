@@ -1,6 +1,6 @@
 (function () {
-  const codeStorageKey = "study-buddy-class-code";
-  const apiBase = window.STUDY_BUDDY_API_BASE;
+  const codeStorageKey = "sam-class-code";
+  const apiBase = window.SAM_API_BASE;
 
   const overlay = document.getElementById("sb-code-overlay");
   const codeInput = document.getElementById("sb-code-input");
@@ -67,7 +67,7 @@
       thinkingBubble.textContent = data.answer;
     } catch (error) {
       thinkingBubble.className = "sb-chat-bubble sb-chat-bubble--error";
-      thinkingBubble.textContent = "Couldn't reach Study Buddy: " + error.message;
+      thinkingBubble.textContent = "Couldn't reach SAM: " + error.message;
     } finally {
       sending = false;
       chatSend.disabled = false;
@@ -109,7 +109,7 @@
   });
 
   if (!apiBase || apiBase.indexOf("YOUR-SUBDOMAIN") !== -1) {
-    lock("Study Buddy isn't configured yet — check back once the professor has finished setup.");
+    lock("SAM isn't configured yet — check back once the professor has finished setup.");
   } else if (classCode) {
     unlock();
   } else {
