@@ -13,7 +13,7 @@ database_id = "27dcb6cb-cd52-48fd-85a7-c7694e19b2cf"
 # it's not sensitive, just easy to flip between "gemini-2.5-flash" (better
 # quality, 15 req/min free) and "gemini-2.5-flash-lite" (30 req/min free) if
 # the class hits rate limits.
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-3.5-flash"
 FIREBASE_PROJECT_ID = "lecture-feedback-e758b"
 ALLOWED_ORIGIN = "https://kishanbellur.github.io"
 
