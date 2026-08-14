@@ -1,7 +1,10 @@
-import * as pdfjsLib from "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.2.108/build/pdf.min.mjs";
+// Pinned to 4.10.38 (not the latest 6.x) because pdf.js versions after
+// March 2026 use Math.sumPrecise internally, which Safari doesn't support yet
+// and crashes the worker with "Math.sumPrecise is not a function".
+import * as pdfjsLib from "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.min.mjs";
 
 pdfjsLib.GlobalWorkerOptions.workerSrc =
-  "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.2.108/build/pdf.worker.min.mjs";
+  "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.worker.min.mjs";
 
 const apiBase = window.STUDY_BUDDY_API_BASE;
 const adminEmail = window.STUDY_BUDDY_ADMIN_EMAIL;
