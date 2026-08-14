@@ -1,0 +1,23 @@
+name = "study-buddy-worker"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "study-buddy-db"
+database_id = "27dcb6cb-cd52-48fd-85a7-c7694e19b2cf"
+
+[vars]
+# Non-secret defaults. Override with `wrangler secret put` for real deployments
+# if you'd rather not commit a model name; this one is safe to keep here since
+# it's not sensitive, just easy to flip between "gemini-2.5-flash" (better
+# quality, 15 req/min free) and "gemini-2.5-flash-lite" (30 req/min free) if
+# the class hits rate limits.
+GEMINI_MODEL = "gemini-2.5-flash"
+FIREBASE_PROJECT_ID = "lecture-feedback-e758b"
+ALLOWED_ORIGIN = "https://kishanbellur.github.io"
+
+# Secrets (set via `wrangler secret put <NAME>`, never committed):
+#   GEMINI_API_KEY      - from https://aistudio.google.com
+#   ADMIN_EMAIL          - kishanbellur@gmail.com
+#   CLASS_ACCESS_CODE    - the code you hand out to students this semester

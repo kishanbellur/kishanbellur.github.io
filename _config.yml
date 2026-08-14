@@ -143,6 +143,7 @@ exclude:
   - gulpfile.js
   - log
   - node_modules
+  - study-buddy-worker
   - package.json
   - tmp
   - vendor
