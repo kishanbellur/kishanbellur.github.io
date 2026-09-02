@@ -2,13 +2,13 @@
 title: "Unmeelan Chakrabarti"
 collection: people
 permalink: /people/unmeelanchakrabarti
-position: PhD Student
+position: PhD Alum
 start: 2022
-order: 2
+end: 2026
 author: Unmeelan Chakrabarti
 author_profile: true
 [comment]: # excerpt: "<img src='/images/unmeelanchakrabarti.jpg' width='150' height='auto'>"
-excerpt: <font size="3"> Multiscale modeling of liquid-vapor phase change, CFD, Molecular Dynamics </font>
+excerpt: <font size="3"> PhD Dissertation, "A multiscale investigation of simplifying assumptions made during liquid-vapor phase change modeling", 2026. </font>
 ---
 ### Research Interests
 Multiscale liquid-vapor phase change, molecular dynamics.

@@ -31,11 +31,13 @@ Prof. Bellur's is primarily interested in multi-scale modeling and visualization
 | Postdoctoral Scholar         | Michigan Technological University / University of Michigan | Oct 2018 – Jan 2021 |
 
 ### Honors and awards
-* Rising Star of Mechanical Engineering, *American Society of Mechanical Engineers*, 2025
-* Gold Star Lab award, *College of Engineering and Applied Sciences*, 2025
-* Distinguished Researcher Award, *College of Engineering and Applied Sciences*, 2024
-* CAREER award, *National Science Foundation*, 2024
-* Best paper award, *Cryogenics* (Elsevier), 2022
+* Neil Wandmacher Teaching Award, *College of Engineering and Applied Sciences*, 2026.
+* Early Career Researcher Award, *American Society of Thermal and Fluids Engineering* 2026.
+* Rising Star of Mechanical Engineering, *American Society of Mechanical Engineers*, 2025.
+* Gold Star Lab award, *College of Engineering and Applied Sciences*, 2025.
+* Distinguished Researcher Award, *College of Engineering and Applied Sciences*, 2024.
+* CAREER award, *National Science Foundation*, 2024.
+* Best paper award, *Cryogenics* (Elsevier), 2022.
 * Best poster award, *American Society of Gravitational and Space Research* annual meeting, 2018.
 * 1 st place award for best oral presentation, Graduate Research Colloquium, *Michigan Tech*, 2018.
 * Dean's award for outstanding scholarship, *Michigan Tech*, 2018.
@@ -43,7 +45,7 @@ Prof. Bellur's is primarily interested in multi-scale modeling and visualization
 * Winnikow fellowship, *Michigan Tech*, 2016-2017.
 * T.H.K. Frederking *Space Cryogenics Workshop* Student Scholarship, 2017.
 * *American Society of Gravitational and Space Research* annual meeting travel award, 2017.
-* 2nd place award, 3 Minute Thesis (3MT) competition, &Michigan Tech&, 2017.
+* 2nd place award, 3 Minute Thesis (3MT) competition, *Michigan Tech*, 2017.
 * 3rd place award for best poster, *American Chemical Society* UPLS Student Research Symposium, 2017.
 * Multiple travel grant awards from the Graduate Student Government at *Michigan Tech*, 2016-2017.
 

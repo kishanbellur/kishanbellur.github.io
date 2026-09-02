@@ -7,6 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="page__content">
+  <p>
+    <a href="/lecturepulse/" class="btn btn--primary btn--large">Student LecturePulse</a>
+    <a href="/lecturepulse-admin/" class="btn btn--light-outline btn--large">LecturePulse - admin</a>
+  </p>
+  <p>
+    <a href="/sam/" class="btn btn--primary btn--large">Student Assistant Model (SAM)</a>
+    <a href="/sam-admin/" class="btn btn--light-outline btn--large">SAM - admin</a>
+  </p>
+</div>
+
 {% for post in site.teaching reversed %}
 	{% include archive-single.html %}
 {% endfor %}

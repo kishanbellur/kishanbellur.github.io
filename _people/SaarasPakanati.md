@@ -26,5 +26,8 @@ Computational Fluid Dyanmics, Machine Learning, Data Driven Modeling
 | NPD ME co-op          | MSA Safety, Pittsburgh, PA                               | Jan 2024 – Apr 2024  |
 
 ### Honors and Awards
-* University of Cincinnati CEAS Undergraduate Research co-op Fellowship Awardee
-* University of Cincinnati Mathematics Department Calculus Contest 2022 - 2nd Position
+* Merchant, M. Eugene Scholarship, College of Engineering and Applied Sciences, 2026.
+* Annual Scholar: Undergraduate Research, College of Engineering and Applied Sciences, 2025.
+* Armstrong Discovery Fellowship, Armstrong Institute for Space, Technology, and Research, 2025-26.
+* University of Cincinnati CEAS Undergraduate Research Co-Op Fellowship, 2024-2025
+* University of Cincinnati Mathematics Department Calculus Contest - 2nd Position, 2022

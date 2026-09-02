@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lecture Pulse Test</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; padding: 2rem; }
+    .wrap { max-width: 900px; margin: 0 auto; }
+    .card { background: #fff; border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,.08); padding: 1.25rem; margin-bottom: 1rem; }
+    .buttons { display: grid; gap: 0.75rem; }
+    button { border: none; border-radius: 12px; padding: 0.95rem 1rem; font-size: 1rem; font-weight: 700; cursor: pointer; }
+    .green { background: #86efac; }
+    .yellow { background: #fde68a; }
+    .red { background: #fca5a5; }
+    .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; }
+    .stat { text-align: center; border-radius: 12px; padding: 0.75rem; }
+    .stat.green { background: #dcfce7; }
+    .stat.yellow { background: #fef3c7; }
+    .stat.red { background: #fee2e2; }
+    .total { display: flex; justify-content: space-between; font-weight: 700; padding-top: 0.75rem; margin-top: 0.75rem; border-top: 1px solid #ddd; }
+    @media (max-width: 680px) { .stats { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>Lecture Pulse Test</h1>
+      <p>Click a button to simulate a student vote. Counts update live in the teacher panel.</p>
+      <div class="buttons">
+        <button class="green" data-vote="green">🟢 Green — I’m following</button>
+        <button class="yellow" data-vote="yellow">🟡 Yellow — I’m getting there</button>
+        <button class="red" data-vote="red">🔴 Red — I need help</button>
+      </div>
+      <p id="status">Waiting for your vote…</p>
+    </div>
+
+    <div class="card">
+      <h2>Live teacher panel</h2>
+      <div class="stats">
+        <div class="stat green"><div>Green</div><div id="count-green">0</div></div>
+        <div class="stat yellow"><div>Yellow</div><div id="count-yellow">0</div></div>
+        <div class="stat red"><div>Red</div><div id="count-red">0</div></div>
+      </div>
+      <div class="total"><span>Total responses</span><strong id="count-total">0</strong></div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const statusEl = document.getElementById('status');
+      const countEls = {
+        green: document.getElementById('count-green'),
+        yellow: document.getElementById('count-yellow'),
+        red: document.getElementById('count-red'),
+        total: document.getElementById('count-total')
+      };
+      const countsKey = 'lecture-pulse-demo-counts';
+      const voteKey = 'lecture-pulse-demo-vote';
+      const channelName = 'lecture-pulse-demo';
+
+      let counts = loadCounts();
+      let previousVote = localStorage.getItem(voteKey);
+      let channel;
+
+      function loadCounts() {
+        try {
+          const stored = JSON.parse(localStorage.getItem(countsKey) || '{}');
+          return {
+            green: Number(stored.green || 0),
+            yellow: Number(stored.yellow || 0),
+            red: Number(stored.red || 0)
+          };
+        } catch {
+          return { green: 0, yellow: 0, red: 0 };
+        }
+      }
+
+      function saveCounts() {
+        localStorage.setItem(countsKey, JSON.stringify(counts));
+      }
+
+      function render() {
+        countEls.green.textContent = counts.green;
+        countEls.yellow.textContent = counts.yellow;
+        countEls.red.textContent = counts.red;
+        countEls.total.textContent = counts.green + counts.yellow + counts.red;
+      }
+
+      function publish() {
+        if (channel) channel.postMessage({ type: 'update', counts });
+      }
+
+      function initializeChannel() {
+        if (typeof BroadcastChannel === 'undefined') return;
+        channel = new BroadcastChannel(channelName);
+        channel.onmessage = function (event) {
+          const message = event.data || {};
+          if (message.type === 'update') {
+            counts = message.counts;
+            saveCounts();
+            render();
+          }
+        };
+      }
+
+      document.querySelectorAll('[data-vote]').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          const vote = btn.dataset.vote;
+
+          if (previousVote && previousVote !== vote) {
+            counts[previousVote] = Math.max(0, counts[previousVote] - 1);
+          }
+
+          if (!previousVote || previousVote !== vote) {
+            counts[vote] += 1;
+            previousVote = vote;
+            localStorage.setItem(voteKey, vote);
+            statusEl.textContent = 'Vote recorded. Teacher panel updated.';
+          } else {
+            statusEl.textContent = 'You already selected that response.';
+          }
+
+          saveCounts();
+          render();
+          publish();
+        });
+      });
+
+      initializeChannel();
+      render();
+    })();
+  </script>
+</body>
+</html>
