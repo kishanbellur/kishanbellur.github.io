@@ -1,9 +1,9 @@
-# Study Buddy Worker
+# SAM Worker
 
-Backend for the "Study Buddy" surrogate-student assistant (`/studybuddy/` and
-`/studybuddy-admin/` on the main site). Cloudflare Worker + D1, calling the free
-Gemini API. See `/Users/kishanbellur/.claude/plans/sprightly-kindling-parasol.md`
-for the full design writeup.
+Backend for SAM (Student Assistant Model), the lecture-grounded Q&A assistant
+(`/sam/` and `/sam-admin/` on the main site). Cloudflare Worker + D1, calling the
+free Gemini API. The directory, Worker, and D1 database keep their original
+"study-buddy" names so the deployed URL and database don't have to change.
 
 ## One-time setup (all free, no credit card)
 
@@ -32,10 +32,9 @@ for the full design writeup.
    ```
    npx wrangler deploy
    ```
-   Note the resulting `*.workers.dev` URL — put it in place of
-   `https://study-buddy-worker.YOUR-SUBDOMAIN.workers.dev` in both
-   `_pages/study-buddy.md` and `_pages/study-buddy-admin.md`
-   (`window.STUDY_BUDDY_API_BASE`).
+   Note the resulting `*.workers.dev` URL and set it as
+   `window.SAM_API_BASE` near the bottom of both `_pages/sam.md` and
+   `_pages/sam-admin.md`.
 7. In the Firebase console for the existing `lecture-feedback-e758b` project:
    - Authentication → Sign-in method → enable **Google**.
    - Authentication → Settings → Authorized domains → confirm
@@ -60,7 +59,7 @@ curl -X POST https://<your-worker>.workers.dev/api/ask \
   -d '{"classCode":"...","question":"When did we cover backpropagation?"}'
 ```
 
-Ingest requires a real Firebase ID token (sign in on `/studybuddy-admin/` and
+Ingest requires a real Firebase ID token (sign in on `/sam-admin/` and
 copy it from the browser devtools/network tab if you want to test via curl).
 
 ## Notes
