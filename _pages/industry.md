@@ -15,6 +15,7 @@ UCLID studies the physics of **liquids, vapors, and the interfaces between them*
 | **Cryogenic processes and equipment:** cryogenic cooling, cryogenic process steps, and handling of liquid H<sub>2</sub>, N<sub>2</sub>, CH<sub>4</sub> | Cryogenic phase change, wetting, solid–fluid heat transfer at low temperature | [Cryo-neutron experiments](/research/cryo) and validated cryogenic phase change models |
 | **Vapor delivery and vacuum processing:** precursor vaporization, condensation on chamber surfaces, cryopumping | Non-equilibrium interfacial kinetics, accommodation coefficients | [Molecular dynamics](/research/MD) → kinetic theory → CFD, with no tuning coefficients |
 | **Thermal management:** liquid and two-phase cooling of electronics, chucks, and power hardware; heat pipes and vapor chambers | Boiling, condensation, wicking, critical heat flux | Multiscale phase change CFD; [porous/wick transport](/research/PorousTransport) |
+| **Wetting control and liquid–liquid interfaces:** emulsions, separations, microfluidic handling, and wet processing where wetting and dewetting must be controlled | Surfactant adsorption, interfacial tension, contact angle hysteresis | Reversible, temperature-switchable wettability of [oil–water interfaces](/research/oilwater) (*Langmuir* cover article, 2026) |
 | **Process monitoring:** detecting two-phase flow regime changes and approach to critical heat flux in closed hardware | Acoustic emission from interfacial events | [Acoustic diagnostics](/research/acoustics) with data-driven signal analysis |
 | **Hydrogen and space systems:** propellant storage, boil-off, transfer | Phase change in cryogens, microgravity fluid management | Neutron imaging and [ISS flight data](/research/ISS) analysis |
 
@@ -28,7 +29,7 @@ UCLID studies the physics of **liquids, vapors, and the interfaces between them*
 ## Track record
 * NSF CAREER award (2024); ASTFE Early Career Researcher Award (2026); ASME *Rising Star of Mechanical Engineering* (2025)
 * Experiments at national neutron imaging facilities and analysis of NASA International Space Station data
-* Peer-reviewed publications in *Physical Review Fluids*, *International Journal of Heat and Mass Transfer*, *Applied Thermal Engineering*, *Cryogenics*, *Colloids and Surfaces A*, and others ([full list](/publications/))
+* Peer-reviewed publications in *Physical Review Fluids*, *International Journal of Heat and Mass Transfer*, *Applied Thermal Engineering*, *Cryogenics*, *Colloids and Surfaces A*, *Langmuir* (cover article), and others ([full list](/publications/))
 * Invited talks in academia and industry, including Ericsson (Sweden), Hokkaido University (Japan), and the University of Manchester (UK) ([all talks](/talks/))
 * Graduates now at Ethicon (J&J MedTech), Virginia Transformer, Johnson Controls, and FERNO, and in PhD programs such as Rice University, with student co-ops at GE Aerospace, Toyota, and MSA Safety ([people](/people/))
 

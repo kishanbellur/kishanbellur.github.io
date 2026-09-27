@@ -26,6 +26,7 @@ Interested in working with us? See [Industry Collaboration](/industry/).
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **05/13/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _Neil Wandmacher Teaching Award_ from the College of Engineering and Applied Science!|
+| **04/28/2026** | Our [paper](https://kishanbellur.github.io/publication/sarchami_2026a) on switching oil–water menisci with temperature-sensitive surfactants was published as a _cover article_ in _Langmuir_! Great work by [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami), [Saaras](https://kishanbellur.github.io/people/saaraspakanati), and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin). |
 | **04/08/2026** | [Saaras](https://kishanbellur.github.io/people/saaraspakanati) received the _Merchant M. Eugene Scholarship_!|
 | **04/07/2026** | Congratulations to [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) for receiving the prestigious _Dean's Dissertation Completion Fellowship_!|
 | **03/17/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) received a Graduate Student Government (GSG) _Research Fellowship Award_!|

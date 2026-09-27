@@ -15,6 +15,7 @@ Capillary flow through porous media underlies wicks in heat pipes, fuel cell and
 
 ## Selected outcomes
 * [A Computational Model for Pore-Scale Flow Regime Tuning with Thermally Responsive Surfactants](/publication/sarchami_2026), *Colloids and Surfaces A* (2026)
+* [An Experimental Study of Interfacial Dynamics Control Using Temperature-Sensitive Surfactants](/publication/sarchami_2026a), *Langmuir* (2026), cover article (see [Oil-Water Interfacial Dynamics](/research/oilwater))
 * *"Leveraging Temperature-dependent Wettability to Control Flow in Porous Media"*, ASTFE (2025)
 * Invited talk, *"Controlling capillary flow in porous media"*, Hokkaido University, Japan (2025)
 
