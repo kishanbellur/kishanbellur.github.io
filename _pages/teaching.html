@@ -8,16 +8,80 @@ author_profile: true
 {% include base_path %}
 
 <div class="page__content">
-  <p>
-    <a href="/lecturepulse/" class="btn btn--primary btn--large">Student LecturePulse</a>
-    <a href="/lecturepulse-admin/" class="btn btn--light-outline btn--large">LecturePulse - admin</a>
-  </p>
-  <p>
-    <a href="/sam/" class="btn btn--primary btn--large">Student Assistant Model (SAM)</a>
-    <a href="/sam-admin/" class="btn btn--light-outline btn--large">SAM - admin</a>
-  </p>
+
+<p>Prof. Bellur uses <strong>evidence-based, student-centered teaching</strong>: analogies, real-life examples, animations, and in-class and after-class activities that push students to work through concepts in real time and discuss them with peers. He received the College of Engineering and Applied Science's <em>Neil Wandmacher Teaching Award for Early Career Faculty</em> in 2026, and his instructor ratings reached <strong>4.8/5</strong> in recent offerings of CFD.</p>
+
+<h2>CFD: projects built around each student</h2>
+
+<p>Prof. Bellur rebuilt <a href="/teaching/CFD">Computational Fluid Dynamics</a> from scratch in 2022 and treats it as a platform for each student's own research and career goals. Every student completes an individual, semester-long project that he develops with them and scales up or down so it can be finished within one semester. Students who don't yet have an idea get suggestions based on the jobs they are aiming for or on topics that have excited them in the past. Projects are run like a real conference cycle (abstract, presentation, paper), and students who later get their work accepted at a real conference are offered travel funds. <strong>At least four students</strong> have turned course projects into conference or journal submissions, and <strong>one built an entire thesis</strong> on work started in the course.</p>
+
+<p>More than 60 past projects range from hypersonic aircraft, scramjets, and wind turbines to battery thermal management, CPU cooling, thin-film evaporation, ISS Marangoni flows, and blood flow in arteries (<a href="/teaching/CFD">see the full list</a>).</p>
+
+<h2>Thermodynamics: active and gamified learning</h2>
+
+<p>In 2022, Prof. Bellur redesigned <a href="/teaching/thermodynamics">Thermodynamics</a> around team problem-solving and open-ended design projects, with one group presentation every week. Homework is graded for method rather than the final answer, and students' self-rated confidence clearly increases from the start of the course to the end. Since 2025, the course has used a partially online, <strong>gamified zyBooks</strong> format with customized interactive material that he helped zyBooks build and test. It includes activities due the same night as each lecture, weekend challenges, randomized problems with unlimited attempts, and difficulty levels that students unlock.</p>
+
+<h2>Tools built for the classroom</h2>
+
+<p>To make lectures respond to what students actually understand, and to support learning outside class time, Prof. Bellur designed and built two web-based tools. Both are freely available.</p>
+
+<div class="teaching-tools">
+  <div class="teaching-tool">
+    <h3>LecturePulse: real-time comprehension feedback</h3>
+    <p>Using a link or QR code, students anonymously tap <strong>green</strong> (I'm following), <strong>yellow</strong> (I'm getting there), or <strong>red</strong> (I need help) at any point in lecture. The instructor watches a live chart of the room, and an alert fires automatically when red responses pass 20%. This makes it possible to adjust the pace, revisit a concept, or pause for questions right away, instead of discovering gaps much later in the semester.</p>
+    <p class="teaching-tool__tech">Built with: static site + Firebase Realtime Database, instructor-only access control</p>
+    <p>
+      <a href="/lecturepulse/" class="btn btn--primary">Student LecturePulse</a>
+      <a href="/lecturepulse-admin/" class="btn btn--inverse">Instructor view</a>
+    </p>
+  </div>
+
+  <div class="teaching-tool">
+    <h3>SAM: Student Assistant Model</h3>
+    <p>SAM is an AI study companion built on the instructor's <strong>own lecture content</strong>. It learns the material at the same pace as the students, because each lecture is added as it is delivered. Students can ask it to explain a concept or to find when a topic was covered. Answers cite the specific lecture used, and SAM says honestly when something hasn't been covered yet instead of guessing. It is currently being piloted in Thermodynamics.</p>
+    <p class="teaching-tool__tech">Built with: Cloudflare Workers + D1, Gemini API, lecture-relevance retrieval, Google sign-in for the instructor, class-code access for students. It runs entirely on free-tier infrastructure.</p>
+    <p>
+      <a href="/sam/" class="btn btn--primary">Student Assistant Model (SAM)</a>
+      <a href="/sam-admin/" class="btn btn--inverse">SAM admin</a>
+    </p>
+  </div>
+</div>
+
+<h2>Mentoring</h2>
+
+<ul>
+  <li><strong>Graduate advising:</strong> 2 PhD and 5 MS students graduated, now in industry (Ethicon/J&amp;J, Virginia Transformer, Johnson Controls, FERNO) and in PhD programs. 3 PhD students and 1 MS student are currently in progress. See <a href="/people/">People</a>.</li>
+  <li><strong>Undergraduate research:</strong> undergraduate researchers have co-authored journal papers and won competitive awards, including two ASTRO/Armstrong fellowships and 1819 Innovation awards. Alumni have gone on to PhD programs such as Rice University.</li>
+  <li><strong>Senior design:</strong> advised teams including a low-cost eddy-covariance evaporation sensor, a Leidenfrost gimbal (MMIE award), droplet evaporation (2nd place for Technical Excellence), and a hyperspectral camera (1819 Innovation Award).</li>
+  <li><strong>Broadening participation:</strong> LSAMP advising for first-year students and summer REU students hosted from other universities.</li>
+  <li><strong>Committees:</strong> service on 10 PhD and MS thesis committees across Mechanical and Aerospace Engineering.</li>
+</ul>
+
+<h2>Courses</h2>
+
 </div>
 
 {% for post in site.teaching reversed %}
 	{% include archive-single.html %}
 {% endfor %}
+
+<style>
+  .teaching-tools {
+    display: grid;
+    gap: 1rem;
+    margin: 1rem 0 1.5rem;
+  }
+  .teaching-tool {
+    border: 1px solid #d9e1e8;
+    border-left: 4px solid #e00122;
+    border-radius: 8px;
+    padding: 0.25rem 1.25rem 0.5rem;
+  }
+  .teaching-tool h3 {
+    margin-top: 1rem;
+  }
+  .teaching-tool__tech {
+    font-size: 0.8em;
+    color: #5a6470;
+  }
+</style>

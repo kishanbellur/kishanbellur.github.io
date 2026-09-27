@@ -3,7 +3,7 @@ title: "Emmett Looman"
 collection: people
 permalink: /people/emmettlooman
 position: BS Student
-start: 2024
+start: 2025
 end: present
 order: 7
 author: Emmett Looman

@@ -9,12 +9,15 @@ current: Ethicon (J&J MedTech)
 author: Manjeera Vinnakota
 author_profile: true
 [comment]: # excerpt: "<img src='/images/manjeeravinnakota.jpg' width='150' height='auto'>"
-excerpt: <font size="3"> PhD Dissertation, "Design and Investigation of a Hydraulic Milli-Actuator for Minimally Invasive Medical Applications", 2024. Currently at Ethicon (J&J MedTech). </font>
+excerpt: <font size="3"> PhD Dissertation, "Design and Investigation of a Hydraulic Milli-Actuator for Minimally Invasive Medical Applications", 2024. Currently Project Manager at Ethicon (J&J MedTech). </font>
 ---
 ### Research
 * Interests: Multifunctional minimally invasive surgical instrumentation, micromanufacturing, additive manufacturing, specifically micro/nano 3DP, smart materials for miniaturization, computational fluid dynamics and numerical modeling.
-* Dissertation: "Design and Investigation of a Hydraulic Milli-Actuator for Minimally Invasive Medical Applications".
+* Dissertation: "Design and Investigation of a Hydraulic Milli-Actuator for Minimally Invasive Medical Applications" (co-advised with Prof. Mark Schulz, defended Spring 2024).
 * Journal papers published: 3. 
+
+### Current Position
+Project Manager, Ethicon (J&J MedTech)
 
 ### Education
 * PhD in Mechanical Engineering, University of Cincinnati, 2024

@@ -137,3 +137,4 @@ Note that CORS on the Worker is locked to `https://kishanbellur.github.io`, so S
 ## Changelog
 
 - 2026-03-01: Kishan updates talks and pubs
+- 2026-09-27: Kishan fills out research pages, adds Industry page, expands CFD and Thermodynamics teaching pages, updates people, and adds 13 posts

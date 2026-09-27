@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics (UCLID) is an interdisciplinary laboratory with experimental and computational capabilities to explore transport mechanics at curved liquid-vapor interfaces such as drops, bubbles, sprays, etc. At UCLID, we study liquid-vapor phase change at a fundamental level using **theory**, _on-earth_ and _in-space_ **experiments**, and computational **modeling**. We then leverage the knowledge gained to pioneer next generation microscale phase change transfer devices, enable new technologies for the upcoming hydrogen economy, develop solutions for thermo-fluid management in microgravity and address critical issues in the food-water-energy nexus and enable breakthroughs in advanced manufacturing.
+The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics (UCLID) is an interdisciplinary lab with experimental and computational capabilities for studying transport at curved liquid-vapor interfaces such as drops, bubbles, menisci, and thin films. We study liquid-vapor phase change at a fundamental level using **theory**, _on-earth_ and _in-space_ **experiments**, and multiscale **modeling** from molecular dynamics to CFD. We use what we learn to develop next-generation microscale phase change and thermal management devices, enable technologies for the hydrogen economy, solve thermal-fluid management problems in microgravity, address issues in the food-water-energy nexus, and improve advanced manufacturing processes.
 
+**What we bring:**
+* **Multiscale, predictive modeling** of evaporation, condensation, and wetting, with no tuning coefficients ([research](/research/))
+* **Extreme-environment experiments:** neutron imaging of cryogenic hydrogen and methane, and analysis of International Space Station data
+* **Interfacial diagnostics:** interferometry, ellipsometry, high-speed imaging, and acoustic sensing
+* **Innovation in engineering education:** CFD projects scoped to each student's research and career goals (several have led to publications), a gamified Thermodynamics course, and classroom tools built in-house for live comprehension feedback and AI study assistance ([teaching](/teaching/))
+
+Interested in working with us? See [Industry Collaboration](/industry/).
 
 ![overview](/images/research_overview.png "lab overview")
 
@@ -19,24 +26,24 @@ The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics
 | **Date**       | **Event** |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **05/13/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _Neil Wandmacher Teaching Award_ from the College of Engineering and Applied Science!|
-| **04/08/2025** | [Saaras](https://kishanbellur.github.io/people/saaraspakanati) received the _Merchant M. Eugene Scholarship_!|
+| **04/08/2026** | [Saaras](https://kishanbellur.github.io/people/saaraspakanati) received the _Merchant M. Eugene Scholarship_!|
 | **04/07/2026** | Congratulations to [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) for receiving the prestigious _Dean's Dissertation Completion Fellowship_!|
-| **03/17/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) received a Graduate Stduent Government (GSG) _Research Fellowship Award_!|
+| **03/17/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) received a Graduate Student Government (GSG) _Research Fellowship Award_!|
 | **03/17/2026** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received the _[ASTFE Early Career Researcher Award](https://www.astfe.org/awards/early_career_researcher_award/)_ for his contributions to Thermal Fluids Engineering!|
 | **02/10/2026** | [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) won the competitive _University Research Scholar (URC) fellowship_!|
 | **02/09/2026** | [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) successfully defends his PhD!|
 | **12/19/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for receiving a second _[Armstrong Fellowship](https://research.uc.edu/armstrong-institute)_!|
-| **11/16/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) recieved a _Rising Star in Mechanial Engineering_ recognition at ASME IMECE! |
-| **11/16/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) recieved an NSF sponsored travel award to present/attend ASME IMECE. He was accompanied by labmates [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) and [Saaras](https://kishanbellur.github.io/people/saaraspakanati) |
+| **11/16/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) received a _Rising Star in Mechanical Engineering_ recognition at ASME IMECE! |
+| **11/16/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) received an NSF sponsored travel award to present/attend ASME IMECE. He was accompanied by labmates [Unmeelan](https://kishanbellur.github.io/people/unmeelanchakrabarti) and [Saaras](https://kishanbellur.github.io/people/saaraspakanati) |
 | **10/20/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) successfully defended his PhD proposal and advanced to PhD candidacy! |
 | **10/14/2025** | [New paper](https://kishanbellur.github.io/files/sarchami_2026.pdf) on pore-scale flow regime tuning with surfactants. Great work by [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami)! |
 | **08/20/2025** | [Unmeelan's](https://kishanbellur.github.io/people/unmeelanchakrabarti) second paper on analysis of ISS experiments is now [available](https://kishanbellur.github.io/publication/chakrabarti_2025a)! |
 | **05/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Oregon State University, Corvallis, OR (host: [Prof. Andy Dong](https://engineering.oregonstate.edu/people/andy-dong)). |
 | **05/13/2025** | We received the 2025 _Gold Star Lab_ Award from the College of Engineering and Applied Science. |
-| **05/07/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for being selected to recieve the [2025 Armstrong Fellowship for Discovery](https://research.uc.edu/armstrong-institute)!|
+| **05/07/2025** | Congratulations to [Saaras](https://kishanbellur.github.io/people/saaraspakanati) for being selected to receive the [2025 Armstrong Fellowship for Discovery](https://research.uc.edu/armstrong-institute)!|
 | **05/01/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Hokkaido University, Japan (host: [Prof. Yutaka Tabe](https://ecs.eng.hokudai.ac.jp)). |
 | **03/12/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) led a team that won 1st place in the ASTFE [Green Energy CFD Competition](https://www.astfe.org/tfec2025/first-annual-astfe-green-energy-cfd-competition/).|
 | **03/11/2025** | [Amirhosein](https://kishanbellur.github.io/people/amirhoseinsarchami) and [Ayaaz](https://kishanbellur.github.io/people/ayaazyasin) presented their work at the [ASTFE conference](https://www.astfe.org/tfec2025/). |
 | **02/17/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Ericsson, Sweden. |
 | **02/11/2025** | [Prof. Bellur](https://kishanbellur.github.io/people/kishanbellur) gave an invited talk at Miami University, Oxford, OH (host: [Prof. Andrew Sommers](https://miamioh.edu/profiles/cec/andrew-sommers.html)) |
-| **[Older Updates](https://kishanbellur.github.io/posts/updates)** | Updates older than one year are archived and can can be found here. |
+| **[Older Updates](https://kishanbellur.github.io/posts/updates)** | Updates older than one year are archived and can be found here. |

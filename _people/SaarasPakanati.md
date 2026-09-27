@@ -2,20 +2,25 @@
 title: "Saaras Pakanati"
 collection: people
 permalink: /people/saaraspakanati
-position: BS Student
+position: BS Alum
 start: 2024
-end: present
+end: 2026
+current: Rice University (PhD)
 order: 6
 author: Saaras Pakanati
 author_profile: true
 [comment]: # excerpt: "<img src='/images/saaraspakanati.jpg' width='150' height='auto'>"
-excerpt: <font size="3"> Computational Fluid Dyanmics, Machine Learning, Data Driven Modeling </font>
+excerpt: <font size="3"> Undergraduate researcher, 2024–2026, with 2 journal publications (1 first-author). Currently a PhD student at Rice University. </font>
 ---
 ### Research Interests
-Computational Fluid Dyanmics, Machine Learning, Data Driven Modeling
+Computational Fluid Dynamics, Machine Learning, Data Driven Modeling
+
+### Current Position
+PhD student, Rice University
 
 ### Education
-* B.S. in Mechanical Engineering, University of Cincinnati, 2021 - Present
+* PhD, Rice University, in progress
+* B.S. in Mechanical Engineering, University of Cincinnati, 2026
 
 ### Experience
 
@@ -28,6 +33,6 @@ Computational Fluid Dyanmics, Machine Learning, Data Driven Modeling
 ### Honors and Awards
 * Merchant, M. Eugene Scholarship, College of Engineering and Applied Sciences, 2026.
 * Annual Scholar: Undergraduate Research, College of Engineering and Applied Sciences, 2025.
-* Armstrong Discovery Fellowship, Armstrong Institute for Space, Technology, and Research, 2025-26.
+* Armstrong Fellowship (awarded twice), Armstrong Institute for Space, Technology, and Research (ASTRO), 2025 and 2025-26.
 * University of Cincinnati CEAS Undergraduate Research Co-Op Fellowship, 2024-2025
 * University of Cincinnati Mathematics Department Calculus Contest - 2nd Position, 2022

@@ -13,7 +13,8 @@ excerpt: <font size="3"> MS Thesis, "Experimental and Numerical Investigation of
 ---
 ### Research
 * Interests: Heat and Mass transfer, Bubbling dynamics, Non-Newtonian fluids, Multiphase CFD 
-* Thesis: "Experimental and Numerical Investigation of Isothermal Bubbling in Shear-thinning Liquids"
+* Thesis: "Experimental and Numerical Investigation of Isothermal Bubbling in Shear-thinning Liquids" (co-advised with Prof. Raj Manglik, defended Spring 2024)
+* Journal papers published: 1
 
 ### Education
 * M.S. in Mechanical Engineering, University of Cincinnati, 2024

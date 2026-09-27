@@ -16,7 +16,7 @@ Website for UCLID (University of Cincinnati Lab for Interfacial Dynamics, PI Kis
 - **`_talks/` and `_publications/` are generated.** Edit `markdown_generator/talks.tsv` / `pubs.bib`, then run `python3 talks.py` / `python3 pubsFromBib.py` from `markdown_generator/`. After changing talks, also run `python3 talkmap.py` from the repo root. Needs `pandas`, `pybtex` (and `getorg` + `geopy` for the talkmap).
 - **People:** [_pages/people.md](_pages/people.md) groups members with `where: "position", "..."` on these exact strings: `Principal Investigator`, `PhD Student`, `MS Student`, `BS Student`, `PhD Alum`, `MS Alum`, `BS Alum`. Any other `position` value leaves the person off the page. Within each group, people are sorted by the `order` front-matter field; anyone without `order` goes last.
 - Top nav: [_data/navigation.yml](_data/navigation.yml).
-- Posts dated in the future don't render (`future: false`). `_posts/2199-01-01-future-post.md` is a theme placeholder.
+- Posts dated in the future don't render (`future: false`).
 
 ## Classroom apps
 

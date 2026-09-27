@@ -5,9 +5,111 @@ type: "Undergraduate/Graduate course"
 permalink: /teaching/CFD
 venue: "University of Cincinnati"
 location: "Cincinnati, OH"
+excerpt: "EGFD 5137/6037, taught every spring and rebuilt from scratch in 2022. Students write their own solvers, then complete an individually scoped, semester-long project run like a real conference cycle (abstract, presentation, paper). Several projects have gone on to conference and journal publications, and one grew into a full thesis."
 ---
 
-Prof. Bellur typically teaches EGFD 5137/6037: Computational Fluid Dynamics (CFD) every Spring semester. This is a cross-listed 3 credit course open to senior undergraduate and graduate students in the College of Engineering and Applied Sciences. The objective of the course is to familiarize students with computational methods to solve thermal-fluid and heat transfer problems. Numerical solutions to 1D equations are implemented using finite difference and validated with analytical solutions. Various discretization techniques, implicit/explicit schemes, stability and error are discussed. Commercial software tools are introduced for 2D/3D applications. Future versions of the course will transition to open source architecture.
+Prof. Bellur teaches EGFD 5137/6037: Computational Fluid Dynamics (CFD) every spring semester. It is a cross-listed, 3-credit course open to senior undergraduate and graduate students in the College of Engineering and Applied Science. When he took over the course in 2022, no prior materials were passed on (not even an old syllabus), so he **built the course from scratch** around three things: numerical methods, custom code development, and industry-standard commercial software. Students rated him **4.8/5** as an instructor in recent offerings.
 
-A pdf of the syllabus is available [here](http://kishanbellur.github.io/files/EGFD5137_6037_Bellur_Spring22.pdf)
+## What students learn
+The course aims to make students *critical users* of simulation tools, not just button-pushers. Students:
+* write their own code to solve ODEs and PDEs in in-class coding exercises, and validate their solutions against analytical results;
+* compare discretization techniques and explicit vs. implicit schemes, and analyze stability, consistency, convergence, and error;
+* use ANSYS Fluent for design, simulation, and analysis of 2D/3D thermal-fluid problems, with an emphasis on mesh independence, verification, and validation;
+* communicate their results the way working engineers and researchers do.
 
+## Semester projects built around each student
+The course is meant to be a **platform for students' own research and career goals**, not a one-size-fits-all assignment. Each student completes an individual, semester-long CFD project that Prof. Bellur develops *with* them:
+
+* **Bring your own research.** Students already doing research are encouraged to use the project to push that work forward, for example by simulating an experiment they are running or testing a design before it is built.
+* **Scoped to fit.** Together we scale each project up or down, adjusting geometry, physics, dimensionality, or turbulence and multiphase modeling, so that it is ambitious but can be finished within one semester.
+* **Suggestions when needed.** Students who don't have a project idea get suggestions from Prof. Bellur based on the jobs they are aiming for or on topics that have excited them in the past.
+
+### Run like a real conference
+The project follows the full cycle of a research publication: students write a **conference-style abstract**, present their work, and submit a **conference-style paper**. Depending on enrollment and student interest, presentations are either an in-class conference session or a **poster session open to the UC community**.
+
+Students are then encouraged to expand their project and submit it to a real conference within a year. Those whose abstracts or papers are accepted are offered **travel funds** to help cover registration. So far, **at least four students** have turned their course projects into conference or journal submissions, and **one built an entire thesis** on work that started in this course.
+
+### A sampling of past projects
+
+**External aerodynamics and wind energy**
+* Wing tip vortex visualization and analysis
+* Airfoil/flap flow interaction
+* Optimizing the design of vortex generators over a cambered wing
+* Effects of wing shape on lifting performance for a bi-wing
+* Airfoil performance at various angles of attack (NACA 0012, 2412, 4412)
+* Verification and validation of a NACA 0012 airfoil against NASA Turbulence Modeling Resource data
+* Aerodynamic performance and dynamic stall of a Darrieus vertical axis wind turbine
+
+**Vehicle and sports aerodynamics**
+* Optimization of drag on a golf ball
+* Drag analysis of a Mazda Miata convertible
+* Aerodynamic effects of a race car spoiler
+* Aerodynamic effects of floor diffuser angles for wheel-driven land speed cars
+* Effect of prism layers on turbulence modeling
+
+**Bluff bodies, vortex shedding, and flow control**
+* Suppression of vortex shedding using a porous coating
+* Flow control using a sweeping jet actuator
+* RANS analysis of a jet in crossflow with steady and pulsating injection
+* Thrust generated by a rotating cylinder
+* Immersed boundary method analysis of a rotating geometry
+* Steady laminar flow around a wedge
+* Supercavitating flow around a cylinder
+
+**High-speed flows, propulsion, and combustion**
+* Cavity flow with an impinging jet
+* Turbulence in a scramjet
+* Ethylene–air mixing over a cavity flameholder in supersonic flow
+* Bluff body flameholder simulation
+* Injection and mixing in a flow-through rotating detonation combustor
+* Impact of bleed flows on ramjet intake performance
+* Flow structure transport through a shape-transitioning nozzle
+* RANS modeling of canonical compressible planar shear layer mixing
+* Hypersonic model of the X-59 aircraft
+* Supersonic wind tunnel design
+* Test-section flow and boundary layers in UC's supersonic wind tunnel
+
+**Heat transfer and thermal management**
+* Shell-and-tube heat exchanger analysis
+* Enhanced forced convection in slotted wavy plate fin cores
+* Heat transfer and flow friction in a circular tube with conical-nozzle turbulators
+* Heat transfer and pressure drop in a rib-roughened narrow channel
+* Conjugate heat transfer in a rectangular channel with wall protrusions
+* Turbulent air flow with heat transfer through a 2D horizontal pipe
+* Thermal management of a battery pack
+* Fan placement and its impact on CPU cooling
+* Optimization of fins in a PCM heat exchanger
+* Waste heat recovery in an industrial coffee roaster
+* Simulation of an experimental PVT solar panel using ICEM-CFD (structured meshing) and CFX
+
+**Multiphase flow, phase change, and interfacial phenomena**
+* Prediction of regimes in horizontal flow condensation
+* Solidification of a water droplet
+* Modeling of thin film evaporation
+* Solving the evaporating thin film equation using a Crank–Nicolson scheme
+* Numerical simulation of surface evaporation
+* Liquid–vapor interface modeling
+* Development of a porous transport model
+* Optimal rotational speed of a centrifugal nozzle for water vapor deposition from an agricultural drone
+
+**Space and planetary applications**
+* Marangoni flow modeling of ISS experiments
+* Heat loss of a well on the surface of Mars
+* Mars water-based ISRU (in-situ resource utilization) architecture
+
+**Biomedical and environmental flows**
+* Blood flow through bifurcated arteries
+* Cerebral hemodynamics in sickle cell disease patients under observation and blood transfusion therapy
+* Recirculation in Y-shaped channels
+* Flow dynamics in a coagulation, flocculation, and sedimentation test system
+* RANS simulation of flow over the University of Cincinnati campus
+
+**Numerical methods**
+* Embedded Runge–Kutta methods in ODE solvers for adaptive step sizing
+
+## Tools that make lectures responsive
+**[LecturePulse](/lecturepulse/)** is an anonymous, real-time comprehension check that Prof. Bellur built for his courses. Using a link or QR code, students tap green, yellow, or red during lecture. The instructor's [live dashboard](/lecturepulse-admin/) shows the room's status and raises an alert when more than 20% of responses are red, so a confusing derivation can be revisited while it is still on the board.
+
+**[SAM (Student Assistant Model)](/sam/)** is an AI study companion that answers only from the instructor's own uploaded lectures. It cites the lecture it draws from and says so when a topic hasn't been covered. SAM is currently being piloted in [Thermodynamics](/teaching/thermodynamics) and was designed to extend to courses like this one.
+
+An older version of the syllabus is available [here](http://kishanbellur.github.io/files/EGFD5137_6037_Bellur_Spring22.pdf).

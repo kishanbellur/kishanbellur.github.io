@@ -18,6 +18,9 @@ main:
         
   - title: "Posts & Updates"
     url: /year-archive/
+
+  - title: "Industry"
+    url: /industry/
     
 #  - title: "Guide"
 #    url: /markdown/
