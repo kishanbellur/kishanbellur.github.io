@@ -1,7 +1,8 @@
 import { withCors, preflightResponse } from "./cors.js";
 import { verifyAdminToken, verifyClassCode } from "./auth.js";
 import { selectRelevantLectures } from "./relevance.js";
-import { askGemini } from "./gemini.js";
+import { askGemini, GeminiError } from "./gemini.js";
+import { logUsage, getUsageSummary } from "./usage.js";
 
 function json(data, status = 200) {
   return new Response(JSON.stringify(data), {
@@ -40,12 +41,29 @@ async function handleAsk(request, env) {
 
   const relevant = selectRelevantLectures(question, results);
 
+  const startedAt = Date.now();
+  const lectureIds = relevant.map((l) => l.id);
+
   try {
-    const answer = await askGemini({ question, lectures: relevant, env });
-    return json({ answer });
+    const result = await askGemini({ question, lectures: relevant, env });
+    await logUsage(env, { ok: true, ...result, latencyMs: Date.now() - startedAt, lectureIds });
+    return json({ answer: result.answer });
   } catch (error) {
-    console.error("Gemini call failed:", error);
-    return json({ error: "The study assistant is temporarily unavailable. Please try again in a minute." }, 502);
+    await logUsage(env, {
+      ok: false,
+      model: error.model,
+      errorStatus: error instanceof GeminiError ? error.status : null,
+      latencyMs: Date.now() - startedAt,
+      lectureIds,
+    });
+    // Log as a plain string: Cloudflare drops the message when given an Error object.
+    console.error(`Gemini call failed: ${error.message}`);
+    const busy = error instanceof GeminiError && [429, 503].includes(error.status);
+    return json({
+      error: busy
+        ? "SAM is getting a lot of questions right now. Please try again in a minute."
+        : "The study assistant is temporarily unavailable. Please try again in a minute.",
+    }, 502);
   }
 }
 
@@ -106,6 +124,17 @@ async function handleDeleteLecture(request, env, id) {
   return json({ ok: true });
 }
 
+async function handleUsage(request, env) {
+  const auth = await verifyAdminToken(request, env);
+  if (!auth.ok) {
+    return json({ error: auth.message }, auth.status);
+  }
+
+  const requested = parseInt(new URL(request.url).searchParams.get("days"), 10);
+  const days = Number.isFinite(requested) ? Math.min(Math.max(requested, 1), 365) : 30;
+  return json(await getUsageSummary(env, days));
+}
+
 export default {
   async fetch(request, env) {
     if (request.method === "OPTIONS") {
@@ -121,6 +150,8 @@ export default {
         response = await handleAsk(request, env);
       } else if (request.method === "POST" && url.pathname === "/api/ingest") {
         response = await handleIngest(request, env);
+      } else if (request.method === "GET" && url.pathname === "/api/usage") {
+        response = await handleUsage(request, env);
       } else if (request.method === "GET" && url.pathname === "/api/lectures") {
         response = await handleListLectures(request, env);
       } else {

@@ -65,12 +65,22 @@ copy it from the browser devtools/network tab if you want to test via curl).
 ## Notes
 
 - Model is set via the `GEMINI_MODEL` var in `wrangler.toml` (default
-  `gemini-3.5-flash`, 15 req/min & 1,500 req/day free as of Aug 2026 — Google
+  `gemini-3.8-flash`, 15 req/min & 1,500 req/day free as of Aug 2026 — Google
   retires old model IDs for new API keys periodically, so if you see a 404
   telling you a model "is no longer available to new users," check
   https://ai.google.dev/gemini-api/docs/pricing for the current free-tier
   Flash model name and update this var). Switch to `gemini-3.5-flash-lite`
   (higher req/min) if the class hits rate limits.
+- `GEMINI_FALLBACK_MODEL` is tried automatically when the main model returns
+  429/500/503 (e.g. "high demand"). Keep it set to a different, currently
+  available model.
+- **Usage tracking:** every `/api/ask` writes one row to the `usage_log` table
+  (time, model, tokens, latency, error status, matched lecture IDs). It never
+  stores question text or student identities. The `/sam-admin/` page shows the
+  summary via the admin-only `GET /api/usage?days=30`. After pulling this
+  change, create the table once with the `--remote` schema command above
+  (safe to re-run; it only creates what's missing). Logging failures are
+  swallowed so they can't break an answer.
 - No embeddings/vector DB — `src/relevance.js` does a cheap keyword-overlap
   filter so prompt size (and therefore token cost) stays roughly flat as more
   lectures are added over the semester, instead of growing unbounded.

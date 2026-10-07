@@ -31,9 +31,19 @@ ${corpus}
 --- LECTURE CONTENT END ---`;
 }
 
+export class GeminiError extends Error {
+  constructor(status, detail, model) {
+    super(`Gemini API error ${status}: ${detail}`);
+    this.status = status;
+    this.model = model;
+  }
+}
+
 export async function askGemini({ question, lectures, env }) {
-  const model = env.GEMINI_MODEL || "gemini-2.5-flash";
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${env.GEMINI_API_KEY}`;
+  const primary = env.GEMINI_MODEL || "gemini-3.8-flash";
+  const fallback = env.GEMINI_FALLBACK_MODEL;
+  // Try the main model first; if Google says it's overloaded or rate-limited, try the fallback.
+  const models = fallback && fallback !== primary ? [primary, fallback] : [primary, primary];
 
   const body = {
     systemInstruction: {
@@ -47,15 +57,33 @@ export async function askGemini({ question, lectures, env }) {
     ],
   };
 
-  const response = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  });
+  let response;
+  let usedIndex = 0;
+  for (let i = 0; i < models.length; i++) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${models[i]}:generateContent?key=${env.GEMINI_API_KEY}`;
+    const last = i === models.length - 1;
+    usedIndex = i;
+    try {
+      response = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+        // Give up on the first model quickly so the fallback has time to answer.
+        signal: AbortSignal.timeout(last ? 25000 : 10000),
+      });
+    } catch (err) {
+      if (last) throw new GeminiError(0, `${models[i]} request failed or timed out: ${err.message}`, models[i]);
+      console.warn(`${models[i]} timed out or failed (${err.message}), trying ${models[i + 1]}`);
+      continue;
+    }
+    if (response.ok || ![429, 500, 503].includes(response.status) || last) break;
+    console.warn(`${models[i]} returned ${response.status}, trying ${models[i + 1]}`);
+    await new Promise((r) => setTimeout(r, 1000));
+  }
 
   if (!response.ok) {
     const errorText = await response.text();
-    throw new Error(`Gemini API error ${response.status}: ${errorText}`);
+    throw new GeminiError(response.status, errorText, models[usedIndex]);
   }
 
   const data = await response.json();
@@ -65,5 +93,11 @@ export async function askGemini({ question, lectures, env }) {
     throw new Error("Gemini API returned an empty answer.");
   }
 
-  return answer;
+  return {
+    answer,
+    model: models[usedIndex],
+    fallbackUsed: usedIndex > 0,
+    promptTokens: data?.usageMetadata?.promptTokenCount ?? null,
+    outputTokens: data?.usageMetadata?.candidatesTokenCount ?? null,
+  };
 }
