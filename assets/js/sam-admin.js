@@ -26,6 +26,9 @@ const extractWarning = document.getElementById("sb-extract-warning");
 const uploadButton = document.getElementById("sb-upload-button");
 const uploadMessage = document.getElementById("sb-upload-message");
 const lectureList = document.getElementById("sb-lecture-list");
+const usageDays = document.getElementById("sb-usage-days");
+const usageStats = document.getElementById("sb-usage-stats");
+const usageDetails = document.getElementById("sb-usage-details");
 
 let currentUser = null;
 let selectedFile = null;
@@ -51,6 +54,7 @@ function showSignedIn(user) {
   adminApp.classList.remove("sb-admin-app--locked");
   adminEmailEl.textContent = user.email;
   loadLectureList();
+  loadUsage();
 }
 
 async function handleAuthStateChanged(user) {
@@ -200,7 +204,98 @@ async function loadLectureList() {
   }
 }
 
+function usageTable(headers, rows) {
+  const table = document.createElement("table");
+  table.className = "sb-usage-table";
+  const head = table.createTHead().insertRow();
+  headers.forEach((h) => {
+    const th = document.createElement("th");
+    th.textContent = h;
+    head.appendChild(th);
+  });
+  const body = table.createTBody();
+  rows.forEach((cells) => {
+    const tr = body.insertRow();
+    cells.forEach((c) => {
+      tr.insertCell().textContent = c;
+    });
+  });
+  return table;
+}
+
+function usageHeading(text) {
+  const h = document.createElement("h3");
+  h.textContent = text;
+  return h;
+}
+
+async function loadUsage() {
+  if (!currentUser) return;
+
+  usageStats.textContent = "Loading…";
+  usageDetails.textContent = "";
+
+  try {
+    const idToken = await currentUser.getIdToken();
+    const response = await fetch(`${apiBase}/api/usage?days=${usageDays.value}`, {
+      headers: { Authorization: `Bearer ${idToken}` },
+    });
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.error || "request failed");
+
+    const t = data.totals || {};
+    const questions = t.questions || 0;
+    const stats = [
+      [questions, "questions"],
+      [questions ? Math.round(((t.answered || 0) / questions) * 100) + "%" : "–", "answered"],
+      [t.fallbacks || 0, "used backup model"],
+      [((t.prompt_tokens || 0) + (t.output_tokens || 0)).toLocaleString(), "tokens"],
+      [t.avg_latency_ms ? (t.avg_latency_ms / 1000).toFixed(1) + "s" : "–", "avg response"],
+    ];
+    usageStats.textContent = "";
+    stats.forEach(([value, label]) => {
+      const box = document.createElement("div");
+      box.className = "sb-usage-stat";
+      const strong = document.createElement("strong");
+      strong.textContent = value;
+      const span = document.createElement("span");
+      span.textContent = label;
+      box.append(strong, span);
+      usageStats.appendChild(box);
+    });
+
+    if (!questions) {
+      usageDetails.textContent = "No questions in this period yet.";
+      return;
+    }
+
+    usageDetails.append(
+      usageHeading("By day"),
+      usageTable(["Day", "Questions", "Errors"], data.daily.map((d) => [d.day, d.questions, d.errors || 0]))
+    );
+    if (data.errors.length) {
+      usageDetails.append(
+        usageHeading("Errors"),
+        usageTable(["Status", "Count"], data.errors.map((e) => [e.error_status ?? "unknown", e.count]))
+      );
+    }
+    if (data.topLectures.length) {
+      usageDetails.append(
+        usageHeading("Most used lectures"),
+        usageTable(
+          ["Lecture", "Times used"],
+          data.topLectures.map((l) => [`${l.lecture_date} — ${l.lecture_title}`, l.times_used])
+        )
+      );
+    }
+  } catch (error) {
+    usageStats.textContent = "";
+    usageDetails.textContent = "Couldn't load usage: " + error.message;
+  }
+}
+
 function attachListeners() {
+  usageDays.addEventListener("change", loadUsage);
   signinButton.addEventListener("click", signIn);
   signoutButton.addEventListener("click", signOut);
   pdfInput.addEventListener("change", onPdfSelected);

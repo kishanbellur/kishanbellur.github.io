@@ -43,6 +43,20 @@ author_profile: false
   </div>
 
   <div class="sb-card">
+    <div class="sb-admin-header">
+      <h2>Usage</h2>
+      <select id="sb-usage-days" class="sb-input sb-usage-days" aria-label="Usage period">
+        <option value="7">Last 7 days</option>
+        <option value="30" selected>Last 30 days</option>
+        <option value="120">Last 120 days</option>
+      </select>
+    </div>
+    <p class="sb-subtitle">Counts only. Question text and student identities are not recorded.</p>
+    <div id="sb-usage-stats" class="sb-usage-stats"></div>
+    <div id="sb-usage-details"></div>
+  </div>
+
+  <div class="sb-card">
     <h2>Already ingested</h2>
     <ul id="sb-lecture-list" class="sb-lecture-list"></ul>
   </div>
@@ -152,6 +166,48 @@ author_profile: false
     justify-content: space-between;
     gap: 1rem;
     padding: 0.6rem 0;
+    border-bottom: 1px solid #eef2f6;
+  }
+
+  .sb-usage-days {
+    width: auto;
+    padding: 0.4rem 0.6rem;
+  }
+
+  .sb-usage-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 0.75rem;
+    margin: 0.75rem 0;
+  }
+
+  .sb-usage-stat {
+    background: #f3f6f9;
+    border-radius: 10px;
+    padding: 0.75rem;
+  }
+
+  .sb-usage-stat strong {
+    display: block;
+    font-size: 1.4rem;
+  }
+
+  .sb-usage-stat span {
+    color: #4b5563;
+    font-size: 0.85rem;
+  }
+
+  .sb-usage-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5rem 0 1rem;
+    font-size: 0.9rem;
+  }
+
+  .sb-usage-table th,
+  .sb-usage-table td {
+    text-align: left;
+    padding: 0.35rem 0.5rem;
     border-bottom: 1px solid #eef2f6;
   }
 
